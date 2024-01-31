@@ -1,3 +1,5 @@
+<!--lint ignore awesome-list-item-->
+
 # Awesome Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Lint](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml/badge.svg)](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml)
 
 > A curated list of resources on software documentation tools, standards, and best practices.
