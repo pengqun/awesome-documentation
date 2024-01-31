@@ -18,7 +18,7 @@ This list aims to assist by providing you with practical tools to maximize effic
 
 ## Architecture
 
-> _“Architecture is about the important stuff. Whatever that is."  — Ralph Johnson_
+> _"Architecture is about the important stuff. Whatever that is."  — Ralph Johnson_
 
 ### Templates
 
@@ -32,8 +32,6 @@ This list aims to assist by providing you with practical tools to maximize effic
 
 - [\[Chinese\] Architecture Diagramming: Tools and Methodologies \(架构制图 - 工具与方法论\)](https://developer.aliyun.com/article/774446) - The article discusses the benefits of using diagrams in architecture design, and highlights some standards and best practices, including UML,  C4, and arc42.
 
-[**⬆ back to top**](#contents)
-
 ## README
 
 ### Templates
@@ -44,15 +42,11 @@ This list aims to assist by providing you with practical tools to maximize effic
 
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme#readme) - A curated list of awesome READMEs, including **examples**, **articles** and **tools**.
 
-[**⬆ back to top**](#contents)
-
 ## Universal
 
 ### Diagramming
 
 - [draw.io](https://github.com/jgraph/drawio) (Open Source) - A JavaScript, client-side editor for general diagramming.
-
-[**⬆ back to top**](#contents)
 
 ## Contributing
 
