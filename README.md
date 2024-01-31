@@ -13,11 +13,20 @@ This list aims to assist by providing you with practical tools to maximize effic
 ## Contents
 
 - [Architecture](#architecture)
+  - [Templates](#templates)
+  - [Diagramming](#diagramming)
+  - [Articles](#articles)
 - [API](#api)
+  - [OpenAPI](#openapi)
+  - [AsyncAPI](#asyncapi)
+  - [RAML](#raml)
 - [README](#readme)
+  - [Templates](#templates-1)
+  - [Other Resources](#other-resources)
 - [Wiki](#wiki)
+  - [GitHub Wiki](#github-wiki)
 - [Universal](#universal)
-- [Contributing](#contributing)
+  - [Diagramming](#diagramming-1)
 
 ## Architecture
 
@@ -33,7 +42,7 @@ This list aims to assist by providing you with practical tools to maximize effic
 
 ### Articles
 
-- [\[Chinese\] Architecture Diagramming: Tools and Methodologies \(架构制图 - 工具与方法论\)](https://developer.aliyun.com/article/774446) - The article discusses the benefits of using diagrams in architecture design, and highlights some standards and best practices, including UML,  C4, and arc42.
+- [\[Chinese\] Architecture Diagramming: Tools and Methodologies \(架构制图 - 工具与方法论\)](https://developer.aliyun.com/article/774446) - The article discusses the benefits of using diagrams in architecture design, and highlights some standards and best practices, including UML, C4, and arc42.
 
 ## API
 
@@ -44,15 +53,15 @@ API is the univesal language of the software world, which needs to be document w
 The [OpenAPI Specification]((https://swagger.io/specification/)) (OAS) defines a standard, language-agnostic interface to HTTP APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection.
 
 - Tools (Open Source)
-  - [Swagger UI](https://github.com/swagger-api/swagger-ui) - Dynamically **generate beautiful documentation** from a Swagger-compliant API
+  - [Swagger UI](https://github.com/swagger-api/swagger-ui) - Dynamically **generate beautiful documentation** from a Swagger-compliant API.
   - [Swagger Editor](https://github.com/swagger-api/swagger-editor) - Edit OpenAPI API definition in JSON or YAML format inside your browser and to **preview documentations in real time**.
 
 - Examples
-  - [Swagger Petstore](https://petstore3.swagger.io/) - a sample Pet Store Server based on the OpenAPI 3.0 specification. 
+  - [Swagger Petstore](https://petstore3.swagger.io/) - A sample Pet Store Server based on the OpenAPI 3.0 specification.
 
 ### AsyncAPI
 
-The [AsyncAPI Specification](https://www.asyncapi.com/docs/reference/specification/v3.0.0) is a project used to describe message-driven APIs in a machine-readable format. It’s protocol-agnostic, so you can use it for APIs that work over any protocol (e.g., AMQP, MQTT, WebSockets, Kafka, STOMP, HTTP, Mercure, etc).
+The [AsyncAPI Specification](https://www.asyncapi.com/docs/reference/specification/v3.0.0) is a project used to describe message-driven APIs in a machine-readable format. It's protocol-agnostic, so you can use it for APIs that work over any protocol (e.g., AMQP, MQTT, WebSockets, Kafka, STOMP, HTTP, Mercure, etc).
 
 - Tools (Open Source)
   - [Async API Generator](https://github.com/asyncapi/generator) - Use AsyncAPI definition to generate literally anything, including **Markdown documentation** and **HTML documentation**.
