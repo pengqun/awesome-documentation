@@ -34,6 +34,8 @@ This list aims to assist by providing you with practical tools to maximize effic
 
 ## README
 
+A README document is like a map for a treasure hunt; without it, you're just digging around in the code hoping to strike gold.
+
 ### Templates
 
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects.
@@ -41,6 +43,14 @@ This list aims to assist by providing you with practical tools to maximize effic
 ### Other Resources
 
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme#readme) - A curated list of awesome READMEs, including **examples**, **articles** and **tools**.
+
+## Wiki
+
+A wiki can be used to create a centralized and collaborative knowledge base for a project.
+
+### GitHub Wiki
+
+- [MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) - A curated list of awesome GitHub Wikis, including examples, tips and tricks.
 
 ## Universal
 
