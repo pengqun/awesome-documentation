@@ -11,7 +11,7 @@ This list aims to assist by providing you with practical tools to maximize effic
 ## Contents
 
 - [Templates][3]
-- [Diagramming ][4]
+- [Diagramming][4]
 
 ## Templates
 
@@ -35,7 +35,7 @@ Please feel invited to do any [contribution][7].
 [4]:	#diagramming
 [5]:	https://arc42.org/
 [6]:	https://c4model.com
-[7]:	#contributing
+[7]:	CONTRIBUTING.md
 
 [image-1]:	https://awesome.re/badge.svg
 [image-2]:	https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml/badge.svg
