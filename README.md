@@ -1,4 +1,4 @@
-<!--lint ignore awesome-list-item-->
+<!--lint ignore awesome-git-repo-age-->
 
 # Awesome Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Lint](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml/badge.svg)](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml)
 
@@ -12,21 +12,33 @@ This list aims to assist by providing you with practical tools to maximize effic
 
 ## Contents
 
-- [Templates](#templates)
-- [Diagramming](#diagramming)
+- [Architecture](#architecture)
+- [README](#readme)
+- [Universal](#universal)
 
-## Templates
+## Architecture
 
-Out-of box document templates to build awesome documents quickly.
+Software architecture and its documentation are essential for defining a system's structure, facilitating clear communication among stakeholders, and guiding the development process for efficient and effective project outcomes.
 
-- [arc42](https://arc42.org/) - Proven, **practical and pragmatic** template for documentation and communication of software and system architectures.
-- README
+- ** Templates**
+	- [arc42](https://arc42.org/) - Proven, **practical and pragmatic** template for documentation and communication of software and system architectures.
+- **Diagramming**
+	- [C4 model](https://c4model.com) - The C4 model for visualizing software architecture using **Context**, **Containers**, **Components**, and **Code**.
+- **Articles**
+	- [\[Chinese] Architecture Diagramming: Tools and Methodologies ( 架构制图 - 工具与方法论)](https://developer.aliyun.com/article/774446) - The article discusses the benefits of using diagrams in architecture design, and highlights some standards and best practices, including UML,  C4, and arc42.
 
-## Diagramming
+## README
 
-A diagram is worth a thousand words.
+- **Templates**
+	- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects.
+- **More Awesome**
+	- [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme#readme) - A curated list of awesome READMEs, including **examples**, **articles** and **tools**.
 
-- [C4 model](https://c4model.com) - The C4 model for visualizing software architecture using **Context**, **Containers**, **Components**, and **Code**.
+## Universal
+
+- **Diagramming**
+	- [draw.io](https://github.com/jgraph/drawio) (Open Source) - A JavaScript, client-side editor for general diagramming.
+
 
 ## Contributing
 
