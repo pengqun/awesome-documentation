@@ -17,14 +17,14 @@ This list aims to assist by providing you with practical tools to maximize effic
 
 Out-of box document templates to build awesome documents quickly.
 
-- [**arc42**](https://arc42.org/) - Proven, **practical and pragmatic** template for documentation and communication of software and system architectures.
+- [arc42](https://arc42.org/) - Proven, **practical and pragmatic** template for documentation and communication of software and system architectures.
 - README
 
 ## Diagramming
 
 A diagram is worth a thousand words.
 
-- [**C4 model**](https://c4model.com) - The C4 model for visualizing software architecture using **Context**, **Containers**, **Components**, and **Code**.
+- [C4 model](https://c4model.com) - The C4 model for visualizing software architecture using **Context**, **Containers**, **Components**, and **Code**.
 
 ## Contributing
 
