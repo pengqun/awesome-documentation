@@ -97,55 +97,73 @@ Answers frequently asked questions to quickly resolve common issues or clarify t
 
 API is the univesal language of the software world, which needs to be documented well.
 
-- [OpenAPI](https://swagger.io/specification/)
-  - [Swagger UI](https://github.com/swagger-api/swagger-ui) - Dynamically generate beautiful documentation from a Swagger-compliant API.
-  - [Swagger Petstore](https://petstore3.swagger.io/) - A sample Pet Store Server based on the OpenAPI 3.0 specification.
+#### OpenAPI
 
-- [AsyncAPI](https://www.asyncapi.com/docs/reference/specification/v3.0.0)
-  - [Async API Generator](https://github.com/asyncapi/generator) - Use AsyncAPI definition to generate literally anything, including Markdown documentation and HTML documentation.
-  - [AsyncAPI React Component](https://github.com/asyncapi/asyncapi-react) - Rendering documentation from your specification in real-time in the browser.
-  - [Petstore Kafka](https://github.com/swagger-api/petstore-kafka?tab=readme-ov-file#openapi-and-asyncapi) - A functional example for describing with AsyncAPI and OpenAPI.
+[OpenAPI Specification](https://swagger.io/specification/) defines a standard, language-agnostic interface to HTTP APIs. An OpenAPI definition can then be used by documentation generation tools to display the API.
 
-- [RAML](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/)
-  - [API Console](https://github.com/mulesoft/api-console) - An interactive REST console based on RAML/OAS files.
-  - [RAML to HTML](https://github.com/raml2html/raml2html) - A simple RAML to HTML documentation generator, written for Node.js, with theme support.
-  - [World Music API](https://rawgit.com/raml2html/default-theme/master/examples/world-music-api.html) - A live example using RAML to HTML documentation generator.
+- [Swagger UI](https://github.com/swagger-api/swagger-ui) - Dynamically generate beautiful documentation from a Swagger-compliant API.
+- [Swagger Petstore](https://petstore3.swagger.io/) - A sample Pet Store Server based on the OpenAPI 3.0 specification.
 
-- Common API Documentation
-  - [API Reference template](https://gitlab.com/tgdp/templates/-/blob/main/api-reference/template-api-reference.md) - Open-source template provided by The Good Docs Project.
-  - [Slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
+#### AsyncAPI
+
+[AsyncAPI Specification](https://www.asyncapi.com/docs/reference/specification/v3.0.0) is a project used to describe message-driven APIs in a machine-readable format, which can also be used to generate API documents.
+
+- [Async API Generator](https://github.com/asyncapi/generator) - Use AsyncAPI definition to generate literally anything, including Markdown documentation and HTML documentation.
+- [AsyncAPI React Component](https://github.com/asyncapi/asyncapi-react) - Rendering documentation from your specification in real-time in the browser.
+- [Petstore Kafka](https://github.com/swagger-api/petstore-kafka?tab=readme-ov-file#openapi-and-asyncapi) - A functional example for describing with AsyncAPI and OpenAPI.
+
+#### RAML
+
+[RAML Specification](https://github.com/raml-org/raml-spec/blob/master/versions/raml-10/raml-10.md/) provides mechanisms for defining practically-RESTful APIs, creating client/server source code, and comprehensively documenting the APIs for users.
+
+- [API Console](https://github.com/mulesoft/api-console) - An interactive REST console based on RAML/OAS files.
+- [RAML to HTML](https://github.com/raml2html/raml2html) - A simple RAML to HTML documentation generator, written for Node.js, with theme support.
+- [World Music API](https://rawgit.com/raml2html/default-theme/master/examples/world-music-api.html) - A live example using RAML to HTML documentation generator.
+
+#### General
+
+- [API Reference template](https://gitlab.com/tgdp/templates/-/blob/main/api-reference/template-api-reference.md) - Open-source template provided by The Good Docs Project.
+- [Slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
 
 ### Code Documentation
 
-- README
-  - [Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects.
-  - [Awesome README](https://github.com/matiassingers/awesome-readme#readme) - A curated list of awesome READMEs, including **examples**, **articles** and **tools**.
-  - [README template](https://gitlab.com/tgdp/templates/-/blob/main/readme/template-readme.md) - Open-source template provided by The Good Docs Project.
+#### README
 
-- Comments
+- [Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects.
+- [Awesome README](https://github.com/matiassingers/awesome-readme#readme) - A curated list of awesome READMEs, including **examples**, **articles** and **tools**.
+- [README template](https://gitlab.com/tgdp/templates/-/blob/main/readme/template-readme.md) - Open-source template provided by The Good Docs Project.
 
-- Error Messages
-  - [101 to 404s: How to write great error messages](https://www.writethedocs.org/videos/prague/2019/101-to-404s-how-to-write-great-error-messages-james-scott/) - Even the shortest error message can evoke far stronger, negative emotions in your end users than the majority of your documentation.
+#### Comments
 
-- Collaboration
-  - [CONTRIBUTING template](https://gitlab.com/tgdp/templates/-/blob/main/contributing-guide/template-contributing-guide.md) - Open-source template provided by The Good Docs Project.
-  - [Code Of Conduct template](https://gitlab.com/tgdp/templates/-/tree/main/code-of-conduct) - Open-source template provided by The Good Docs Project.
-  - [Style guide template](https://gitlab.com/tgdp/templates/-/blob/main/style-guide/template-style-guide.md) - Open-source template provided by The Good Docs Project.
+#### Error Messages
 
-- Language-specific
+- [101 to 404s: How to write great error messages](https://www.writethedocs.org/videos/prague/2019/101-to-404s-how-to-write-great-error-messages-james-scott/) - Even the shortest error message can evoke far stronger, negative emotions in your end users than the majority of your documentation.
+
+#### Collaboration
+
+- [CONTRIBUTING template](https://gitlab.com/tgdp/templates/-/blob/main/contributing-guide/template-contributing-guide.md) - Open-source template provided by The Good Docs Project.
+- [Code Of Conduct template](https://gitlab.com/tgdp/templates/-/tree/main/code-of-conduct) - Open-source template provided by The Good Docs Project.
+- [Style guide template](https://gitlab.com/tgdp/templates/-/blob/main/style-guide/template-style-guide.md) - Open-source template provided by The Good Docs Project.
+
+#### Language-specific
+
+- Java
+  - JavaDoc
+- Kotlin
+  - Dokka
+- Rust
+- Ruby
   - [TomDoc for Ruby](http://tomdoc.org/) - A code documentation specification that helps you write precise documentation that is nice to read in plain text, yet structured enough to be automatically extracted and processed by a machine.
-  - YAML
+- YAML
 
 ### Test Documentation
 
 - Test Plans
-
 - Test Cases
-
 - Test Report
-  - [Bug report template](https://gitlab.com/tgdp/templates/-/blob/main/bug-report/template-bug-report.md) - Open-source template provided by The Good Docs Project.
-  - Coverage
-  - Performance
+- [Bug report template](https://gitlab.com/tgdp/templates/-/blob/main/bug-report/template-bug-report.md) - Open-source template provided by The Good Docs Project.
+- Coverage
+- Performance
 
 ### Other Types
 
