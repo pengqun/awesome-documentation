@@ -40,30 +40,31 @@ This list aims to assist by providing you with practical tools to maximize effic
 
 Step-by-step instructions to teach users how to use or implement the subject or tool.
 
-- [Tutorial | The Documentation System](https://documentation.divio.com/tutorials.html)
-- [Tutorial template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/tutorial/template-tutorial.md)
+- [Tutorial](https://documentation.divio.com/tutorials.html) - Lean how to write good tutorials from The Documentation System.
+- [Tutorial template](https://gitlab.com/tgdp/templates/-/blob/main/tutorial/template-tutorial.md) - Open-source template provided by The Good Docs Project.
 - [Writing a perfect technical tutorial](https://www.writethedocs.org/videos/portland/2021/writing-a-perfect-technical-tutorial-jessica-garson/) - How to start creating tutorials, gather feedback, and the next steps once the tutorial is published.
 
 #### Reference
 
 Provides detailed information and specifications for all features and functionalities.
 
-- [Reference guides | The Documentation System](https://documentation.divio.com/reference.html)
-- [Reference template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/reference/template-reference.md)
+- [Reference guides](https://documentation.divio.com/reference.html) - Lean how to write good reference guides from The Documentation System.
+- [Reference template](https://gitlab.com/tgdp/templates/-/blob/main/reference/template-reference.md) - Open-source template provided by The Good Docs Project.
 - [SDK Reference Manuals: A flow-based approach](https://www.writethedocs.org/videos/portland/2019/sdk-reference-manuals-a-flow-based-approach-chris-bush/) - Give users of SDK reference docs a quick, enjoyable, user-oriented experience.
 
 #### How-to
 
-- Offers practical steps to accomplish specific tasks or solve common problems.
-- [How-to guides | The Documentation System](https://documentation.divio.com/how-to-guides.html)
-- [How-to template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/how-to/template-how-to.md)
+Offers practical steps to accomplish specific tasks or solve common problems.
+
+- [How-to guides](https://documentation.divio.com/how-to-guides.html) - Learn how to write good how-to guides from The Documentation System.
+- [How-to template](https://gitlab.com/tgdp/templates/-/blob/main/how-to/template-how-to.md) - Open-source template provided by The Good Docs Project.
 
 #### Conecpt
 
 Explains the fundamental ideas and theories behind the topic.
 
-- [Concept template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/concept/template-concept.md)
-- [Explanation | The Documentation System](https://documentation.divio.com/explanation.html)
+- [Concept template](https://gitlab.com/tgdp/templates/-/blob/main/concept/template-concept.md) - Open-source template provided by The Good Docs Project.
+- [Explanation](https://documentation.divio.com/explanation.html) - Learn how to write a good explanation from The Documentation System.
 
 #### FAQ
 
@@ -73,11 +74,11 @@ Answers frequently asked questions to quickly resolve common issues or clarify t
 
 #### Others
 
-- [Installation template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/installation-guide/template-installation-guide.md)
-- [Troubleshooting template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/tree/main/troubleshooting)
-- [Terminology system guide template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/terminology-system/guide-terminology-system.md)
+- [Installation template](https://gitlab.com/tgdp/templates/-/blob/main/installation-guide/template-installation-guide.md) - Open-source template provided by The Good Docs Project.
+- [Troubleshooting template](https://gitlab.com/tgdp/templates/-/tree/main/troubleshooting) - Open-source template provided by The Good Docs Project.
+- [Terminology system guide template](https://gitlab.com/tgdp/templates/-/blob/main/terminology-system/guide-terminology-system.md) - Open-source template provided by The Good Docs Project.
+- [Release Notes template](https://gitlab.com/tgdp/templates/-/blob/main/release-notes/template-release-notes.md) - Open-source template provided by The Good Docs Project.
 - [The Power of Empathy in Support Documentation: A 5-Step Guide](https://www.writethedocs.org/videos/prague/2019/the-power-of-empathy-in-support-documentation-a-5-step-guide-plamena-maleva/) - Apply empathy and iteration to customer support documentation projects.
-- [Release Notes template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/release-notes/template-release-notes.md)
 - In-App Documentation - Wizards, tooltips, etc.
 
 ### Architectural Documentation
@@ -111,7 +112,7 @@ API is the univesal language of the software world, which needs to be documented
   - [World Music API](https://rawgit.com/raml2html/default-theme/master/examples/world-music-api.html) - A live example using RAML to HTML documentation generator.
 
 - Common API Documentation
-  - [API Reference template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/api-reference/template-api-reference.md)
+  - [API Reference template](https://gitlab.com/tgdp/templates/-/blob/main/api-reference/template-api-reference.md) - Open-source template provided by The Good Docs Project.
   - [Slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
 
 ### Code Documentation
@@ -119,7 +120,7 @@ API is the univesal language of the software world, which needs to be documented
 - README
   - [Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects.
   - [Awesome README](https://github.com/matiassingers/awesome-readme#readme) - A curated list of awesome READMEs, including **examples**, **articles** and **tools**.
-  - [README template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/readme/template-readme.md)
+  - [README template](https://gitlab.com/tgdp/templates/-/blob/main/readme/template-readme.md) - Open-source template provided by The Good Docs Project.
 
 - Comments
 
@@ -127,9 +128,9 @@ API is the univesal language of the software world, which needs to be documented
   - [101 to 404s: How to write great error messages](https://www.writethedocs.org/videos/prague/2019/101-to-404s-how-to-write-great-error-messages-james-scott/) - Even the shortest error message can evoke far stronger, negative emotions in your end users than the majority of your documentation.
 
 - Collaboration
-  - [CONTRIBUTING template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/contributing-guide/template-contributing-guide.md)
-  - [Code Of Conduct template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/tree/main/code-of-conduct)
-  - [Style guide template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/style-guide/template-style-guide.md)
+  - [CONTRIBUTING template](https://gitlab.com/tgdp/templates/-/blob/main/contributing-guide/template-contributing-guide.md) - Open-source template provided by The Good Docs Project.
+  - [Code Of Conduct template](https://gitlab.com/tgdp/templates/-/tree/main/code-of-conduct) - Open-source template provided by The Good Docs Project.
+  - [Style guide template](https://gitlab.com/tgdp/templates/-/blob/main/style-guide/template-style-guide.md) - Open-source template provided by The Good Docs Project.
 
 - Language-specific
   - [TomDoc for Ruby](http://tomdoc.org/) - A code documentation specification that helps you write precise documentation that is nice to read in plain text, yet structured enough to be automatically extracted and processed by a machine.
@@ -142,7 +143,7 @@ API is the univesal language of the software world, which needs to be documented
 - Test Cases
 
 - Test Report
-  - [Bug report template | The Good Docs Project](https://gitlab.com/tgdp/templates/-/blob/main/bug-report/template-bug-report.md)
+  - [Bug report template](https://gitlab.com/tgdp/templates/-/blob/main/bug-report/template-bug-report.md) - Open-source template provided by The Good Docs Project.
   - Coverage
   - Performance
 
@@ -192,17 +193,17 @@ API is the univesal language of the software world, which needs to be documented
 
 ### DocOps
 
-- [DocOps Collection | DocToolHub](https://doctoolhub.com/collection/docops/)
-- [What is DocOps, anyway? | Write the Docs](https://www.writethedocs.org/guide/doc-ops/)
-- [Docs as Code | Write the Docs](https://www.writethedocs.org/guide/docs-as-code/)
+- [DocOps Collection](https://doctoolhub.com/collection/docops/) - These articles offer an introduction to the concept of DocOps.
+- [What is DocOps, anyway?](https://www.writethedocs.org/guide/doc-ops/) - Awesome article from Write the Docs community.
+- [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/) - Awesome article from Write the Docs community.
 - [DocOps Lab](https://github.com/DocOps) - A platform for collaboratively developing and exploring docs-as-code infrastructure, automation, workflows, etc.
 - [What is Continuous Documentation? The manifesto](https://swimm.io/blog/what-is-continuous-documentation-manifesto-part-1)
 - [Shifting to Continuous Documentation as a New Approach for Code Knowledge](https://www.infoq.com/articles/continuous-documentation/)
 
 ### Internationalization (i18n)
 
-- [Localize the Docs | Write the Docs](https://www.writethedocs.org/topics/?highlight=localization#localization-and-globalization)
-- [Found in Translation: Lessons from a Year of Open Source Localization | Write the Docs](https://www.writethedocs.org/videos/prague/2019/found-in-translation-lessons-from-a-year-of-open-source-localization-zachary-sarah-corleissen/)
+- [Localize the Docs](https://www.writethedocs.org/videos/portland/2019/localize-the-docs-paul-wallace/) - Awesome video from Write the Docs community.
+- [Found in Translation: Lessons from a Year of Open Source Localization](https://www.writethedocs.org/videos/prague/2019/found-in-translation-lessons-from-a-year-of-open-source-localization-zachary-sarah-corleissen/) - Awesome video from Write the Docs community.
 
 <!-- ### Accessibility -->
 
