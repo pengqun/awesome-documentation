@@ -2,13 +2,13 @@
 
 # Awesome Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml/badge.svg)](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml)
 
+Translations available in: [🇨🇳 中文](README_zh.md)
+
 > A curated and **up-to-date** list of resources on software documentation templates, tools, guides & examples.
 
-Software documentation is crucial for ensuring clarity and efficiency throughout the development process. It serves as a comprehensive guide, facilitating better understanding and collaboration among team members.
+Software documentation is crucial for ensuring clarity and efficiency throughout the development process, by facilitating better understanding and collaboration among team members. However, for various reasons, the creation and maintenance of documentation has frequently been mishandled, resulting in lots of inefficiency, inconsistency, and poor quality.
 
-However, for various reasons, the process of creating software documentation has frequently been mishandled, resulting in inefficiency, inconsistency, and poor quality.
-
-This list aims to assist by providing you with practical tools to maximize efficiency, established standards to ensure consistency, and best practices to enhance quality.
+This list aims to assist by providing you with out-of-box templates and practical tools to maximize efficiency, insightful guides and established standards to ensure consistency, and real-world documents to serve as examples.
 
 ## Contents
 
@@ -148,7 +148,7 @@ API is the univesal language of the software world, which needs to be documented
 #### README
 
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects.
-- [Awesome README](https://github.com/matiassingers/awesome-readme#readme) - A curated list of awesome READMEs, including **examples**, **articles** and **tools**.
+- [Awesome README](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs, including examples, articles and tools.
 - [README template](https://gitlab.com/tgdp/templates/-/blob/main/readme/template-readme.md) - Open-source template provided by The Good Docs Project.
 
 #### Comments
