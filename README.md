@@ -86,6 +86,9 @@ Answers frequently asked questions to quickly resolve common issues or clarify t
 > _"Architecture is about the important stuff. Whatever that is."  — Ralph Johnson_
 
 - [arc42](https://arc42.org/) - Proven, practical and pragmatic template for documentation and communication of software and system architectures.
+  - [Template Download](https://arc42.org/download#format-overview) - The arc42 template in various formats, including docx, asciidoc, markdown, latex, rst, html, Confluence, etc.
+  - [Example: HTML Sanity Checker](https://hsc.aim42.org/documentation/hsc_arc42) - Verbose example for the documentation of a Gradle plugin, created by Dr. Gernot Starke.
+  - [Example: biking](https://biking.michael-simons.eu/docs/index.html) - A real world example for a bike activity tracker, created by Michael Simons.
 
 - [C4 model](https://c4model.com) - The C4 model for visualizing software architecture using Context, Containers, Components, and Code.
 
