@@ -1,4 +1,8 @@
 <!--lint ignore awesome-git-repo-age-->
+<!--
+TODO:
+- Script to add GitHub stars badge for repo link automatically
+-->
 
 # Awesome Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml/badge.svg)](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml)
 
@@ -91,6 +95,13 @@ Answers frequently asked questions to quickly resolve common issues or clarify t
   - [Example: biking](https://biking.michael-simons.eu/docs/index.html) - A real world example for a bike activity tracker, created by Michael Simons.
 
 - [C4 model](https://c4model.com) - The C4 model for visualizing software architecture using Context, Containers, Components, and Code.
+  - [c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) - A C4 Modelling plugin for draw.io, which provides C4 Notation Elements in draw.io.
+  - [C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - Includes macros, stereotypes, and other goodies (like VSCode Snippets) for creating C4 diagrams with PlantUML.
+  - [C4 Diagrams | Mermaid](https://mermaid.js.org/syntax/c4.html) - Mermaid's C4 diagram syntax is compatible with plantUML.
+  - [Structurizr](https://github.com/structurizr) - C4 models as code - visualise and document your software architecture with the C4 model.
+  - [C4-Builder](https://github.com/adrianvlupu/C4-Builder) - A lightweight Node.js cli tool for building, maintaining and sharing a software architecture project using only text.
+  - [C4Sharp](https://github.com/8T4/c4sharp) - A .net library for building diagrams as code, based on C4 Model.
+  - [Goa Design - Model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go. The Model DSL is implemented in Go and follows the C4 Model.
 
 - Specification
 

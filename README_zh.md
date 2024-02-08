@@ -87,6 +87,13 @@
   - [示例：骑行应用](https://biking.michael-simons.eu/docs/index.html) - 由 Michael Simons 创建的自行车活动跟踪器的真实世界示例。
 
 - [C4 模型](https://c4model.com) - 使用上下文、容器、组件和代码来可视化软件架构的 C4 模型。
+  - [c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) - 一个为 draw.io 提供 C4 符号元素的 C4 建模插件。
+  - [C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - 包括宏、原型以及其他好处（如 VSCode Snippets）用于使用 PlantUML 创建 C4 图表。
+  - [C4 图表 | Mermaid](https://mermaid.js.org/syntax/c4.html) - Mermaid 的 C4 图表语法与 plantUML 兼容。
+  - [Structurizr](https://github.com/structurizr) - 代码化的 C4 模型 - 使用 C4 模型可视化和记录您的软件架构。
+  - [C4-Builder](https://github.com/adrianvlupu/C4-Builder) - 一个轻量级的 nodejs 命令行工具，用于仅使用文本构建、维护和共享软件架构项目。
+  - [C4Sharp](https://github.com/8T4/c4sharp) - 一个基于 C4 模型的 .net 库，用于编码构建图表。
+  - [Goa Design - Model](https://github.com/goadesign/model) - 在 Go 中创建您的软件架构模型和图表。Model DSL 在 Go 中实现，并遵循 C4 模型。
 
 - 规范
 
