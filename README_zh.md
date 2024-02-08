@@ -24,7 +24,7 @@
   - [指南](#指南)
   - [示例](#示例)
   - [DocOps](#docops)
-  - [国际化 (i18n)](#国际化-i18n)
+  - [本地化](#本地化)
 
 ## 文档类型
 
@@ -82,6 +82,9 @@
 > _"架构就是所有那些重要的东西。无论那是什么。" — Ralph Johnson_
 
 - [arc42](https://arc42.org/) - 用于文档化和沟通软件和系统架构的经过验证、实用且务实的模板。
+  - [模板文件下载](https://arc42.org/download#format-overview) - arc42 模板的各种格式文档下载，包括 docx、asciidoc、markdown、latex、rst、html、Confluence 等。
+  - [示例：HTML 合法性校验器](https://hsc.aim42.org/documentation/hsc_arc42) - 由 Gernot Starke 创建的 Gradle 插件详细文档示例。
+  - [示例：骑行应用](https://biking.michael-simons.eu/docs/index.html) - 由 Michael Simons 创建的自行车活动跟踪器的真实世界示例。
 
 - [C4 模型](https://c4model.com) - 使用上下文、容器、组件和代码来可视化软件架构的 C4 模型。
 
@@ -239,7 +242,7 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - [什么是持续文档？宣言](https://swimm.io/blog/what-is-continuous-documentation-manifesto-part-1)
 - [作为一种新方法的持续文档的转变](https://www.infoq.com/articles/continuous-documentation/)
 
-### 国际化 (i18n)
+### 本地化
 
 - [本地化文档](https://www.writethedocs.org/videos/portland/2019/localize-the-docs-paul-wallace/) - 编写文档社区的精彩视频。
 - [翻译中的发现：一年的开源本地化教训](https://www.writethedocs.org/videos/prague/2019/found-in-translation-lessons-from-a-year-of-open-source-localization-zachary-sarah-corleissen/) - 编写文档社区的精彩视频。

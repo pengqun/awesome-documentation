@@ -28,7 +28,7 @@ This list aims to assist by providing you with out-of-box templates and practica
   - [Guidelines](#guidelines)
   - [Examples](#examples)
   - [DocOps](#docops)
-  - [Internationalization (i18n)](#internationalization-i18n)
+  - [Localization](#localization)
 
 ## Documentation Types
 
@@ -246,7 +246,7 @@ API is the univesal language of the software world, which needs to be documented
 - [What is Continuous Documentation? The manifesto](https://swimm.io/blog/what-is-continuous-documentation-manifesto-part-1)
 - [Shifting to Continuous Documentation as a New Approach for Code Knowledge](https://www.infoq.com/articles/continuous-documentation/)
 
-### Internationalization (i18n)
+### Localization
 
 - [Localize the Docs](https://www.writethedocs.org/videos/portland/2019/localize-the-docs-paul-wallace/) - Awesome video from Write the Docs community.
 - [Found in Translation: Lessons from a Year of Open Source Localization](https://www.writethedocs.org/videos/prague/2019/found-in-translation-lessons-from-a-year-of-open-source-localization-zachary-sarah-corleissen/) - Awesome video from Write the Docs community.
