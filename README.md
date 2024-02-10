@@ -198,6 +198,10 @@ API is the univesal language of the software world, which needs to be documented
   - [Docstring Conventions](https://peps.python.org/pep-0257/) - This PEP documents the semantics and conventions associated with Python docstrings.
   - [Comments and Docstrings](https://github.com/google/styleguide/blob/gh-pages/pyguide.md#38-comments-and-docstrings) - From Google Python Style Guide.
   - [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/#commenting-vs-documenting-code) - Covering differences between commenting and documenting, use of docstrings, and guidelines for documenting Python projects.
+- PHP
+  - [phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - The de-facto documentation tool for PHP projects, offering a robust solution for generating comprehensive documentation effortlessly.
+- C#
+  - [Docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
 - C++
   - [Doxygen](https://github.com/doxygen/doxygen) - The de facto standard tool for generating documentation from annotated C++ sources.
 - Java
