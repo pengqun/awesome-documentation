@@ -2,6 +2,7 @@
 <!--
 TODO:
 - Script to add GitHub stars badge for repo link automatically
+- Auto generate/update translated version of edits (VS Code plugin + ChatGPT?) 
 -->
 
 # Awesome Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml/badge.svg)](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml)
@@ -31,6 +32,7 @@ This list aims to assist by providing you with out-of-box templates and practica
   - [Comunities](#comunities)
   - [Guidelines](#guidelines)
   - [Examples](#examples)
+  - [Formats](#formats)
   - [DocOps](#docops)
   - [Localization](#localization)
 
@@ -93,6 +95,9 @@ Answers frequently asked questions to quickly resolve common issues or clarify t
   - [Template Download](https://arc42.org/download#format-overview) - The arc42 template in various formats, including docx, asciidoc, markdown, latex, rst, html, Confluence, etc.
   - [Example: HTML Sanity Checker](https://hsc.aim42.org/documentation/hsc_arc42) - Verbose example for the documentation of a Gradle plugin, created by Dr. Gernot Starke.
   - [Example: biking](https://biking.michael-simons.eu/docs/index.html) - A real world example for a bike activity tracker, created by Michael Simons.
+  - [Example: arc42 + C4 model](https://github.com/bitsmuggler/arc42-c4-software-architecture-documentation-example) - Shows how to use arc42 in combination with the C4 model with the Documentation as Code technique.
+  - [docToolchain](https://github.com/doctoolchain/doctoolchainb) - An implementation of the docs-as-code approach for software architecture, which use arc42 as template.
+  - [The Ultimate Guide To Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/) - Write, structure, visualize and manage software architecture documentation in a lean way using appropriate documentation tools, including arc42.
 
 - [C4 model](https://c4model.com) - The C4 model for visualizing software architecture using Context, Containers, Components, and Code.
   - [c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) - A C4 Modelling plugin for draw.io, which provides C4 Notation Elements in draw.io.
@@ -115,6 +120,8 @@ API is the univesal language of the software world, which needs to be documented
 
 - [API Reference template](https://gitlab.com/tgdp/templates/-/blob/main/api-reference/template-api-reference.md) - Open-source template provided by The Good Docs Project.
 - [Slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
+- [DevDocs](https://github.com/freeCodeCamp/devdocs) - Combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
+- [Zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash.
 
 #### OpenAPI
 
@@ -122,6 +129,7 @@ API is the univesal language of the software world, which needs to be documented
 
 - [Swagger UI](https://github.com/swagger-api/swagger-ui) - Dynamically generate beautiful documentation from a Swagger-compliant API.
 - [Swagger Petstore](https://petstore3.swagger.io/) - A sample Pet Store Server based on the OpenAPI 3.0 specification.
+- [Redoc](https://github.com/Redocly/redoc) - An open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.
 
 #### GraphQL
 
@@ -167,6 +175,8 @@ API is the univesal language of the software world, which needs to be documented
 
 #### Comments
 
+> “Code Tells You How, Comments Tell You Why.” — [Jeff Atwood](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
+
 #### Error Messages
 
 - [101 to 404s: How to write great error messages](https://www.writethedocs.org/videos/prague/2019/101-to-404s-how-to-write-great-error-messages-james-scott/) - Even the shortest error message can evoke far stronger, negative emotions in your end users than the majority of your documentation.
@@ -176,17 +186,38 @@ API is the univesal language of the software world, which needs to be documented
 - [CONTRIBUTING template](https://gitlab.com/tgdp/templates/-/blob/main/contributing-guide/template-contributing-guide.md) - Open-source template provided by The Good Docs Project.
 - [Code Of Conduct template](https://gitlab.com/tgdp/templates/-/tree/main/code-of-conduct) - Open-source template provided by The Good Docs Project.
 - [Style guide template](https://gitlab.com/tgdp/templates/-/blob/main/style-guide/template-style-guide.md) - Open-source template provided by The Good Docs Project.
+- License
 
 #### Language-specific
 
+- JavaScript
+  - [JSDoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
+- TypeScript
+  - [TSDoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript.
+- Python
+  - [Docstring Conventions](https://peps.python.org/pep-0257/) - This PEP documents the semantics and conventions associated with Python docstrings.
+  - [Comments and Docstrings](https://github.com/google/styleguide/blob/gh-pages/pyguide.md#38-comments-and-docstrings) - From Google Python Style Guide.
+  - [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/#commenting-vs-documenting-code) - Covering differences between commenting and documenting, use of docstrings, and guidelines for documenting Python projects.
+- C++
+  - [Doxygen](https://github.com/doxygen/doxygen) - The de facto standard tool for generating documentation from annotated C++ sources.
 - Java
-  - JavaDoc
+  - [JavaDoc](https://en.wikipedia.org/wiki/Javadoc) - A documentation generator created by Sun Microsystems for the Java language (now owned by Oracle Corporation) for generating API documentation in HTML format from Java source code.
+    - [Maven Javadoc Plugin](https://github.com/apache/maven-javadoc-plugin) - Uses the Javadoc tool to generate javadocs for the specified project.
+    - [javadoc.io](https://javadoc.io/) - A free service that indexes and serves JavaDoc for Maven Central.
 - Kotlin
-  - Dokka
+  - [Dokka](https://github.com/Kotlin/dokka) - An API documentation engine for Kotlin.
+- Go
+  - [Go Doc Comments](https://go.dev/doc/comment) - Extract documentation from Go source code.
+  - [Swag](https://github.com/swaggo/swag) - Cconverts Go annotations to Swagger Documentation 2.0.
 - Rust
+  - [Rustdoc](https://doc.rust-lang.org/nightly/rustdoc/) - Generate documentation for Rust projects.
+  - [Docs.rs](https://github.com/rust-lang/docs.rs) - An open source project to host documentation of crates for the Rust Programming Language.
 - Ruby
   - [TomDoc for Ruby](http://tomdoc.org/) - A code documentation specification that helps you write precise documentation that is nice to read in plain text, yet structured enough to be automatically extracted and processed by a machine.
-- YAML
+- Perl
+  - [perlpod](https://perldoc.perl.org/perlpod) - The Plain Old Documentation format - a simple-to-use markup language used for writing documentation for Perl, Perl programs, and Perl modules.
+- SQL
+  - [SchemaSpy](https://github.com/schemaspy/schemaspy) - Document your database simply and easily.
 
 ### Test Documentation
 
@@ -207,9 +238,9 @@ API is the univesal language of the software world, which needs to be documented
 ### Site Builder
 
 - [Docusaurus](https://github.com/facebook/docusaurus) ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/docusaurus) - A project for building, deploying, and maintaining open source project websites easily.
+- [Docsify](https://github.com/docsifyjs/docsify) ![GitHub Repo stars](https://img.shields.io/github/stars/docsifyjs/docsify) - A magical documentation site generator.
 - [MkDocs](https://github.com/mkdocs/mkdocs) ![GitHub Repo stars](https://img.shields.io/github/stars/mkdocs/mkdocs) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
 - [Sphinx](https://github.com/sphinx-doc/sphinx) ![GitHub Repo stars](https://img.shields.io/github/stars/sphinx-doc/sphinx) - Make it easy to create intelligent and beautiful documentation.
-  - [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) - The default plaintext markup language used by Sphinx.
   - [Read the Docs](https://about.readthedocs.com/) - Hosts documentation for the open source community, which supports Sphinx docs written with reStructuredText.
 - [Starlight](https://github.com/withastro/starlight) ![GitHub Repo stars](https://img.shields.io/github/stars/withastro/starlight) - Build beautiful, accessible, high-performance documentation websites with Astro.
 
@@ -218,6 +249,7 @@ API is the univesal language of the software world, which needs to be documented
 - [Wiki.js](https://github.com/Requarks/wiki) - A modern and powerful wiki app built on Node.js.
 - [MediaWiki](https://github.com/wikimedia/mediawiki) - A free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects.
 - [DokuWiki](https://github.com/dokuwiki/dokuwiki) - A simple to use and highly versatile Open Source wiki software that doesn't require a database.
+- [Gollum](https://github.com/gollum/gollum) - A simple wiki system built on top of Git.
 - [VimWiki](https://github.com/vimwiki/vimwiki) - A a personal wiki for Vim, which can be used to write documentation.
 - [GitHub Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
   - [Awesome GitHub Wikis](https://github.com/MyHoneyBadger/awesome-github-wiki) - A curated list of awesome GitHub Wikis, including examples, tips and tricks.
@@ -247,6 +279,14 @@ API is the univesal language of the software world, which needs to be documented
 
 - [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs.git) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [Awesome Open Source Documents](https://github.com/44bits/awesome-opensource-documents) - A curated list of awesome open source or open source licensed documents, guides, books.
+
+### Formats
+
+- Markdown - A lightweight markup language for producing HTML.
+- [AsciiDoc](https://asciidoc.org) - A plain text markup language for writing technical content.
+  - [Asciidoctor](https://github.com/asciidoctor/asciidoctor) - A fast, open source, Ruby-based text processor for parsing AsciiDoc® into a document model and converting it to output formats such as HTML 5, DocBook 5, manual pages, PDF, EPUB 3, and other formats.
+- [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) - The default plaintext markup language used by Sphinx.
+- DocBook - an XML schema for writing books and manuals about technical subjects.
 
 ### DocOps
 
