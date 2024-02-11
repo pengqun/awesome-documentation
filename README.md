@@ -122,6 +122,7 @@ API is the univesal language of the software world, which needs to be documented
 - [Slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
 - [DevDocs](https://github.com/freeCodeCamp/devdocs) - Combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
 - [Zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash.
+- [apiDoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
 
 #### OpenAPI
 
@@ -192,6 +193,7 @@ API is the univesal language of the software world, which needs to be documented
 
 - JavaScript
   - [JSDoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
+  - [documentation.js](https://github.com/documentationjs/documentation) - The documentation system for modern JavaScript.
 - TypeScript
   - [TSDoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript.
 - Python
@@ -222,6 +224,9 @@ API is the univesal language of the software world, which needs to be documented
   - [perlpod](https://perldoc.perl.org/perlpod) - The Plain Old Documentation format - a simple-to-use markup language used for writing documentation for Perl, Perl programs, and Perl modules.
 - SQL
   - [SchemaSpy](https://github.com/schemaspy/schemaspy) - Document your database simply and easily.
+- CSS
+  - [Knyle Style Sheets](https://github.com/kneath/kss) ![GitHub Repo stars](https://img.shields.io/github/stars/kneath/kss) - A methodology for documenting CSS and generating styleguides.
+  - [Hologram](https://github.com/trulia/hologram) ![GitHub Repo stars](https://img.shields.io/github/stars/trulia/hologram) - A Ruby gem that parses comments in your CSS and turns them into a beautiful styleguide.
 
 ### Test Documentation
 
@@ -247,6 +252,8 @@ API is the univesal language of the software world, which needs to be documented
 - [Sphinx](https://github.com/sphinx-doc/sphinx) ![GitHub Repo stars](https://img.shields.io/github/stars/sphinx-doc/sphinx) - Make it easy to create intelligent and beautiful documentation.
   - [Read the Docs](https://about.readthedocs.com/) - Hosts documentation for the open source community, which supports Sphinx docs written with reStructuredText.
 - [Starlight](https://github.com/withastro/starlight) ![GitHub Repo stars](https://img.shields.io/github/stars/withastro/starlight) - Build beautiful, accessible, high-performance documentation websites with Astro.
+- [Docco](https://github.com/jashkenas/docco) ![GitHub Repo stars](https://img.shields.io/github/stars/jashkenas/docco) - A quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
+- [bookdown](https://github.com/rstudio/bookdown) ![GitHub Repo stars](https://img.shields.io/github/stars/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown.
 
 ### Wiki Builder
 
@@ -291,6 +298,8 @@ API is the univesal language of the software world, which needs to be documented
   - [Asciidoctor](https://github.com/asciidoctor/asciidoctor) - A fast, open source, Ruby-based text processor for parsing AsciiDoc® into a document model and converting it to output formats such as HTML 5, DocBook 5, manual pages, PDF, EPUB 3, and other formats.
 - [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) - The default plaintext markup language used by Sphinx.
 - DocBook - an XML schema for writing books and manuals about technical subjects.
+- [LaTeX](https://www.latex-project.org/) - A document preparation system.
+- [Pandoc](https://pandoc.org/) - A universal document converter, which can convert files from one markup format into another.
 
 ### DocOps
 
