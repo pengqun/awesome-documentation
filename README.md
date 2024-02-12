@@ -36,6 +36,7 @@ This list aims to assist by providing you with out-of-box templates and practica
   - [Formats](#formats)
   - [DocOps](#docops)
   - [Localization](#localization)
+  - [Accessibility](#accessibility)
 
 ## Documentation Types
 
@@ -327,7 +328,14 @@ API is the univesal language of the software world, which needs to be documented
 - [Localize the Docs](https://www.writethedocs.org/videos/portland/2019/localize-the-docs-paul-wallace/) - Awesome video from Write the Docs community.
 - [Found in Translation: Lessons from a Year of Open Source Localization](https://www.writethedocs.org/videos/prague/2019/found-in-translation-lessons-from-a-year-of-open-source-localization-zachary-sarah-corleissen/) - Awesome video from Write the Docs community.
 
-<!-- ### Accessibility -->
+### Accessibility
+
+- [Documents Accessibility - The Definitive Guide](https://www.accessibilitychecker.org/guides/document-accessibility/) - How to make your documents meet accessibility standards.
+- [Website Accessibility Checker](https://www.accessibilitychecker.org/) - Scan your website for free, identify accessbility issues, and get exact instructions on how to fix them.
+- [Color Contrast Checker](https://www.accessibilitychecker.org/color-contrast-checker/) - Find out whether your site meets WCAG color requirements.
+- [WebAIM](https://webaim.org/) - Web accessibility in mind.
+- [Pa11y](https://github.com/pa11y/pa11y) - Runs accessibility tests on your doc pages via the command line or Node.js.
+- [Create accessible documents | UW Madison](https://it.wisc.edu/learn/make-it-accessible/create-accessible-documents/) - Follow these basic steps to increase the accessibility of your Word, HTML, PowerPoint and PDF documents.
 
 ## Contributing
 
