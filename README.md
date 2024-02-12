@@ -27,6 +27,7 @@ This list aims to assist by providing you with out-of-box templates and practica
 - [General Tools](#general-tools)
   - [Site Builder](#site-builder)
   - [Wiki Builder](#wiki-builder)
+  - [Knowledge Management](#knowledge-management)
   - [Diagramming tools](#diagramming-tools)
 - [More Topics](#more-topics)
   - [Comunities](#comunities)
@@ -268,6 +269,15 @@ API is the univesal language of the software world, which needs to be documented
   - [The Federated Wiki](https://www.writethedocs.org/videos/na/2015/keynote-the-federated-wiki-ward-cunningham/) - Use federation to ease sharing, by Ward Cunningham.
   - [Node.js server version](https://github.com/fedwiki/wiki) - Federated Wiki node server as npm package.
 
+### Knowledge Management
+
+- [Documize](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs.
+- [Confluence in a Docker container](https://github.com/cptactionhank/docker-atlassian-confluence) - Atlassian Confluence wrapped in a Docker image.
+- [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases.
+- [Seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+- [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration.
+- [MrDoc](https://github.com/zmister2016/MrDoc) - An online document system suitable for individuals and small teams to manage documents, wiki, knowledge and notes.
+
 ### Diagramming tools
 
 - [draw.io](https://github.com/jgraph/drawio) (Open Source) - A JavaScript, client-side editor for general diagramming.
@@ -293,13 +303,15 @@ API is the univesal language of the software world, which needs to be documented
 
 ### Formats
 
+- Converters
+  - [Pandoc](https://pandoc.org/) - A universal document converter, which can convert files from one markup format into another.
+  - [gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML.
 - Markdown - A lightweight markup language for producing HTML.
 - [AsciiDoc](https://asciidoc.org) - A plain text markup language for writing technical content.
   - [Asciidoctor](https://github.com/asciidoctor/asciidoctor) - A fast, open source, Ruby-based text processor for parsing AsciiDoc® into a document model and converting it to output formats such as HTML 5, DocBook 5, manual pages, PDF, EPUB 3, and other formats.
 - [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) - The default plaintext markup language used by Sphinx.
 - DocBook - an XML schema for writing books and manuals about technical subjects.
 - [LaTeX](https://www.latex-project.org/) - A document preparation system.
-- [Pandoc](https://pandoc.org/) - A universal document converter, which can convert files from one markup format into another.
 
 ### DocOps
 
