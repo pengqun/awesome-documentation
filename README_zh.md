@@ -1,3 +1,8 @@
+<!--
+TODO:
+- 自动翻译英文版变更内容，并同步到中文版
+-->
+
 # Awesome Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml/badge.svg)](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml)
 
 > 一份关于软件文档模板、工具、指南和示例的精选资源列表（持续更新中）。

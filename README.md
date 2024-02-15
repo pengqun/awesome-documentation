@@ -2,7 +2,7 @@
 <!--
 TODO:
 - Script to add GitHub stars badge for repo link automatically
-- Auto generate/update translated version of edits (VS Code plugin + ChatGPT?) 
+- Auto generate/update translated version of edits (VS Code plugin + ChatGPT?)
 -->
 
 # Awesome Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml/badge.svg)](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml)
