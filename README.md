@@ -28,7 +28,8 @@ This list aims to assist by providing you with out-of-box templates and practica
   - [Site Builder](#site-builder)
   - [Wiki Builder](#wiki-builder)
   - [Knowledge Management](#knowledge-management)
-  - [Diagramming tools](#diagramming-tools)
+  - [Text Checker](#text-checker)
+  - [Diagramming Tool](#diagramming-tool)
 - [More Topics](#more-topics)
   - [Comunities](#comunities)
   - [Guidelines](#guidelines)
@@ -133,6 +134,7 @@ API is the univesal language of the software world, which needs to be documented
 - [Swagger UI](https://github.com/swagger-api/swagger-ui) - Dynamically generate beautiful documentation from a Swagger-compliant API.
 - [Swagger Petstore](https://petstore3.swagger.io/) - A sample Pet Store Server based on the OpenAPI 3.0 specification.
 - [Redoc](https://github.com/Redocly/redoc) - An open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.
+- [RapiDoc](https://github.com/rapi-doc/RapiDoc?tab=readme-ov-file) - WebComponent Custom Element for OpenAPI Spec viewing.
 
 #### GraphQL
 
@@ -279,7 +281,13 @@ API is the univesal language of the software world, which needs to be documented
 - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration.
 - [MrDoc](https://github.com/zmister2016/MrDoc) - An online document system suitable for individuals and small teams to manage documents, wiki, knowledge and notes.
 
-### Diagramming tools
+### Text Checker
+
+- [LanguageTool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
+- [Spellcheck GitHub Actions](https://github.com/rojopolis/spellcheck-github-actions) - A GitHub Action that spell checks Python, Markdown, and Text files.
+- [TeXtidote](https://github.com/sylvainhalle/textidote) - A correction tool for LaTeX documents and other formats.
+
+### Diagramming Tool
 
 - [draw.io](https://github.com/jgraph/drawio) (Open Source) - A JavaScript, client-side editor for general diagramming.
 - [(Chinese) Architecture Diagramming: Tools and Methodologies](https://developer.aliyun.com/article/774446) - It discusses the benefits of using diagrams in architecture document, and highlights some standards and best practices.
@@ -307,11 +315,12 @@ API is the univesal language of the software world, which needs to be documented
 - Converters
   - [Pandoc](https://pandoc.org/) - A universal document converter, which can convert files from one markup format into another.
   - [gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML.
-- Markdown - A lightweight markup language for producing HTML.
+- [Markdown](https://www.wikiwand.com/en/Markdown) - A lightweight markup language for creating formatted text using a plain-text editor.
+  - [MarkText](https://github.com/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [AsciiDoc](https://asciidoc.org) - A plain text markup language for writing technical content.
   - [Asciidoctor](https://github.com/asciidoctor/asciidoctor) - A fast, open source, Ruby-based text processor for parsing AsciiDoc® into a document model and converting it to output formats such as HTML 5, DocBook 5, manual pages, PDF, EPUB 3, and other formats.
 - [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) - The default plaintext markup language used by Sphinx.
-- DocBook - an XML schema for writing books and manuals about technical subjects.
+- [DocBook](https://docbook.org/) - An XML schema for writing books and manuals about technical subjects.
 - [LaTeX](https://www.latex-project.org/) - A document preparation system.
 
 ### DocOps
