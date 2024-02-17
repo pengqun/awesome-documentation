@@ -135,7 +135,7 @@ API is the univesal language of the software world, which needs to be documented
 - [Swagger UI](https://github.com/swagger-api/swagger-ui) - Dynamically generate beautiful documentation from a Swagger-compliant API.
 - [Swagger Petstore](https://petstore3.swagger.io/) - A sample Pet Store Server based on the OpenAPI 3.0 specification.
 - [Redoc](https://github.com/Redocly/redoc) - An open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.
-- [RapiDoc](https://github.com/rapi-doc/RapiDoc?tab=readme-ov-file) - WebComponent Custom Element for OpenAPI Spec viewing.
+- [RapiDoc](https://github.com/rapi-doc/RapiDoc) - WebComponent Custom Element for OpenAPI Spec viewing.
 
 #### GraphQL
 
@@ -282,12 +282,14 @@ API is the univesal language of the software world, which needs to be documented
 - [Seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration.
 - [MrDoc](https://github.com/zmister2016/MrDoc) - An online document system suitable for individuals and small teams to manage documents, wiki, knowledge and notes.
+- [AFFiNE](https://github.com/toeverything/AFFiNE) - A next-gen knowledge base that brings planning, sorting and creating all together.
 
 ### Text Checker
 
 - [LanguageTool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
 - [Spellcheck GitHub Actions](https://github.com/rojopolis/spellcheck-github-actions) - A GitHub Action that spell checks Python, Markdown, and Text files.
 - [TeXtidote](https://github.com/sylvainhalle/textidote) - A correction tool for LaTeX documents and other formats.
+- [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 
 ### Diagramming Tool
 
@@ -297,12 +299,15 @@ API is the univesal language of the software world, which needs to be documented
 
 ### Multimedia Tool
 
+Documentation can be more than just plain texts and static pictures.
+
 - [Animockup](https://github.com/alyssaxuu/animockup) - A web-based tool that helps you create animated mockups for your product teasers.
 - [asciinema](https://github.com/asciinema/asciinema) - A command-line tool for recording terminal sessions.
 - [Tenacity](https://codeberg.org/tenacityteam/tenacity) -  An easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor for Windows, macOS, Linux, and other operating systems.
 - [Screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits.
 - [rrweb](https://github.com/rrweb-io/rrweb) - A tool for recording and replaying users' interactions on the web.
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - Record a selected area of your screen, edit and save it as a gif or video.
+- [Slidev](https://github.com/slidevjs/slidev) - Presentation slides for developers.
 
 ## More Topics
 
