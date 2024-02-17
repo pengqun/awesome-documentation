@@ -27,9 +27,10 @@ This list aims to assist by providing you with out-of-box templates and practica
 - [General Tools](#general-tools)
   - [Site Builder](#site-builder)
   - [Wiki Builder](#wiki-builder)
-  - [Knowledge Management](#knowledge-management)
+  - [Knowledge Base Builder](#knowledge-base-builder)
   - [Text Checker](#text-checker)
   - [Diagramming Tool](#diagramming-tool)
+  - [Multimedia Tool](#multimedia-tool)
 - [More Topics](#more-topics)
   - [Comunities](#comunities)
   - [Guidelines](#guidelines)
@@ -258,6 +259,7 @@ API is the univesal language of the software world, which needs to be documented
 - [Starlight](https://github.com/withastro/starlight) ![GitHub Repo stars](https://img.shields.io/github/stars/withastro/starlight) - Build beautiful, accessible, high-performance documentation websites with Astro.
 - [Docco](https://github.com/jashkenas/docco) ![GitHub Repo stars](https://img.shields.io/github/stars/jashkenas/docco) - A quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
 - [bookdown](https://github.com/rstudio/bookdown) ![GitHub Repo stars](https://img.shields.io/github/stars/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown.
+- [Doctave](https://github.com/Doctave/doctave) ![GitHub Repo stars](https://img.shields.io/github/stars/Doctave/doctave) - A batteries-included developer documentation site generator.
 
 ### Wiki Builder
 
@@ -272,7 +274,7 @@ API is the univesal language of the software world, which needs to be documented
   - [The Federated Wiki](https://www.writethedocs.org/videos/na/2015/keynote-the-federated-wiki-ward-cunningham/) - Use federation to ease sharing, by Ward Cunningham.
   - [Node.js server version](https://github.com/fedwiki/wiki) - Federated Wiki node server as npm package.
 
-### Knowledge Management
+### Knowledge Base Builder
 
 - [Documize](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs.
 - [Confluence in a Docker container](https://github.com/cptactionhank/docker-atlassian-confluence) - Atlassian Confluence wrapped in a Docker image.
@@ -289,8 +291,18 @@ API is the univesal language of the software world, which needs to be documented
 
 ### Diagramming Tool
 
+- [Excalidraw](https://github.com/excalidraw/excalidraw) - An open source virtual hand-drawn style whiteboard for sketching hand-drawn like diagrams.
 - [draw.io](https://github.com/jgraph/drawio) (Open Source) - A JavaScript, client-side editor for general diagramming.
 - [(Chinese) Architecture Diagramming: Tools and Methodologies](https://developer.aliyun.com/article/774446) - It discusses the benefits of using diagrams in architecture document, and highlights some standards and best practices.
+
+### Multimedia Tool
+
+- [Animockup](https://github.com/alyssaxuu/animockup) - A web-based tool that helps you create animated mockups for your product teasers.
+- [asciinema](https://github.com/asciinema/asciinema) - A command-line tool for recording terminal sessions.
+- [Tenacity](https://codeberg.org/tenacityteam/tenacity) -  An easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor for Windows, macOS, Linux, and other operating systems.
+- [Screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits.
+- [rrweb](https://github.com/rrweb-io/rrweb) - A tool for recording and replaying users' interactions on the web.
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - Record a selected area of your screen, edit and save it as a gif or video.
 
 ## More Topics
 
