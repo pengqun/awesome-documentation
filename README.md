@@ -28,7 +28,7 @@ This list aims to assist by providing you with out-of-box templates and practica
   - [Site Builder](#site-builder)
   - [Wiki Builder](#wiki-builder)
   - [Knowledge Base Builder](#knowledge-base-builder)
-  - [Text Checker](#text-checker)
+  - [Checker \& Formatter](#checker--formatter)
   - [Diagramming Tool](#diagramming-tool)
   - [Multimedia Tool](#multimedia-tool)
 - [More Topics](#more-topics)
@@ -284,12 +284,17 @@ API is the univesal language of the software world, which needs to be documented
 - [MrDoc](https://github.com/zmister2016/MrDoc) - An online document system suitable for individuals and small teams to manage documents, wiki, knowledge and notes.
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - A next-gen knowledge base that brings planning, sorting and creating all together.
 
-### Text Checker
+### Checker & Formatter
 
 - [LanguageTool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
 - [Spellcheck GitHub Actions](https://github.com/rojopolis/spellcheck-github-actions) - A GitHub Action that spell checks Python, Markdown, and Text files.
 - [TeXtidote](https://github.com/sylvainhalle/textidote) - A correction tool for LaTeX documents and other formats.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
+- [Lychee](https://github.com/lycheeverse/lychee) -  Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more.
+- [linkinator](https://github.com/JustinBeckwith/linkinator) - A super simple site crawler and broken link checker.
+- [Readability checker](https://www.thewriter.com/tools/readability) - Score your writing based on the Flesch reading ease scale, which looks at how long your words and sentences are.
+- [Capitalize My Title](https://capitalizemytitle.com/) - An easy, smart title capitalization tool that uses title capitalization rules published by leading professional organizations to ensure your titles and headlines are capitalized correctly.
+- [CasePolice](https://github.com/antfu/case-police) - Scan all your source files and fix the cases of known names.
 
 ### Diagramming Tool
 
@@ -318,9 +323,14 @@ Documentation can be more than just plain texts and static pictures.
 
 ### Guidelines
 
+- [Style Guides](https://www.writethedocs.org/guide/writing/style-guides/) - Collections of style guides from Write the Docs community.
 - [Google developer documentation style guide](https://developers.google.com/style/highlights) - Provides editorial guidelines for writing clear and consistent Google-related developer documentation.
 - [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/) - If you write about computer technology, this guide is for you.
+- [Editorial guidelines for Apple](https://support.apple.com/guide/applestyleguide/welcome/web) - Provides guidelines to help maintain a consistent voice in Apple materials, including documentation.
+- [GitHub Docs Style guide](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide) - Make sure GitHub's documentation stays consistent and follows clear patterns that our readers can understand.
+- [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/) - Includes everyday punctuation and grammar, common mistakes to avoid, strategies for translation and global audiences, and a word usage dictionary.
 - [Series: Writing Great Documentation](https://jacobian.org/series/great-documentation/) - A series of articles laying out the tools, tips, and techniques author learned over the years he've spent helping to write Django's docs.
+- [Command Line Interface Guidelines](https://clig.dev/) - An open-source guide covering CLI help text and documentation.
 
 ### Examples
 
