@@ -306,13 +306,23 @@ API is the univesal language of the software world, which needs to be documented
 
 Documentation can be more than just plain texts and static pictures.
 
-- [Animockup](https://github.com/alyssaxuu/animockup) - A web-based tool that helps you create animated mockups for your product teasers.
-- [asciinema](https://github.com/asciinema/asciinema) - A command-line tool for recording terminal sessions.
-- [Tenacity](https://codeberg.org/tenacityteam/tenacity) -  An easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor for Windows, macOS, Linux, and other operating systems.
-- [Screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits.
-- [rrweb](https://github.com/rrweb-io/rrweb) - A tool for recording and replaying users' interactions on the web.
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - Record a selected area of your screen, edit and save it as a gif or video.
-- [Slidev](https://github.com/slidevjs/slidev) - Presentation slides for developers.
+- Screen Recorder
+  - [Screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits.
+  - [Kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology.
+  - [rrweb](https://github.com/rrweb-io/rrweb) - A tool for recording and replaying users' interactions on the web.
+  - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - Record a selected area of your screen, edit and save it as a gif or video.
+  - [Peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
+  - [Flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software.
+- Audio Recorder
+  - [Tenacity](https://codeberg.org/tenacityteam/tenacity) -  An easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor for Windows, macOS, Linux, and other operating systems.
+- Terminal Recorder
+  - [asciinema](https://github.com/asciinema/asciinema) - A command-line tool for recording terminal sessions.
+  - [Terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images or share a web player.
+- Animation Builder
+  - [Animockup](https://github.com/alyssaxuu/animockup) - A web-based tool that helps you create animated mockups for your product teasers.
+- Presentation Tools
+  - [Slidev](https://github.com/slidevjs/slidev) - Presentation slides for developers.
+  - [carbon](https://github.com/carbon-app/carbon) - Create and share beautiful images of your source code.
 
 ## More Topics
 
