@@ -27,10 +27,10 @@ This list aims to assist by providing you with out-of-box templates and practica
 - [General Tools](#general-tools)
   - [Site Builder](#site-builder)
   - [Wiki Builder](#wiki-builder)
-  - [Knowledge Base Builder](#knowledge-base-builder)
+  - [Knowledge Base](#knowledge-base)
   - [Checker \& Formatter](#checker--formatter)
-  - [Diagramming Tool](#diagramming-tool)
-  - [Multimedia Tool](#multimedia-tool)
+  - [Diagramming](#diagramming)
+  - [Multimedia](#multimedia)
 - [More Topics](#more-topics)
   - [Comunities](#comunities)
   - [Guidelines](#guidelines)
@@ -112,9 +112,8 @@ Answers frequently asked questions to quickly resolve common issues or clarify t
   - [C4Sharp](https://github.com/8T4/c4sharp) - A .net library for building diagrams as code, based on C4 Model.
   - [Goa Design - Model](https://github.com/goadesign/model) - Create your software architecture models and diagrams in Go. The Model DSL is implemented in Go and follows the C4 Model.
 
-- Specification
-
-- White Paper
+- [Log4brains](https://github.com/thomvaill/log4brains) - Log Architecture Decision Records (ADR) right from your IDE and to publish them automatically as a static website.
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) - Overview of how software design docs are used and written at Google.
 
 ### API Documentation
 
@@ -178,6 +177,7 @@ API is the univesal language of the software world, which needs to be documented
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects.
 - [Awesome README](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs, including examples, articles and tools.
 - [README template](https://gitlab.com/tgdp/templates/-/blob/main/readme/template-readme.md) - Open-source template provided by The Good Docs Project.
+- [readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs.
 
 #### Comments
 
@@ -199,6 +199,7 @@ API is the univesal language of the software world, which needs to be documented
 - JavaScript
   - [JSDoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
   - [documentation.js](https://github.com/documentationjs/documentation) - The documentation system for modern JavaScript.
+  - [Docz](https://github.com/doczjs/docz) - Write and publish beautiful interactive documentation for your code.
 - TypeScript
   - [TSDoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript.
 - Python
@@ -254,11 +255,14 @@ API is the univesal language of the software world, which needs to be documented
 - [Docusaurus](https://github.com/facebook/docusaurus) ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/docusaurus) - A project for building, deploying, and maintaining open source project websites easily.
 - [Docsify](https://github.com/docsifyjs/docsify) ![GitHub Repo stars](https://img.shields.io/github/stars/docsifyjs/docsify) - A magical documentation site generator.
 - [MkDocs](https://github.com/mkdocs/mkdocs) ![GitHub Repo stars](https://img.shields.io/github/stars/mkdocs/mkdocs) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
+  - [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) ![GitHub Repo stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material) - A powerful documentation framework on top of MkDocs.
+- [mdBook](https://github.com/rust-lang/mdBook) ![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust.
 - [Sphinx](https://github.com/sphinx-doc/sphinx) ![GitHub Repo stars](https://img.shields.io/github/stars/sphinx-doc/sphinx) - Make it easy to create intelligent and beautiful documentation.
   - [Read the Docs](https://about.readthedocs.com/) - Hosts documentation for the open source community, which supports Sphinx docs written with reStructuredText.
 - [Starlight](https://github.com/withastro/starlight) ![GitHub Repo stars](https://img.shields.io/github/stars/withastro/starlight) - Build beautiful, accessible, high-performance documentation websites with Astro.
 - [Docco](https://github.com/jashkenas/docco) ![GitHub Repo stars](https://img.shields.io/github/stars/jashkenas/docco) - A quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
 - [bookdown](https://github.com/rstudio/bookdown) ![GitHub Repo stars](https://img.shields.io/github/stars/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown.
+- [Docus](https://github.com/nuxt-themes/docus) ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt-themes/docus) - Create document-driven websites with Vue & Markdown.
 - [Doctave](https://github.com/Doctave/doctave) ![GitHub Repo stars](https://img.shields.io/github/stars/Doctave/doctave) - A batteries-included developer documentation site generator.
 
 ### Wiki Builder
@@ -274,7 +278,7 @@ API is the univesal language of the software world, which needs to be documented
   - [The Federated Wiki](https://www.writethedocs.org/videos/na/2015/keynote-the-federated-wiki-ward-cunningham/) - Use federation to ease sharing, by Ward Cunningham.
   - [Node.js server version](https://github.com/fedwiki/wiki) - Federated Wiki node server as npm package.
 
-### Knowledge Base Builder
+### Knowledge Base
 
 - [Documize](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs.
 - [Confluence in a Docker container](https://github.com/cptactionhank/docker-atlassian-confluence) - Atlassian Confluence wrapped in a Docker image.
@@ -296,13 +300,15 @@ API is the univesal language of the software world, which needs to be documented
 - [Capitalize My Title](https://capitalizemytitle.com/) - An easy, smart title capitalization tool that uses title capitalization rules published by leading professional organizations to ensure your titles and headlines are capitalized correctly.
 - [CasePolice](https://github.com/antfu/case-police) - Scan all your source files and fix the cases of known names.
 
-### Diagramming Tool
+### Diagramming
+
+One diagram is usually worth more than a thousand words.
 
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - An open source virtual hand-drawn style whiteboard for sketching hand-drawn like diagrams.
 - [draw.io](https://github.com/jgraph/drawio) (Open Source) - A JavaScript, client-side editor for general diagramming.
 - [(Chinese) Architecture Diagramming: Tools and Methodologies](https://developer.aliyun.com/article/774446) - It discusses the benefits of using diagrams in architecture document, and highlights some standards and best practices.
 
-### Multimedia Tool
+### Multimedia
 
 Documentation can be more than just plain texts and static pictures.
 
@@ -354,8 +360,10 @@ Documentation can be more than just plain texts and static pictures.
   - [gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML.
 - [Markdown](https://www.wikiwand.com/en/Markdown) - A lightweight markup language for creating formatted text using a plain-text editor.
   - [MarkText](https://github.com/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
+  - [Glow](https://github.com/charmbracelet/glow) - A terminal based markdown reader, which can be used to read documentation directly on the command line.
 - [AsciiDoc](https://asciidoc.org) - A plain text markup language for writing technical content.
-  - [Asciidoctor](https://github.com/asciidoctor/asciidoctor) - A fast, open source, Ruby-based text processor for parsing AsciiDoc® into a document model and converting it to output formats such as HTML 5, DocBook 5, manual pages, PDF, EPUB 3, and other formats.
+  - [Asciidoctor](https://github.com/asciidoctor/asciidoctor) - A fast, open source, Ruby-based text processor for parsing AsciiDoc and converting it to output formats such as HTML 5, DocBook 5, manual pages, PDF, EPUB 3, and other formats.
+  - [Antora](https://gitlab.com/antora/antora) - A modular documentation site generator that helps you organize and publish content written in AsciiDoc to the web.
 - [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) - The default plaintext markup language used by Sphinx.
 - [DocBook](https://docbook.org/) - An XML schema for writing books and manuals about technical subjects.
 - [LaTeX](https://www.latex-project.org/) - A document preparation system.
