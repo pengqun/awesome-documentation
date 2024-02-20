@@ -82,6 +82,13 @@ Answers frequently asked questions to quickly resolve common issues or clarify t
 
 - [The Facts About FAQs](https://www.writethedocs.org/videos/portland/2018/the-facts-about-faqs-ashleigh-rentz/) - Explore various questions we might frequently ask ourselves about FAQs.
 
+#### In-app
+
+Wizards, tooltips, onboarding, etc.
+
+- [Driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.
+- [Shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app.
+
 #### Others
 
 - [Installation template](https://gitlab.com/tgdp/templates/-/blob/main/installation-guide/template-installation-guide.md) - Open-source template provided by The Good Docs Project.
@@ -89,7 +96,6 @@ Answers frequently asked questions to quickly resolve common issues or clarify t
 - [Terminology system guide template](https://gitlab.com/tgdp/templates/-/blob/main/terminology-system/guide-terminology-system.md) - Open-source template provided by The Good Docs Project.
 - [Release Notes template](https://gitlab.com/tgdp/templates/-/blob/main/release-notes/template-release-notes.md) - Open-source template provided by The Good Docs Project.
 - [The Power of Empathy in Support Documentation: A 5-Step Guide](https://www.writethedocs.org/videos/prague/2019/the-power-of-empathy-in-support-documentation-a-5-step-guide-plamena-maleva/) - Apply empathy and iteration to customer support documentation projects.
-- In-App Documentation - Wizards, tooltips, etc.
 
 ### Architectural Documentation
 
@@ -123,6 +129,7 @@ API is the univesal language of the software world, which needs to be documented
 
 - [API Reference template](https://gitlab.com/tgdp/templates/-/blob/main/api-reference/template-api-reference.md) - Open-source template provided by The Good Docs Project.
 - [Slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API.
+  - [Widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger / AsyncAPI / Semoasa definition to Slate / ReSlate compatible markdown.
 - [DevDocs](https://github.com/freeCodeCamp/devdocs) - Combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
 - [Zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash.
 - [apiDoc](https://github.com/apidoc/apidoc) - RESTful web API Documentation Generator.
@@ -135,6 +142,9 @@ API is the univesal language of the software world, which needs to be documented
 - [Swagger Petstore](https://petstore3.swagger.io/) - A sample Pet Store Server based on the OpenAPI 3.0 specification.
 - [Redoc](https://github.com/Redocly/redoc) - An open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.
 - [RapiDoc](https://github.com/rapi-doc/RapiDoc) - WebComponent Custom Element for OpenAPI Spec viewing.
+- [Fern](https://github.com/fern-api/fern) - Generate SDKs and API documentation from OpenAPI definitions.
+- [Elements](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown.
+- [Scalar](https://github.com/scalar/scalar) - Generate interactive API documentations from Swagger files.
 
 #### GraphQL
 
@@ -299,6 +309,7 @@ API is the univesal language of the software world, which needs to be documented
 - [Readability checker](https://www.thewriter.com/tools/readability) - Score your writing based on the Flesch reading ease scale, which looks at how long your words and sentences are.
 - [Capitalize My Title](https://capitalizemytitle.com/) - An easy, smart title capitalization tool that uses title capitalization rules published by leading professional organizations to ensure your titles and headlines are capitalized correctly.
 - [CasePolice](https://github.com/antfu/case-police) - Scan all your source files and fix the cases of known names.
+- [Tables Generator](https://www.tablesgenerator.com/) - Generate tables in HTML, Markdown, Latex, MediaWiki, etc.
 
 ### Diagramming
 
