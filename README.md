@@ -33,9 +33,10 @@ This list aims to assist by providing you with out-of-box templates and practica
   - [Multimedia](#multimedia)
 - [More Topics](#more-topics)
   - [Comunities](#comunities)
-  - [Guidelines](#guidelines)
   - [Examples](#examples)
   - [Formats](#formats)
+  - [Guidelines](#guidelines)
+  - [Books](#books)
   - [DocOps](#docops)
   - [Localization](#localization)
   - [Accessibility](#accessibility)
@@ -269,6 +270,7 @@ API is the univesal language of the software world, which needs to be documented
 - [mdBook](https://github.com/rust-lang/mdBook) ![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust.
 - [Sphinx](https://github.com/sphinx-doc/sphinx) ![GitHub Repo stars](https://img.shields.io/github/stars/sphinx-doc/sphinx) - Make it easy to create intelligent and beautiful documentation.
   - [Read the Docs](https://about.readthedocs.com/) - Hosts documentation for the open source community, which supports Sphinx docs written with reStructuredText.
+- [Markdoc](https://github.com/markdoc/markdoc) - A Markdown-based syntax and toolchain for creating custom documentation sites and experiences.
 - [Starlight](https://github.com/withastro/starlight) ![GitHub Repo stars](https://img.shields.io/github/stars/withastro/starlight) - Build beautiful, accessible, high-performance documentation websites with Astro.
 - [Docco](https://github.com/jashkenas/docco) ![GitHub Repo stars](https://img.shields.io/github/stars/jashkenas/docco) - A quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
 - [bookdown](https://github.com/rstudio/bookdown) ![GitHub Repo stars](https://img.shields.io/github/stars/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown.
@@ -348,6 +350,25 @@ Documentation can be more than just plain texts and static pictures.
 - [Write the Docs](https://www.writethedocs.org/) - A global community of people who care about documentation.
 - [The Good Docs Project](https://gitlab.com/tgdp) - Educates and empowers people to create high-quality documentation.
 
+### Examples
+
+- [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs.git) - Pointers to useful, well-written, and otherwise beautiful documentation.
+- [Awesome Open Source Documents](https://github.com/44bits/awesome-opensource-documents) - A curated list of awesome open source or open source licensed documents, guides, books.
+
+### Formats
+
+- Converters
+  - [Pandoc](https://pandoc.org/) - A universal document converter, which can convert files from one markup format into another.
+- [Markdown](https://www.wikiwand.com/en/Markdown) - A lightweight markup language for creating formatted text using a plain-text editor.
+  - [MarkText](https://github.com/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
+  - [Glow](https://github.com/charmbracelet/glow) - A terminal based markdown reader, which can be used to read documentation directly on the command line.
+- [AsciiDoc](https://asciidoc.org) - A plain text markup language for writing technical content.
+  - [Asciidoctor](https://github.com/asciidoctor/asciidoctor) - A fast, open source, Ruby-based text processor for parsing AsciiDoc and converting it to output formats such as HTML 5, DocBook 5, manual pages, PDF, EPUB 3, and other formats.
+  - [Antora](https://gitlab.com/antora/antora) - A modular documentation site generator that helps you organize and publish content written in AsciiDoc to the web.
+- [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) - The default plaintext markup language used by Sphinx.
+- [DocBook](https://docbook.org/) - An XML schema for writing books and manuals about technical subjects.
+- [LaTeX](https://www.latex-project.org/) - A document preparation system.
+
 ### Guidelines
 
 - [Style Guides](https://www.writethedocs.org/guide/writing/style-guides/) - Collections of style guides from Write the Docs community.
@@ -359,25 +380,17 @@ Documentation can be more than just plain texts and static pictures.
 - [Series: Writing Great Documentation](https://jacobian.org/series/great-documentation/) - A series of articles laying out the tools, tips, and techniques author learned over the years he've spent helping to write Django's docs.
 - [Command Line Interface Guidelines](https://clig.dev/) - An open-source guide covering CLI help text and documentation.
 
-### Examples
+### Books
 
-- [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs.git) - Pointers to useful, well-written, and otherwise beautiful documentation.
-- [Awesome Open Source Documents](https://github.com/44bits/awesome-opensource-documents) - A curated list of awesome open source or open source licensed documents, guides, books.
-
-### Formats
-
-- Converters
-  - [Pandoc](https://pandoc.org/) - A universal document converter, which can convert files from one markup format into another.
-  - [gd2md-html](https://github.com/evbacher/gd2md-html) - Convert a Google Doc to Markdown or HTML.
-- [Markdown](https://www.wikiwand.com/en/Markdown) - A lightweight markup language for creating formatted text using a plain-text editor.
-  - [MarkText](https://github.com/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
-  - [Glow](https://github.com/charmbracelet/glow) - A terminal based markdown reader, which can be used to read documentation directly on the command line.
-- [AsciiDoc](https://asciidoc.org) - A plain text markup language for writing technical content.
-  - [Asciidoctor](https://github.com/asciidoctor/asciidoctor) - A fast, open source, Ruby-based text processor for parsing AsciiDoc and converting it to output formats such as HTML 5, DocBook 5, manual pages, PDF, EPUB 3, and other formats.
-  - [Antora](https://gitlab.com/antora/antora) - A modular documentation site generator that helps you organize and publish content written in AsciiDoc to the web.
-- [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) - The default plaintext markup language used by Sphinx.
-- [DocBook](https://docbook.org/) - An XML schema for writing books and manuals about technical subjects.
-- [LaTeX](https://www.latex-project.org/) - A document preparation system.
+- [Docs for Developers: An Engineer's Field Guide to Technical Writing](https://learning.oreilly.com/library/view/docs-for-developers/9781484272176/) - Teaches you the craft of documentation for each step in the software development lifecycle.
+- [Technical Documentation and Process](https://learning.oreilly.com/library/view/technical-documentation-and/9781439861608/) - Provide the background and structure to help you document your projects more effectively.
+- [Crafting Docs for Success : An End-to-End Approach to Developer Documentation](https://learning.oreilly.com/library/view/crafting-docs-for/9781484295946/) - Provide an easy to follow blueprint for building successful developer documentation by using the award winning platformOS developer portal as inspiration.
+- [Docs-as-Ecosystem: The Community Approach to Engineering Documentation](https://learning.oreilly.com/library/view/docs-as-ecosystem-the-community/9781484293287/) - Teaches readers how mastering the docs-as-code ecosystem empowers communities to understand better their favorite products and Open-Source (OSS) technologies better.
+- [Documenting Software Architectures: Views and Beyond, Second Edition](https://www.oreilly.com/library/view/documenting-software-architectures/9780132488617/) - Provides the most complete and current guidance, independent of language or notation, on how to capture an architecture in a commonly understandable form.
+- [Communication Patterns](https://learning.oreilly.com/library/view/communication-patterns/9781098140533/) - Shows you how to create documentation and diagrams that actually get the message across to the different audiences you'll face.
+- [Living Documentation: Continuous Knowledge Sharing by Design, First Edition](https://learning.oreilly.com/library/view/living-documentation-continuous/9780134689418/) - Use an Approach Inspired by Domain-Driven Design to Build Documentation That Evolves to Maximize Value Throughout Your Development Lifecycle.
+- [Communicating Design: Developing Web Site Documentation for Design and Planning, Second Edition](https://learning.oreilly.com/library/view/communicating-design-developing/9780131385399/) - Shows you how to make the documentation you're required to provide into the most efficient communications tool possible.
+- [Information Development: Managing Your Documentation Projects, Portfolio, and People](https://learning.oreilly.com/library/view/information-development-managing/9780471777113/) - A completely new look at best practices for all phases of the document development lifecycle.
 
 ### DocOps
 
