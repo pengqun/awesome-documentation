@@ -31,12 +31,14 @@ This list aims to assist by providing you with out-of-box templates and practica
   - [Checker \& Formatter](#checker--formatter)
   - [Diagramming](#diagramming)
   - [Multimedia](#multimedia)
+  - [Commercial](#commercial)
 - [More Topics](#more-topics)
   - [Comunities](#comunities)
   - [Examples](#examples)
   - [Formats](#formats)
   - [Guidelines](#guidelines)
   - [Books](#books)
+  - [Courses](#courses)
   - [DocOps](#docops)
   - [Localization](#localization)
   - [Accessibility](#accessibility)
@@ -83,7 +85,7 @@ Answers frequently asked questions to quickly resolve common issues or clarify t
 
 - [The Facts About FAQs](https://www.writethedocs.org/videos/portland/2018/the-facts-about-faqs-ashleigh-rentz/) - Explore various questions we might frequently ask ourselves about FAQs.
 
-#### In-app
+#### In-app Documentation
 
 Wizards, tooltips, onboarding, etc.
 
@@ -211,6 +213,7 @@ API is the univesal language of the software world, which needs to be documented
   - [JSDoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
   - [documentation.js](https://github.com/documentationjs/documentation) - The documentation system for modern JavaScript.
   - [Docz](https://github.com/doczjs/docz) - Write and publish beautiful interactive documentation for your code.
+  - [Storybook](https://github.com/storybookjs/storybook) - A frontend workshop made for UI development, testing, and documentation.
 - TypeScript
   - [TSDoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript.
 - Python
@@ -242,15 +245,13 @@ API is the univesal language of the software world, which needs to be documented
 - SQL
   - [SchemaSpy](https://github.com/schemaspy/schemaspy) - Document your database simply and easily.
 - CSS
-  - [Knyle Style Sheets](https://github.com/kneath/kss) ![GitHub Repo stars](https://img.shields.io/github/stars/kneath/kss) - A methodology for documenting CSS and generating styleguides.
-  - [Hologram](https://github.com/trulia/hologram) ![GitHub Repo stars](https://img.shields.io/github/stars/trulia/hologram) - A Ruby gem that parses comments in your CSS and turns them into a beautiful styleguide.
 
 ### Test Documentation
 
 - Test Plans
 - Test Cases
 - Test Report
-- [Bug report template](https://gitlab.com/tgdp/templates/-/blob/main/bug-report/template-bug-report.md) - Open-source template provided by The Good Docs Project.
+  - [Bug report template](https://gitlab.com/tgdp/templates/-/blob/main/bug-report/template-bug-report.md) - Open-source template provided by The Good Docs Project.
 - Coverage
 - Performance
 
@@ -342,6 +343,11 @@ Documentation can be more than just plain texts and static pictures.
 - Presentation Tools
   - [Slidev](https://github.com/slidevjs/slidev) - Presentation slides for developers.
   - [carbon](https://github.com/carbon-app/carbon) - Create and share beautiful images of your source code.
+  - [Code Hike](https://github.com/code-hike/codehike) - Helps you create a superior code reading experience, whether you are writing blog posts, documentation, tutorials, coding videos, or any type of technical content.
+
+### Commercial
+
+- [Writerside | JetBrains](https://www.jetbrains.com/writerside/) - The most powerful development environment – now adapted for writing documentation.
 
 ## More Topics
 
@@ -349,16 +355,20 @@ Documentation can be more than just plain texts and static pictures.
 
 - [Write the Docs](https://www.writethedocs.org/) - A global community of people who care about documentation.
 - [The Good Docs Project](https://gitlab.com/tgdp) - Educates and empowers people to create high-quality documentation.
+- [Technical Writing | Reddit](https://www.reddit.com/r/technicalwriting/) - For people who take the unbelievably complicated things that scientists and engineers devise and make it understandable for non-technical people.
 
 ### Examples
 
 - [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs.git) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [Awesome Open Source Documents](https://github.com/44bits/awesome-opensource-documents) - A curated list of awesome open source or open source licensed documents, guides, books.
+- [Awesome Documentation | vipulgupta2048](https://github.com/vipulgupta2048/awesome-documentation) - A curated list of awesome real-life documentation examples.
+- [9 Great API and Developer Documentation Examples](https://everydeveloper.com/developer-documentation-examples/) - Cover common areas of documentation, plus some areas you might not typically see called docs.
 
 ### Formats
 
 - Converters
   - [Pandoc](https://pandoc.org/) - A universal document converter, which can convert files from one markup format into another.
+  - [Mammoth](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML.
 - [Markdown](https://www.wikiwand.com/en/Markdown) - A lightweight markup language for creating formatted text using a plain-text editor.
   - [MarkText](https://github.com/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
   - [Glow](https://github.com/charmbracelet/glow) - A terminal based markdown reader, which can be used to read documentation directly on the command line.
@@ -391,6 +401,10 @@ Documentation can be more than just plain texts and static pictures.
 - [Living Documentation: Continuous Knowledge Sharing by Design, First Edition](https://learning.oreilly.com/library/view/living-documentation-continuous/9780134689418/) - Use an Approach Inspired by Domain-Driven Design to Build Documentation That Evolves to Maximize Value Throughout Your Development Lifecycle.
 - [Communicating Design: Developing Web Site Documentation for Design and Planning, Second Edition](https://learning.oreilly.com/library/view/communicating-design-developing/9780131385399/) - Shows you how to make the documentation you're required to provide into the most efficient communications tool possible.
 - [Information Development: Managing Your Documentation Projects, Portfolio, and People](https://learning.oreilly.com/library/view/information-development-managing/9780471777113/) - A completely new look at best practices for all phases of the document development lifecycle.
+
+### Courses
+
+- [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing) - This collection of courses and learning resources from Google aims to improve your technical documentation.
 
 ### DocOps
 
