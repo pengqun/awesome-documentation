@@ -47,7 +47,7 @@ This list aims to assist by providing you with out-of-box templates and practica
 
 ### User Documentation
 
-> It doesn't matter how good your product is, because if its documentation is not good enough, people will not use it. -  [The Documentation System](https://documentation.divio.com/introduction.html)
+> _"It doesn't matter how good your product is, because if its documentation is not good enough, people will not use it."_ -  [The Documentation System](https://documentation.divio.com/introduction.html)
 
 #### Tutorial
 
@@ -87,7 +87,7 @@ Answers frequently asked questions to quickly resolve common issues or clarify t
 
 #### In-app Documentation
 
-Wizards, tooltips, onboarding, etc.
+Assist users in understanding and navigating the features and functionalities of the app directly from within its interface.
 
 - [Driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.
 - [Shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app.
@@ -126,7 +126,7 @@ Wizards, tooltips, onboarding, etc.
 
 ### API Documentation
 
-API is the univesal language of the software world, which needs to be documented well.
+> _"All teams will henceforth expose their data and functionality through service interfaces."_ - [The Bezos API Mandate](https://nordicapis.com/the-bezos-api-mandate-amazons-manifesto-for-externalization/)
 
 #### General
 
@@ -194,7 +194,11 @@ API is the univesal language of the software world, which needs to be documented
 
 #### Comments
 
-> “Code Tells You How, Comments Tell You Why.” — [Jeff Atwood](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
+> _“Code Tells You How, Comments Tell You Why.”_ — [Jeff Atwood](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
+
+- [Best practices for writing code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/) - 9 rules to help you write better comments, providing examples and explaining how and when to apply them.
+- [The Engineer's Guide to Writing Meaningful Code Comments](https://stepsize.com/blog/the-engineers-guide-to-writing-code-comments) - Covers types of comments, when and how to write code comments, some best practices, and when not to write them.
+- [NERD Commenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers.
 
 #### Error Messages
 
