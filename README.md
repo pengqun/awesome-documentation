@@ -349,6 +349,11 @@ Documentation can be more than just plain texts and static pictures.
   - [carbon](https://github.com/carbon-app/carbon) - Create and share beautiful images of your source code.
   - [Code Hike](https://github.com/code-hike/codehike) - Helps you create a superior code reading experience, whether you are writing blog posts, documentation, tutorials, coding videos, or any type of technical content.
 
+- Free Icons & Images
+  - [Unsplash](https://unsplash.com/) - Beautiful, free images and photos that you can download and use for any project.
+  - [Illustrations | Popsy](https://popsy.co/illustrations) - Free vector illustrations for Notion and Popsy websites.
+  - [KindPng](https://www.kindpng.com/) - Explore millions of transparent png image for personal and non-commercial use.
+
 ### Commercial
 
 - [Writerside | JetBrains](https://www.jetbrains.com/writerside/) - The most powerful development environment – now adapted for writing documentation.
