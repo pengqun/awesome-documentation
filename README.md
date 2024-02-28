@@ -299,7 +299,6 @@ Assist users in understanding and navigating the features and functionalities of
 ### Knowledge Base
 
 - [Documize](https://github.com/documize/community) - Modern Confluence alternative designed for internal & external docs.
-- [Confluence in a Docker container](https://github.com/cptactionhank/docker-atlassian-confluence) - Atlassian Confluence wrapped in a Docker image.
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases.
 - [Seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration.
@@ -357,7 +356,12 @@ Documentation can be more than just plain texts and static pictures.
 
 ### Commercial
 
+- [Confluence](https://www.atlassian.com/software/confluence) - A powerful collaboration and project management software, which is widely used for enterprise documentation management.
+  - [Confluence in a Docker container](https://github.com/cptactionhank/docker-atlassian-confluence) - Atlassian Confluence wrapped in a Docker image.
 - [Writerside | JetBrains](https://www.jetbrains.com/writerside/) - The most powerful development environment – now adapted for writing documentation.
+- [Project documentation | Slite](https://slite.com/solutions/project-documentation) - Brings your scattered project documents into one place:
+from project plans, to specs and process documentation.
+- [Swimm document](https://swimm.io/document) - Code documentation for developer productivity, including AI support to improve readability.
 
 ## More Topics
 
@@ -397,6 +401,7 @@ Documentation can be more than just plain texts and static pictures.
 - [Editorial guidelines for Apple](https://support.apple.com/guide/applestyleguide/welcome/web) - Provides guidelines to help maintain a consistent voice in Apple materials, including documentation.
 - [GitHub Docs Style guide](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide) - Make sure GitHub's documentation stays consistent and follows clear patterns that our readers can understand.
 - [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/) - Includes everyday punctuation and grammar, common mistakes to avoid, strategies for translation and global audiences, and a word usage dictionary.
+- [How to Write Good Documentation | UC Berkeley](https://guides.lib.berkeley.edu/how-to-write-good-documentation) - Help you to prepare your code for publishing through writing a good documentation.
 - [Series: Writing Great Documentation](https://jacobian.org/series/great-documentation/) - A series of articles laying out the tools, tips, and techniques author learned over the years he've spent helping to write Django's docs.
 - [Command Line Interface Guidelines](https://clig.dev/) - An open-source guide covering CLI help text and documentation.
 
@@ -415,6 +420,7 @@ Documentation can be more than just plain texts and static pictures.
 ### Courses
 
 - [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing) - This collection of courses and learning resources from Google aims to improve your technical documentation.
+- [Technical Writer HQ](https://technicalwriterhq.com/) - Hosts popular certification courses covering different aspects of technical writing in an applicable way.
 
 ### DocOps
 
