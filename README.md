@@ -56,7 +56,7 @@ Step-by-step instructions to teach users how to use or implement the subject or 
 - [Tutorial](https://documentation.divio.com/tutorials.html) - Lean how to write good tutorials from The Documentation System.
 - [Tutorial template](https://gitlab.com/tgdp/templates/-/blob/main/tutorial/template-tutorial.md) - Open-source template provided by The Good Docs Project.
 - [Writing a perfect technical tutorial](https://www.writethedocs.org/videos/portland/2021/writing-a-perfect-technical-tutorial-jessica-garson/) - How to start creating tutorials, gather feedback, and the next steps once the tutorial is published.
-- [Example: Build your first Astro Blog](https://docs.astro.build/en/tutorial/0-introduction/) - A well-structured and good-looking tutorial that covers Astro’s key features by building a fully-functioning blog, from zero to full launch.
+- [Example: Build your first Astro Blog](https://docs.astro.build/en/tutorial/0-introduction/) - A well-structured and good-looking tutorial that covers Astro's key features by building a fully-functioning blog, from zero to full launch.
 
 #### Reference
 
