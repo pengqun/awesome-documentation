@@ -9,9 +9,9 @@ TODO:
 
 > A curated and **up-to-date** list of resources on software documentation templates, tools, guides & examples.
 
-Software documentation is crucial for ensuring clarity and efficiency throughout the development process, by facilitating better understanding and collaboration among team members. However, for various reasons, the creation and maintenance of documentation has frequently been mishandled, resulting in lots of inefficiency, inconsistency, and poor quality.
+Software documentation is critical to ensuring clarity and efficiency throughout the development process by facilitating better understanding and collaboration among team members. However, for a variety of reasons, the creation and maintenance of documentation has often been mismanaged, resulting in inefficiency, inconsistency, and poor quality.
 
-This list aims to assist by providing you with out-of-box templates and practical tools to maximize efficiency, insightful guides and established standards to ensure consistency, and real-world documents to serve as examples.
+This list aims to help by providing you with out-of-the-box templates and practical tools to maximize efficiency, insightful guides and established standards to ensure consistency, and real-world documents to serve as examples.
 
 Translations available in: [🇨🇳 中文](README_zh.md)
 
