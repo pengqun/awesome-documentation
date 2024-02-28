@@ -362,6 +362,7 @@ Documentation can be more than just plain texts and static pictures.
 - [Project documentation | Slite](https://slite.com/solutions/project-documentation) - Brings your scattered project documents into one place:
 from project plans, to specs and process documentation.
 - [Swimm document](https://swimm.io/document) - Code documentation for developer productivity, including AI support to improve readability.
+- [Kapa.ai](https://kapa.ai/) - Generate an LLM-powered chatbot that answers developer questions automatically and helps you find gaps in your docs.
 
 ## More Topics
 
