@@ -7,13 +7,13 @@ TODO:
 
 # Awesome Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml/badge.svg)](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml)
 
-Translations available in: [🇨🇳 中文](README_zh.md)
-
 > A curated and **up-to-date** list of resources on software documentation templates, tools, guides & examples.
 
 Software documentation is crucial for ensuring clarity and efficiency throughout the development process, by facilitating better understanding and collaboration among team members. However, for various reasons, the creation and maintenance of documentation has frequently been mishandled, resulting in lots of inefficiency, inconsistency, and poor quality.
 
 This list aims to assist by providing you with out-of-box templates and practical tools to maximize efficiency, insightful guides and established standards to ensure consistency, and real-world documents to serve as examples.
+
+Translations available in: [🇨🇳 中文](README_zh.md)
 
 ## Contents
 
@@ -56,6 +56,7 @@ Step-by-step instructions to teach users how to use or implement the subject or 
 - [Tutorial](https://documentation.divio.com/tutorials.html) - Lean how to write good tutorials from The Documentation System.
 - [Tutorial template](https://gitlab.com/tgdp/templates/-/blob/main/tutorial/template-tutorial.md) - Open-source template provided by The Good Docs Project.
 - [Writing a perfect technical tutorial](https://www.writethedocs.org/videos/portland/2021/writing-a-perfect-technical-tutorial-jessica-garson/) - How to start creating tutorials, gather feedback, and the next steps once the tutorial is published.
+- [Example: Build your first Astro Blog](https://docs.astro.build/en/tutorial/0-introduction/) - A well-structured and good-looking tutorial that covers Astro’s key features by building a fully-functioning blog, from zero to full launch.
 
 #### Reference
 
