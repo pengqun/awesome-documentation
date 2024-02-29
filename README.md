@@ -346,6 +346,7 @@ Documentation can be more than just plain texts and static pictures.
   - [Animockup](https://github.com/alyssaxuu/animockup) - A web-based tool that helps you create animated mockups for your product teasers.
 - Presentation Tools
   - [Slidev](https://github.com/slidevjs/slidev) - Presentation slides for developers.
+  - [reveal.js](https://github.com/hakimel/reveal.js) - Open source HTML presentation framework.
   - [carbon](https://github.com/carbon-app/carbon) - Create and share beautiful images of your source code.
   - [Code Hike](https://github.com/code-hike/codehike) - Helps you create a superior code reading experience, whether you are writing blog posts, documentation, tutorials, coding videos, or any type of technical content.
 
