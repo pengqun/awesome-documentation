@@ -263,6 +263,9 @@ Assist users in understanding and navigating the features and functionalities of
 ### Other Types
 
 - Project Requirements Documentation (PRD)
+  - [PRD: Product Requirements Doc templates](https://www.notion.so/templates/category/product-requirements-doc) - A bunch of PRD templates from Notion, both free and paid.
+  - [Product Templates: Product Requirements Document (PRD)](https://productschool.com/blog/product-strategy/product-template-requirements-document-prd) - Free PRD Templates from Product School.
+  - [PRD templates for product managers](https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-product-requirements-document-template) - PRD templated from Aha! software.
 - RFC (Request for Comment)
 
 ## General Tools
