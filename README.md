@@ -254,6 +254,9 @@ Assist users in understanding and navigating the features and functionalities of
 ### Test Documentation
 
 - Test Plans
+  - [IEEE Test Plan Template](https://github.com/JennifferLockwood/test_plan_template) - IEEE 829 templates in HTML5 and Markdown formats.
+  - [SONiC Test Plan Template](https://github.com/sonic-net/SONiC/blob/master/doc/SONiC%20Test%20Plan%20Template.md) - A test plan template from Software for Open Networking in the Cloud (SONiC).
+  - [Writing Test Plan Items | VS Code](https://github.com/microsoft/vscode/wiki/Writing-Test-Plan-Items) - A guide for writing Test Plan Item (TPI) for VS Code project.
 - Test Cases
 - Test Report
   - [Bug report template](https://gitlab.com/tgdp/templates/-/blob/main/bug-report/template-bug-report.md) - Open-source template provided by The Good Docs Project.
