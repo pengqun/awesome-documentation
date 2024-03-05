@@ -188,6 +188,8 @@ Assist users in understanding and navigating the features and functionalities of
 
 #### README
 
+README files are a staple of any code project. They provide the first introduction to a new codebase and help you share important project details with collaborators.
+
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects.
 - [Awesome README](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs, including examples, articles and tools.
 - [README template](https://gitlab.com/tgdp/templates/-/blob/main/readme/template-readme.md) - Open-source template provided by The Good Docs Project.
