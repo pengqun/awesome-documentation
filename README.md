@@ -1,4 +1,3 @@
-<!--lint ignore awesome-git-repo-age-->
 <!--
 TODO:
 - Script to add GitHub stars badge for repo link automatically
