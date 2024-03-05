@@ -41,6 +41,7 @@ Translations available in: [🇨🇳 中文](README_zh.md)
   - [DocOps](#docops)
   - [Localization](#localization)
   - [Accessibility](#accessibility)
+  - [SEO](#seo)
 
 ## Documentation Types
 
@@ -453,6 +454,14 @@ from project plans, to specs and process documentation.
 - [WebAIM](https://webaim.org/) - Web accessibility in mind.
 - [Pa11y](https://github.com/pa11y/pa11y) - Runs accessibility tests on your doc pages via the command line or Node.js.
 - [Create accessible documents | UW Madison](https://it.wisc.edu/learn/make-it-accessible/create-accessible-documents/) - Follow these basic steps to increase the accessibility of your Word, HTML, PowerPoint and PDF documents.
+
+### SEO
+
+- [How to do search engine optimization (SEO) for documentation projects](https://docs.readthedocs.io/en/stable/guides/technical-docs-seo-guide.html) - Explains how documentation can be optimized to appear in search results, ultimately increasing traffic to your docs.
+- [Search engine optimization (SEO) for documentation](https://www.writethedocs.org/guide/seo/) - SEO guide from Write the Docs community.
+- [Five ways to improve SEO of your technical documentation and OpenAPI references](https://www.doctave.com/blog/improve-seo-technical-documentation-and-openapi) - Five ways to improve the search engine rankings of your technical docs and OpenAPI specification.
+- [Search Engine Optimization (SEO) Starter Guide | Google](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) - Provides the best practices to make it easier for search engines (not just Google) to crawl, index, and understand your content.
+- [Search engine optimization (SEO) | Docusaurus](https://docusaurus.io/docs/next/seo) - Show how Docusaurus as documentation site builder supports SEO in a variety of ways.
 
 ## Contributing
 
