@@ -260,6 +260,9 @@ README files are a staple of any code project. They provide the first introducti
   - [SONiC Test Plan Template](https://github.com/sonic-net/SONiC/blob/master/doc/SONiC%20Test%20Plan%20Template.md) - A test plan template from Software for Open Networking in the Cloud (SONiC).
   - [Writing Test Plan Items | VS Code](https://github.com/microsoft/vscode/wiki/Writing-Test-Plan-Items) - A guide for writing Test Plan Item (TPI) for VS Code project.
 - Test Cases
+  - [TestCases and Templates for Manual Software Testing](https://github.com/mfaisalkhatri/Manual_Testing) - General Test Cases for performing Manual Testing and API Testing on the Web/Mobile application.
+  - [Test Case Template (Download Sample Excel)](https://www.guru99.com/download-sample-test-case-template-with-explanation-of-important-fields.html) - A free test case template from Guru99, with both Excel and Word formats.
+  - [Test Case Template with Examples: Free Excel & Word Sample for Download](https://katalon.com/resources-center/blog/test-case-template-examples) - A free test case template from Katalon, with guidelines and direct download links.
 - Test Report
   - [Bug report template](https://gitlab.com/tgdp/templates/-/blob/main/bug-report/template-bug-report.md) - Open-source template provided by The Good Docs Project.
 - Coverage
