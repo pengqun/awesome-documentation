@@ -1,7 +1,7 @@
 <!--
 TODO:
-- Script to add GitHub stars badge for repo link automatically
-- Auto generate/update translated version of edits (VS Code plugin + ChatGPT?)
+  - VS Code markdown plugin to add GitHub stars badge for repo link automatically
+  - Auto generate/update translated version of edits (VS Code plugin + ChatGPT?)
 -->
 
 # Awesome Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml/badge.svg)](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml)
@@ -212,7 +212,7 @@ README files are a staple of any code project. They provide the first introducti
 - [CONTRIBUTING template](https://gitlab.com/tgdp/templates/-/blob/main/contributing-guide/template-contributing-guide.md) - Open-source template provided by The Good Docs Project.
 - [Code Of Conduct template](https://gitlab.com/tgdp/templates/-/tree/main/code-of-conduct) - Open-source template provided by The Good Docs Project.
 - [Style guide template](https://gitlab.com/tgdp/templates/-/blob/main/style-guide/template-style-guide.md) - Open-source template provided by The Good Docs Project.
-- License
+- [License templates](https://github.com/licenses/license-templates) - Templates for open source and other licenses.
 
 #### Language-specific
 
@@ -276,7 +276,8 @@ README files are a staple of any code project. They provide the first introducti
   - [PRD: Product Requirements Doc templates](https://www.notion.so/templates/category/product-requirements-doc) - A bunch of PRD templates from Notion, both free and paid.
   - [Product Templates: Product Requirements Document (PRD)](https://productschool.com/blog/product-strategy/product-template-requirements-document-prd) - Free PRD Templates from Product School.
   - [PRD templates for product managers](https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-product-requirements-document-template) - PRD templated from Aha! software.
-- RFC (Request for Comment)
+- Request for Comment (RFC)
+  - [Request for Comment template](https://gitlab.com/tgdp/request-for-comment/-/blob/main/rfc-template.md) -  Open-source template provided by The Good Docs Project.
 
 ## General Tools
 
