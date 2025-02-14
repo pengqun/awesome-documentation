@@ -27,6 +27,7 @@ Translations available in: [🇨🇳 中文](README_zh.md)
   - [Site Builder](#site-builder)
   - [Wiki Builder](#wiki-builder)
   - [Knowledge Base](#knowledge-base)
+  - [AI-powered Tools](#ai-powered-tools)
   - [Checker \& Formatter](#checker--formatter)
   - [Diagramming](#diagramming)
   - [Multimedia](#multimedia)
@@ -318,6 +319,11 @@ README files are a staple of any code project. They provide the first introducti
 - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration.
 - [MrDoc](https://github.com/zmister2016/MrDoc) - An online document system suitable for individuals and small teams to manage documents, wiki, knowledge and notes.
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - A next-gen knowledge base that brings planning, sorting and creating all together.
+
+### AI-powered Tools
+
+- [Mintlify Writer](https://github.com/mintlify/writer) - An AI-powered VS Code extension that automatically generates code documentation by highlighting code. Supports multiple programming languages and docstring formats including JSDoc, reST, NumPy, and more.
+- [Readme AI](https://github.com/eli64s/readme-ai) - A developer tool that automatically generates comprehensive README files using repository analysis and language models. It supports multiple LLM providers, custom templates, and offline generation.
 
 ### Checker & Formatter
 
