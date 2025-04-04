@@ -150,6 +150,8 @@ Assist users in understanding and navigating the features and functionalities of
 - [Fern](https://github.com/fern-api/fern) - Generate SDKs and API documentation from OpenAPI definitions.
 - [Elements](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown.
 - [Scalar](https://github.com/scalar/scalar) - Generate interactive API documentations from Swagger files.
+- [GitBook](https://github.com/GitbookIO/gitbook) - A modern platform for creating and managing interactive API documentation from OpenAPI definitions.
+
 
 #### GraphQL
 
@@ -286,6 +288,7 @@ README files are a staple of any code project. They provide the first introducti
 
 - [Docusaurus](https://github.com/facebook/docusaurus) ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/docusaurus) - A project for building, deploying, and maintaining open source project websites easily.
 - [Docsify](https://github.com/docsifyjs/docsify) ![GitHub Repo stars](https://img.shields.io/github/stars/docsifyjs/docsify) - A magical documentation site generator.
+- [GitBook](https://www.gitbook.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/gitbookio/gitbook) - A modern platform for creating beautiful, user-focused documentation for products, APIs, and SDKs.
 - [MkDocs](https://github.com/mkdocs/mkdocs) ![GitHub Repo stars](https://img.shields.io/github/stars/mkdocs/mkdocs) - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
   - [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) ![GitHub Repo stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material) - A powerful documentation framework on top of MkDocs.
 - [mdBook](https://github.com/rust-lang/mdBook) ![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust.
@@ -324,6 +327,7 @@ README files are a staple of any code project. They provide the first introducti
 
 - [Mintlify Writer](https://github.com/mintlify/writer) - An AI-powered VS Code extension that automatically generates code documentation by highlighting code. Supports multiple programming languages and docstring formats including JSDoc, reST, NumPy, and more.
 - [Readme AI](https://github.com/eli64s/readme-ai) - A developer tool that automatically generates comprehensive README files using repository analysis and language models. It supports multiple LLM providers, custom templates, and offline generation.
+- [GitBook AI](https://www.gitbook.com/solutions/ai) - A built-in AI assistant that helps teams quickly draft, refine, and enhance product documentation with smart, context-aware suggestions.
 
 ### Checker & Formatter
 
