@@ -152,7 +152,6 @@ Assist users in understanding and navigating the features and functionalities of
 - [Scalar](https://github.com/scalar/scalar) - Generate interactive API documentations from Swagger files.
 - [GitBook](https://github.com/GitbookIO/gitbook) - A modern platform for creating and managing interactive API documentation from OpenAPI definitions.
 
-
 #### GraphQL
 
 [GraphQL](https://graphql.org/) is a query language for APIs, which provides a complete and understandable description of the data in your API.
@@ -322,6 +321,7 @@ README files are a staple of any code project. They provide the first introducti
 - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration.
 - [MrDoc](https://github.com/zmister2016/MrDoc) - An online document system suitable for individuals and small teams to manage documents, wiki, knowledge and notes.
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - A next-gen knowledge base that brings planning, sorting and creating all together.
+- [Docmost](https://github.com/docmost/docmost) - An open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 
 ### AI-powered Tools
 
