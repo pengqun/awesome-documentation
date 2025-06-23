@@ -150,6 +150,7 @@ Assist users in understanding and navigating the features and functionalities of
 - [Fern](https://github.com/fern-api/fern) - Generate SDKs and API documentation from OpenAPI definitions.
 - [Elements](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown.
 - [Scalar](https://github.com/scalar/scalar) - Generate interactive API documentations from Swagger files.
+- [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) - Generate API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 - [GitBook](https://github.com/GitbookIO/gitbook) - A modern platform for creating and managing interactive API documentation from OpenAPI definitions.
 
 #### GraphQL
