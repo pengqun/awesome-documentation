@@ -25,13 +25,23 @@ TODO:
 - [通用工具](#通用工具)
   - [站点构建器](#站点构建器)
   - [Wiki 构建器](#wiki-构建器)
+  - [知识库](#知识库)
+  - [AI 工具](#ai-工具)
+  - [检查与格式化](#检查与格式化)
   - [绘图工具](#绘图工具)
+  - [多媒体](#多媒体)
+  - [商业化](#商业化)
 - [更多主题](#更多主题)
   - [社区](#社区)
   - [指南](#指南)
   - [示例](#示例)
   - [DocOps](#docops)
   - [本地化](#本地化)
+  - [可访问性](#可访问性)
+  - [SEO](#seo)
+  - [文档格式](#文档格式)
+  - [书籍](#书籍)
+  - [课程](#课程)
 
 ## 文档类型
 
@@ -206,17 +216,27 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 ### 站点构建器
 
 - [Docusaurus](https://github.com/facebook/docusaurus) ![GitHub Repo stars](https://img.shields.io/github/stars/facebook/docusaurus) - 一个用于轻松构建、部署和维护开源项目网站的项目。
+- [Docsify](https://github.com/docsifyjs/docsify) ![GitHub Repo stars](https://img.shields.io/github/stars/docsifyjs/docsify) - 简单而神奇的文档站点生成器。
+- [GitBook](https://www.gitbook.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/gitbookio/gitbook) - 现代化的平台，让你轻松编写面向用户的产品、API 和 SDK 文档。
 - [MkDocs](https://github.com/mkdocs/mkdocs) ![GitHub Repo stars](https://img.shields.io/github/stars/mkdocs/mkdocs) - 一个快速、简单且绝对华丽的静态站点生成器，专注于构建项目文档。
+  - [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) ![GitHub Repo stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material) - 强大的 MkDocs 主题和框架。
+- [mdBook](https://github.com/rust-lang/mdBook) ![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/mdBook) - 从 Markdown 创建电子书，类似于用 Rust 实现的 GitBook。
 - [Sphinx](https://github.com/sphinx-doc/sphinx) ![GitHub Repo stars](https://img.shields.io/github/stars/sphinx-doc/sphinx) - 使创建智能和美观的文档变得容易。
   - [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) - Sphinx 使用的默认纯文本标记语言。
   - [Read The Docs](https://about.readthedocs.com/) - 为开源社区托管文档，支持用 reStructuredText 编写的 Sphinx 文档。
+- [Markdoc](https://github.com/markdoc/markdoc) - 基于 Markdown 的语法和工具链，用于打造自定义文档站点。
 - [Starlight](https://github.com/withastro/starlight) ![GitHub Repo stars](https://img.shields.io/github/stars/withastro/starlight) - 使用 Astro 构建美观、无障碍、高性能的文档网站。
+- [Docco](https://github.com/jashkenas/docco) ![GitHub Repo stars](https://img.shields.io/github/stars/jashkenas/docco) - 只需百来行代码就能生成文档的项目，采用文学式编程风格。
+- [bookdown](https://github.com/rstudio/bookdown) ![GitHub Repo stars](https://img.shields.io/github/stars/rstudio/bookdown) - 使用 R Markdown 编写书籍与技术文档。
+- [Docus](https://github.com/nuxt-themes/docus) ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt-themes/docus) - 使用 Vue 与 Markdown 构建以文档驱动的网站。
+- [Doctave](https://github.com/Doctave/doctave) ![GitHub Repo stars](https://img.shields.io/github/stars/Doctave/doctave) - 开箱即用的开发者文档站点生成器。
 
 ### Wiki 构建器
 
 - [Wiki.js](https://github.com/Requarks/wiki) - 一个基于 Node.js 构建的现代且强大的 wiki 应用。
 - [MediaWiki](https://github.com/wikimedia/mediawiki) - 一个免费且开源的 wiki 软件包，使用 PHP 编写。它为维基百科和其他维基媒体项目提供平台。
 - [DokuWiki](https://github.com/dokuwiki/dokuwiki) - 一个简单易用且功能丰富的开源 wiki 软件，不需要数据库。
+- [Gollum](https://github.com/gollum/gollum) - 基于 Git 构建的轻量级 wiki 系统。
 - [VimWiki](https://github.com/vimwiki/vimwiki) - Vim 的个人 wiki，可用于编写文档。
 - [GitHub Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
   - [Awesome GitHub Wikis](https://github.com/MyHoneyBadger/awesome-github-wiki) - 精选的超棒 GitHub Wikis 列表，包括示例、技巧和窍门。
@@ -224,10 +244,82 @@ API 是软件世界的通用语言，需要进行良好的文档化。
   - [联邦 Wiki](https://www.writethedocs.org/videos/na/2015/keynote-the-federated-wiki-ward-cunningham/) - 由 Ward Cunningham 使用联邦来简化共享。
   - [Node.js 服务器版本](https://github.com/fedwiki/wiki) - 作为 npm 包的联邦 Wiki node 服务器。
 
+### 知识库
+
+- [Documize](https://github.com/documize/community) - 现代化的 Confluence 替代品，适合管理内部和外部文档。
+- [Trilium Notes](https://github.com/zadam/trilium) - 支持层级结构的笔记应用，可构建大型个人知识库。
+- [Seafile](https://github.com/haiwen/seafile) - 高性能的文件同步与分享平台，提供 Markdown 编辑、Wiki 等知识管理功能。
+- [Logseq](https://github.com/logseq/logseq) - 以隐私为先的开源知识管理与协作平台。
+- [MrDoc](https://github.com/zmister2016/MrDoc) - 适合个人和小团队的在线文档系统，可管理文档、Wiki 和笔记。
+- [AFFiNE](https://github.com/toeverything/AFFiNE) - 下一代知识库，集计划、整理与创作于一体。
+- [Docmost](https://github.com/docmost/docmost) - 开源协作式 Wiki 与文档软件，是 Confluence 和 Notion 的替代品。
+
+### AI 工具
+
+- [Mintlify Writer](https://github.com/mintlify/writer) - 基于 AI 的 VS Code 扩展，高亮代码即可生成说明。
+- [Readme AI](https://github.com/eli64s/readme-ai) - 自动分析仓库并生成完善的 README，支持多种 LLM 与模板。
+- [GitBook AI](https://www.gitbook.com/solutions/ai) - GitBook 内置的 AI 助手，根据上下文提供写作建议。
+
+### 检查与格式化
+
+- [LanguageTool](https://github.com/languagetool-org/languagetool) - 支持多语言的语法和拼写检查工具。
+- [Spellcheck GitHub Actions](https://github.com/rojopolis/spellcheck-github-actions) - 在 GitHub Actions 中进行拼写检查。
+- [TeXtidote](https://github.com/sylvainhalle/textidote) - 用于 LaTeX 等格式的校对工具。
+- [alex](https://github.com/get-alex/alex) - 检测潜在不妥或冒犯性的用语。
+- [Lychee](https://github.com/lycheeverse/lychee) - 检查 Markdown、HTML 等文件中的失效链接。
+- [linkinator](https://github.com/JustinBeckwith/linkinator) - 极简的站点爬虫和失效链接检查器。
+- [Readability checker](https://www.thewriter.com/tools/readability) - 根据 Flesch 指标评估文本的可读性。
+- [Capitalize My Title](https://capitalizemytitle.com/) - 按专业规则自动修正标题的大小写。
+- [CasePolice](https://github.com/antfu/case-police) - 扫描源码并纠正已知名称的大小写。
+- [Tables Generator](https://www.tablesgenerator.com/) - 生成 HTML、Markdown、LaTeX 等格式的表格。
+
 ### 绘图工具
 
 - [draw.io](https://github.com/jgraph/drawio) (开源) - 一个 JavaScript 客户端编辑器，用于通用图表绘制。
+- [Excalidraw](https://github.com/excalidraw/excalidraw) - 开源的手绘风格白板，用于快速勾画示意图。
+- [Mermaid](https://github.com/mermaid-js/mermaid) - 通过类 Markdown 语法绘制图表。
+  - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - 在线编辑和预览 Mermaid 图表。
+- [PlantUML](https://github.com/plantuml/plantuml) - 使用简单语法创建各种 UML 图。
+- [Lucidchart](https://www.lucidchart.com/) - 通过 AI 和数据导入自动生成可视化图表，也可手动绘制。
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - Mac 平台上功能丰富的绘图工具。
 - [架构制图：工具与方法论](https://developer.aliyun.com/article/774446) - 讨论了在架构文档中使用图表的好处，并强调了一些标准和最佳实践。
+
+### 多媒体
+
+文档不必局限于纯文本和静态图片。
+
+- **屏幕录制**
+  - [Screenity](https://github.com/alyssaxuu/screenity) - 免费且隐私友好的录屏工具，无任何限制。
+  - [Kap](https://github.com/wulkano/kap) - 基于 Web 技术的开源录屏软件。
+  - [rrweb](https://github.com/rrweb-io/rrweb) - 用于录制并回放网页交互。
+  - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 录制屏幕区域并保存为 GIF 或视频。
+  - [Peek](https://github.com/phw/peek) - 简单易用的 GIF 录制器。
+  - [Flameshot](https://github.com/flameshot-org/flameshot) - 功能强大的截图工具，易于使用。
+- **音频录制**
+  - [Tenacity](https://codeberg.org/tenacityteam/tenacity) - 易用的跨平台开源多轨音频编辑器。
+- **终端录制**
+  - [asciinema](https://github.com/asciinema/asciinema) - 命令行终端录制工具。
+  - [Terminalizer](https://github.com/faressoft/terminalizer) - 录制终端并生成 GIF 或网页播放器。
+- **动画制作**
+  - [Animockup](https://github.com/alyssaxuu/animockup) - 在线创建产品宣传动画。
+- **演示工具**
+  - [Slidev](https://github.com/slidevjs/slidev) - 面向开发者的幻灯片工具。
+  - [reveal.js](https://github.com/hakimel/reveal.js) - 开源 HTML 演示框架。
+  - [carbon](https://github.com/carbon-app/carbon) - 将代码片段变成精美的图片。
+  - [Code Hike](https://github.com/code-hike/codehike) - 帮你打造出色的代码阅读体验，可用于博客、文档和教程。
+- **免费图标与图片**
+  - [Unsplash](https://unsplash.com/) - 高质量、可免费商用的图片网站。
+  - [Illustrations | Popsy](https://popsy.co/illustrations) - 免费矢量插图，适用于 Notion 和 Popsy 等。
+  - [KindPng](https://www.kindpng.com/) - 大量透明 PNG 图片，可个人和非商业使用。
+
+### 商业化
+
+- [Confluence](https://www.atlassian.com/software/confluence) - 企业常用的协作与文档管理工具。
+  - [Confluence in a Docker container](https://github.com/cptactionhank/docker-atlassian-confluence) - 将 Confluence 打包进 Docker。
+- [Writerside | JetBrains](https://www.jetbrains.com/writerside/) - JetBrains 出品的强大文档创作环境。
+- [Project documentation | Slite](https://slite.com/solutions/project-documentation) - 将分散的项目文档集中到一起。
+- [Swimm document](https://swimm.io/document) - 为开发者提供 AI 加持的代码文档解决方案。
+- [Kapa.ai](https://kapa.ai/) - 生成支持 LLM 的聊天机器人，自动回答开发者问题并发现文档缺口。
 
 ## 更多主题
 
@@ -235,6 +327,7 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 
 - [Write the Docs](https://www.writethedocs.org/) - 关心文档的全球社区。
 - [The Good Docs Project](https://gitlab.com/tgdp) - 教育和赋能人们创造高质量文档。
+- [Technical Writing | Reddit](https://www.reddit.com/r/technicalwriting/) - 面向技术写作者的 Reddit 版块，交流经验与资源。
 
 ### 指南
 
@@ -246,6 +339,40 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 
 - [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs.git) - 指向有用、撰写良好且其他方面美观的文档的指针。
 - [Awesome Open Source Documents](https://github.com/44bits/awesome-opensource-documents) - 精选的超棒的开源或开源许可的文档、指南、书籍的列表。
+- [Awesome Documentation | vipulgupta2048](https://github.com/vipulgupta2048/awesome-documentation) - 精选的真实文档示例列表。
+- [9 Great API and Developer Documentation Examples](https://everydeveloper.com/developer-documentation-examples/) - 覆盖常见和不那么常见的文档范例。
+
+### 文档格式
+
+- 转换工具
+  - [Pandoc](https://pandoc.org/) - 通用文档转换器，可在多种标记语言间互转。
+  - [Mammoth](https://github.com/mwilliamson/mammoth.js) - 将 Word 文档 (.docx) 转换为 HTML。
+- [Markdown](https://www.wikiwand.com/en/Markdown) - 轻量级标记语言，用纯文本即可编写格式化内容。
+  - [MarkText](https://github.com/marktext/marktext) - 简洁优雅的 Markdown 编辑器，支持 Linux、macOS、Windows。
+  - [Glow](https://github.com/charmbracelet/glow) - 基于终端的 Markdown 阅读器，可直接在命令行查看文档。
+- [AsciiDoc](https://asciidoc.org) - 用于撰写技术内容的纯文本标记语言。
+  - [Asciidoctor](https://github.com/asciidoctor/asciidoctor) - 快速的开源文本处理器，可将 AsciiDoc 转为 HTML5、PDF 等格式。
+  - [Antora](https://gitlab.com/antora/antora) - 模块化文档站点生成器，帮助组织并发布 AsciiDoc 内容。
+- [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) - Sphinx 默认使用的标记语言。
+- [DocBook](https://docbook.org/) - 专为技术文档设计的 XML 架构。
+- [LaTeX](https://www.latex-project.org/) - 文档排版系统，适合复杂排版需求。
+
+### 书籍
+
+- [Docs for Developers: An Engineer's Field Guide to Technical Writing](https://learning.oreilly.com/library/view/docs-for-developers/9781484272176/) - 涵盖软件生命周期各阶段文档写作的实战指南。
+- [Technical Documentation and Process](https://learning.oreilly.com/library/view/technical-documentation-and/9781439861608/) - 帮助你更高效地编写项目文档的背景与结构方法。
+- [Crafting Docs for Success : An End-to-End Approach to Developer Documentation](https://learning.oreilly.com/library/view/crafting-docs-for/9781484295946/) - 以 platformOS 开发者门户为例，提供易于实践的文档构建蓝图。
+- [Docs-as-Ecosystem: The Community Approach to Engineering Documentation](https://learning.oreilly.com/library/view/docs-as-ecosystem-the-community/9781484293287/) - 讲述如何通过 "文档即代码" 生态系统让社区更好地理解产品与开源技术。
+- [Documenting Software Architectures: Views and Beyond, Second Edition](https://www.oreilly.com/library/view/documenting-software-architectures/9780132488617/) - 提供与语言和记法无关的架构文档最佳实践。
+- [Communication Patterns](https://learning.oreilly.com/library/view/communication-patterns/9781098140533/) - 教你如何通过文档和图表向不同受众准确传达信息。
+- [Living Documentation: Continuous Knowledge Sharing by Design, First Edition](https://learning.oreilly.com/library/view/living-documentation-continuous/9780134689418/) - 采用领域驱动设计的思想让文档持续演进，为开发全周期带来价值。
+- [Communicating Design: Developing Web Site Documentation for Design and Planning, Second Edition](https://learning.oreilly.com/library/view/communicating-design-developing/9780131385399/) - 让你把必须提供的文档打造成最高效的沟通工具。
+- [Information Development: Managing Your Documentation Projects, Portfolio, and People](https://learning.oreilly.com/library/view/information-development-managing/9780471777113/) - 全面阐述文档开发生命周期各阶段的最佳实践。
+
+### 课程
+
+- [Technical Writing Courses for Engineers](https://developers.google.com/tech-writing) - Google 提供的一系列课程和学习资源，旨在提升技术文档写作能力。
+- [Technical Writer HQ](https://technicalwriterhq.com/) - 汇集多种认证课程，涵盖技术写作的不同方面。
 
 ### DocOps
 
@@ -261,7 +388,23 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - [本地化文档](https://www.writethedocs.org/videos/portland/2019/localize-the-docs-paul-wallace/) - 编写文档社区的精彩视频。
 - [翻译中的发现：一年的开源本地化教训](https://www.writethedocs.org/videos/prague/2019/found-in-translation-lessons-from-a-year-of-open-source-localization-zachary-sarah-corleissen/) - 编写文档社区的精彩视频。
 
-<!-- ### 辅助功能 -->
+
+### 可访问性
+
+- [Documents Accessibility - The Definitive Guide](https://www.accessibilitychecker.org/guides/document-accessibility/) - 如何让文档满足无障碍标准。
+- [Website Accessibility Checker](https://www.accessibilitychecker.org/) - 免费扫描你的网站，找出可访问性问题并给出修复建议。
+- [Color Contrast Checker](https://www.accessibilitychecker.org/color-contrast-checker/) - 检查站点是否符合 WCAG 色彩要求。
+- [WebAIM](https://webaim.org/) - 专注 Web 可访问性的社区与资源。
+- [Pa11y](https://github.com/pa11y/pa11y) - 命令行或 Node.js 下运行的可访问性测试工具。
+- [Create accessible documents | UW Madison](https://it.wisc.edu/learn/make-it-accessible/create-accessible-documents/) - 提供提升 Word、HTML、PPT 和 PDF 文档可访问性的步骤。
+
+### SEO
+
+- [How to do search engine optimization (SEO) for documentation projects](https://docs.readthedocs.io/en/stable/guides/technical-docs-seo-guide.html) - 解释如何让文档更容易被搜索引擎收录，从而提升访问量。
+- [Search engine optimization (SEO) for documentation](https://www.writethedocs.org/guide/seo/) - Write the Docs 社区关于 SEO 的指南。
+- [Five ways to improve SEO of your technical documentation and OpenAPI references](https://www.doctave.com/blog/improve-seo-technical-documentation-and-openapi) - 五种提升技术文档及 OpenAPI 规范在搜索引擎排名的方法。
+- [Search Engine Optimization (SEO) Starter Guide | Google](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) - 帮助搜索引擎更好地抓取、索引和理解内容的最佳实践。
+- [Search engine optimization (SEO) | Docusaurus](https://docusaurus.io/docs/next/seo) - 展示 Docusaurus 在文档站点中如何支持 SEO。
 
 ## 贡献
 
