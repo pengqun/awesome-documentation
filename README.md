@@ -33,7 +33,7 @@ Translations available in: [🇨🇳 中文](README_zh.md)
   - [Multimedia](#multimedia)
   - [Commercial](#commercial)
 - [More Topics](#more-topics)
-  - [Comunities](#comunities)
+  - [Communities](#communities)
   - [Examples](#examples)
   - [Formats](#formats)
   - [Guidelines](#guidelines)
@@ -74,7 +74,7 @@ Offers practical steps to accomplish specific tasks or solve common problems.
 - [How-to guides](https://documentation.divio.com/how-to-guides.html) - Learn how to write good how-to guides from The Documentation System.
 - [How-to template](https://gitlab.com/tgdp/templates/-/blob/main/how-to/template-how-to.md) - Open-source template provided by The Good Docs Project.
 
-#### Conecpt
+#### Concept
 
 Explains the fundamental ideas and theories behind the topic.
 
@@ -397,7 +397,7 @@ from project plans, to specs and process documentation.
 
 ## More Topics
 
-### Comunities
+### Communities
 
 - [Write the Docs](https://www.writethedocs.org/) - A global community of people who care about documentation.
 - [The Good Docs Project](https://gitlab.com/tgdp) - Educates and empowers people to create high-quality documentation.
