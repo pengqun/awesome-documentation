@@ -152,7 +152,6 @@ Assist users in understanding and navigating the features and functionalities of
 - [Scalar](https://github.com/scalar/scalar) - Generate interactive API documentations from Swagger files.
 - [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) - Generate API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 - [GitBook](https://github.com/GitbookIO/gitbook) - A modern platform for creating and managing interactive API documentation from OpenAPI definitions.
-- [xyd](https://github.com/livesession/xyd) - Generate scalable API Docs from OpenAPI definitions easier.
 
 #### GraphQL
 
@@ -162,7 +161,6 @@ Assist users in understanding and navigating the features and functionalities of
 - [SpectaQL](https://github.com/anvilco/spectaql) - A Node.js library that generates static documentation for a GraphQL schema.
 - [GraphQLDocs](https://github.com/brettchalupa/graphql-docs) - Ruby library and CLI for easily generating beautiful documentation from your GraphQL schema.
 - [Magidoc](https://github.com/magidoc-org/magidoc) - A  a JavaScript library that auto-generates static documentation from any GraphQL schema.
-- [xyd](https://github.com/livesession/xyd) - Generate scalable API Docs from GraphQL schema easier.
 
 #### gRPC
 
