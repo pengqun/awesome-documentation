@@ -152,6 +152,7 @@ Assist users in understanding and navigating the features and functionalities of
 - [Scalar](https://github.com/scalar/scalar) - Generate interactive API documentations from Swagger files.
 - [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) - Generate API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 - [GitBook](https://github.com/GitbookIO/gitbook) - A modern platform for creating and managing interactive API documentation from OpenAPI definitions.
+- [xyd](https://github.com/livesession/xyd) - Generate scalable API Docs from OpenAPI definitions easier.
 
 #### GraphQL
 
@@ -161,6 +162,7 @@ Assist users in understanding and navigating the features and functionalities of
 - [SpectaQL](https://github.com/anvilco/spectaql) - A Node.js library that generates static documentation for a GraphQL schema.
 - [GraphQLDocs](https://github.com/brettchalupa/graphql-docs) - Ruby library and CLI for easily generating beautiful documentation from your GraphQL schema.
 - [Magidoc](https://github.com/magidoc-org/magidoc) - A  a JavaScript library that auto-generates static documentation from any GraphQL schema.
+- [xyd](https://github.com/livesession/xyd) - Generate scalable API Docs from GraphQL schema easier.
 
 #### gRPC
 
@@ -300,6 +302,7 @@ README files are a staple of any code project. They provide the first introducti
 - [bookdown](https://github.com/rstudio/bookdown) ![GitHub Repo stars](https://img.shields.io/github/stars/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown.
 - [Docus](https://github.com/nuxt-themes/docus) ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt-themes/docus) - Create document-driven websites with Vue & Markdown.
 - [Doctave](https://github.com/Doctave/doctave) ![GitHub Repo stars](https://img.shields.io/github/stars/Doctave/doctave) - A batteries-included developer documentation site generator.
+- [xyd](https://github.com/livesession/xyd) ![GitHub Repo stars](https://img.shields.io/github/stars/livesession/xyd) - A new scalable docs framework built for everyone powered by LiveSession.
 
 ### Wiki Builder
 
