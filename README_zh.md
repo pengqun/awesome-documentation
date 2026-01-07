@@ -56,6 +56,7 @@ TODO:
 - [教程](https://documentation.divio.com/tutorials.html) - 从 The Documentation System 学习如何编写好的教程。
 - [教程模板](https://gitlab.com/tgdp/templates/-/blob/main/tutorial/template-tutorial.md) - 由 The Good Docs Project 提供的开源模板。
 - [编写完美的技术教程](https://www.writethedocs.org/videos/portland/2021/writing-a-perfect-technical-tutorial-jessica-garson/) - 如何开始创建教程，收集反馈，以及教程发布后的下一步操作。
+- [示例：构建你的第一个 Astro 博客](https://docs.astro.build/en/tutorial/0-introduction/) - 一个结构良好且美观的教程，通过从零开始构建一个功能齐全的博客，涵盖了 Astro 的关键特性。
 
 #### 参考（Reference）
 
@@ -85,6 +86,13 @@ TODO:
 
 - [关于 FAQ 的事实](https://www.writethedocs.org/videos/portland/2018/the-facts-about-faqs-ashleigh-rentz/) - 探索我们可能经常问自己关于 FAQ 的各种问题。
 
+#### 应用内文档
+
+协助用户直接在应用程序界面内理解和导航其功能和特性。
+
+- [Driver.js](https://github.com/kamranahmedse/driver.js) - 一个轻量级、无依赖的原生 JavaScript 引擎，用于引导用户关注页面的特定部分。
+- [Shepherd](https://github.com/shepherd-pro/shepherd) - 引导用户浏览您的应用程序。
+
 #### 其他
 
 - [安装指南模板](https://gitlab.com/tgdp/templates/-/blob/main/installation-guide/template-installation-guide.md) - 由 The Good Docs Project 提供的开源模板。
@@ -92,7 +100,6 @@ TODO:
 - [术语系统指南模板](https://gitlab.com/tgdp/templates/-/blob/main/terminology-system/guide-terminology-system.md) - 由 The Good Docs Project 提供的开源模板。
 - [发布说明模板](https://gitlab.com/tgdp/templates/-/blob/main/release-notes/template-release-notes.md) - 由 The Good Docs Project 提供的开源模板。
 - [客户支持文档中同理心的力量：5 步指南](https://www.writethedocs.org/videos/prague/2019/the-power-of-empathy-in-support-documentation-a-5-step-guide-plamena-maleva/) - 将同理心和迭代应用于客户支持文档项目。
-- 应用内文档 - 向导、工具提示等。
 
 ### 架构文档
 
@@ -102,6 +109,9 @@ TODO:
   - [模板文件下载](https://arc42.org/download#format-overview) - arc42 模板的各种格式文档下载，包括 docx、asciidoc、markdown、latex、rst、html、Confluence 等。
   - [示例：HTML 合法性校验器](https://hsc.aim42.org/documentation/hsc_arc42) - 由 Gernot Starke 创建的 Gradle 插件详细文档示例。
   - [示例：骑行应用](https://biking.michael-simons.eu/docs/index.html) - 由 Michael Simons 创建的自行车活动跟踪器的真实世界示例。
+  - [示例：arc42 + C4 模型](https://github.com/bitsmuggler/arc42-c4-software-architecture-documentation-example) - 展示了如何结合使用 arc42 与 C4 模型以及“文档即代码”技术。
+  - [docToolchain](https://github.com/doctoolchain/doctoolchain) - 一种用于软件架构的“文档即代码”方法的实现，使用 arc42 作为模板。
+  - [软件架构文档终极指南](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/) - 使用适当的文档工具（包括 arc42）以精益方式编写、构建、可视化和管理软件架构文档。
 
 - [C4 模型](https://c4model.com) - 使用上下文、容器、组件和代码来可视化软件架构的 C4 模型。
   - [c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) - 一个为 draw.io 提供 C4 符号元素的 C4 建模插件。
@@ -112,9 +122,8 @@ TODO:
   - [C4Sharp](https://github.com/8T4/c4sharp) - 一个基于 C4 模型的 .net 库，用于编码构建图表。
   - [Goa Design - Model](https://github.com/goadesign/model) - 在 Go 中创建您的软件架构模型和图表。Model DSL 在 Go 中实现，并遵循 C4 模型。
 
-- 规范
-
-- 白皮书
+- [Log4brains](https://github.com/thomvaill/log4brains) - 直接在 IDE 中记录架构决策记录 (ADR)，并自动将其发布为静态网站。
+- [Google 的设计文档](https://www.industrialempathy.com/posts/design-docs-at-google/) - 概述 Google 如何使用和编写软件设计文档。
 
 ### API 文档
 
@@ -124,6 +133,10 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 
 - [API 参考模板](https://gitlab.com/tgdp/templates/-/blob/main/api-reference/template-api-reference.md) - 由 The Good Docs Project 提供的开源模板。
 - [Slate](https://github.com/slatedocs/slate) - 从符合 Swagger 的 API 动态生成美观的静态文档。
+  - [Widdershins](https://github.com/Mermade/widdershins) - OpenAPI / Swagger / AsyncAPI / Semoasa 定义转 Slate / ReSlate 兼容 markdown。
+- [DevDocs](https://github.com/freeCodeCamp/devdocs) - 将多个开发文档结合在一个干净有序的 Web UI 中，支持即时搜索、离线支持、移动版本、暗黑主题、快捷键等。
+- [Zeal](https://github.com/zealdocs/zeal) - 受到 Dash 启发的离线文档浏览器。
+- [apiDoc](https://github.com/apidoc/apidoc) - RESTful web API 文档生成器。
 
 #### OpenAPI
 
@@ -131,6 +144,14 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 
 - [Swagger UI](https://github.com/swagger-api/swagger-ui) - 从符合 Swagger 的 API 动态生成美观的文档。
 - [Swagger 宠物店](https://petstore3.swagger.io/) - 基于 OpenAPI 3.0 规范的样本宠物店服务器。
+- [Redoc](https://github.com/Redocly/redoc) - 用于从 OpenAPI (前 Swagger) 定义生成文档的开源工具。
+- [RapiDoc](https://github.com/rapi-doc/RapiDoc) - 用于 OpenAPI 规范查看的 WebComponent 自定义元素。
+- [Fern](https://github.com/fern-api/fern) - 从 OpenAPI 定义生成 SDK 和 API 文档。
+- [Elements](https://github.com/stoplightio/elements) - 由 OpenAPI 和 Markdown 驱动的美观 API 文档。
+- [Scalar](https://github.com/scalar/scalar) - 从 Swagger 文件生成交互式 API 文档。
+- [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) - 给定 OpenAPI 规范 (v2, v3)，自动生成 API 客户端库 (SDK 生成)、服务器存根、文档和配置。
+- [GitBook](https://github.com/GitbookIO/gitbook) - 一个现代平台，用于从 OpenAPI 定义创建和管理交互式 API 文档。
+- [xyd](https://xyd.dev/docs/guides/openapi) - 更轻松地从 OpenAPI 定义生成可扩展的 API 文档。
 
 #### GraphQL
 
@@ -140,6 +161,7 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - [SpectaQL](https://github.com/anvilco/spectaql) - 一个 Node.js 库，可以从任何 GraphQL 架构自动生成静态文档。
 - [GraphQLDocs](https://github.com/brettchalupa/graphql-docs) - 一个 Ruby 库和 CLI，用于轻松从 GraphQL 架构生成美观的文档。
 - [Magidoc](https://github.com/magidoc-org/magidoc) - 一个 JavaScript 库，可以从任何 GraphQL 架构自动生成静态文档。
+- [xyd](https://xyd.dev/docs/guides/graphql) - 更轻松地从 GraphQL 模式生成可扩展的 API 文档。
 
 #### gRPC
 
@@ -173,8 +195,15 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - [Best README Template](https://github.com/othneildrew/Best-README-Template) - 一个超棒的 README 模板，可以为您的项目起到开头作用。
 - [Awesome Readme](https://github.com/matiassingers/awesome-readme) - 精选的超棒 README 列表，包括示例、文章和工具。
 - [README 模板](https://gitlab.com/tgdp/templates/-/blob/main/readme/template-readme.md) - 由 The Good Docs Project 提供的开源模板。
+- [readme.so](https://github.com/octokatherine/readme.so) - 一个在线拖放编辑器，可以轻松构建 README。
 
 #### 注释
+
+> _“代码告诉你如何做，注释告诉你为什么。”_ — [Jeff Atwood](https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/)
+
+- [编写代码注释的最佳实践](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/) - 帮助你写出更好注释的 9 条规则，提供示例并解释如何以及何时应用它们。
+- [工程师编写有意义的代码注释指南](https://stepsize.com/blog/the-engineers-guide-to-writing-code-comments) - 涵盖注释类型、何时以及如何编写代码注释、一些最佳实践，以及何时不编写它们。
+- [NERD Commenter](https://github.com/preservim/nerdcommenter) - Vim 插件，用于强大的注释功能。
 
 #### 错误信息
 
@@ -185,31 +214,72 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - [贡献模板](https://gitlab.com/tgdp/templates/-/blob/main/contributing-guide/template-contributing-guide.md) - 由 The Good Docs Project 提供的开源模板。
 - [行为守则模板](https://gitlab.com/tgdp/templates/-/tree/main/code-of-conduct) - 由 The Good Docs Project 提供的开源模板。
 - [风格指南模板](https://gitlab.com/tgdp/templates/-/blob/main/style-guide/template-style-guide.md) - 由 The Good Docs Project 提供的开源模板。
+- [许可证模板](https://github.com/licenses/license-templates) - 开源和其他许可证的模板。
 
 #### 语言特定
 
+- JavaScript
+  - [JSDoc](https://github.com/jsdoc/jsdoc) - 一个 JavaScript API 文档生成器。
+  - [documentation.js](https://github.com/documentationjs/documentation) - 现代 JavaScript 的文档系统。
+  - [Docz](https://github.com/doczjs/docz) - 为您的代码编写和发布美观的交互式文档。
+  - [Storybook](https://github.com/storybookjs/storybook) - 一个用于 UI 开发、测试和文档的前端工坊。
+- TypeScript
+  - [TSDoc](https://github.com/microsoft/tsdoc) - TypeScript 的文档注释标准。
+- Python
+  - [Docstring Conventions](https://peps.python.org/pep-0257/) - 此 PEP 记录了与 Python 文档字符串相关的语义和约定。
+  - [Comments and Docstrings](https://github.com/google/styleguide/blob/gh-pages/pyguide.md#38-comments-and-docstrings) - 来自 Google Python 风格指南。
+  - [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/#commenting-vs-documenting-code) - 涵盖注释和文档代码之间的区别、文档字符串的使用以及 Python 项目文档指南。
+- PHP
+  - [phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - PHP 项目的事实标准文档工具，提供了一个强大的解决方案，可以轻松生成全面的文档。
+- C#
+  - [Docfx](https://github.com/dotnet/docfx) - .NET API 文档的静态站点生成器。
+- C++
+  - [Doxygen](https://github.com/doxygen/doxygen) - 从带注释的 C++ 源代码生成文档的事实标准工具。
 - Java
-  - JavaDoc
+  - [JavaDoc](https://en.wikipedia.org/wiki/Javadoc) - 由 Sun Microsystems 为 Java 语言（现归 Oracle Corporation 所有）创建的文档生成器，用于从 Java 源代码生成 HTML 格式的 API 文档。
+    - [Maven Javadoc Plugin](https://github.com/apache/maven-javadoc-plugin) - 使用 Javadoc 工具为指定项目生成 javadocs。
+    - [javadoc.io](https://javadoc.io/) - 一个免费服务，为 Maven Central 索引和提供 JavaDoc。
 - Kotlin
-  - Dokka
+  - [Dokka](https://github.com/Kotlin/dokka) - Kotlin 的 API 文档引擎。
+- Go
+  - [Go Doc Comments](https://go.dev/doc/comment) - 从 Go 源代码中提取文档。
+  - [Swag](https://github.com/swaggo/swag) - 将 Go 注释转换为 Swagger Documentation 2.0。
 - Rust
+  - [Rustdoc](https://doc.rust-lang.org/nightly/rustdoc/) - 为 Rust 项目生成文档。
+  - [Docs.rs](https://github.com/rust-lang/docs.rs) - 一个开源项目，用于托管 Rust 编程语言的 crate 文档。
 - Ruby
   - [TomDoc for Ruby](http://tomdoc.org/) - 一种代码文档规范，帮助您编写精确的文档，阅读起来很好看，格式足够结构化，可以被机器自动提取和处理。
-- YAML
+- Perl
+  - [perlpod](https://perldoc.perl.org/perlpod) - 普通旧文档格式 - 一种简单易用的标记语言，用于为 Perl、Perl 程序和 Perl 模块编写文档。
+- SQL
+  - [SchemaSpy](https://github.com/schemaspy/schemaspy) - 简单轻松地记录您的数据库。
+- CSS
 
 ### 测试文档
 
 - 测试计划
+  - [IEEE 测试计划模板](https://github.com/JennifferLockwood/test_plan_template) - HTML5 和 Markdown 格式的 IEEE 829 模板。
+  - [SONiC 测试计划模板](https://github.com/sonic-net/SONiC/blob/master/doc/SONiC%20Test%20Plan%20Template.md) - 来自 Software for Open Networking in the Cloud (SONiC) 的测试计划模板。
+  - [在 VS Code 中编写测试计划项](https://github.com/microsoft/vscode/wiki/Writing-Test-Plan-Items) - VS Code 项目编写测试计划项 (TPI) 的指南。
+  - [性能测试计划文档](https://www.perfmatrix.com/performance-test-plan-document-template/) -  来自 PerfMatrix 的免费性能测试计划 .docx 模板。
 - 测试用例
+  - [手动软件测试的测试用例和模板](https://github.com/mfaisalkhatri/Manual_Testing) - 用于在 Web/Mobile 应用程序上执行手动测试和 API 测试的通用测试用例。
+  - [测试用例模板 (下载示例 Excel)](https://www.guru99.com/download-sample-test-case-template-with-explanation-of-important-fields.html) - 来自 Guru99 的免费测试用例模板，包含 Excel 和 Word 格式。
+  - [带示例的测试用例模板：免费 Excel 和 Word 示例下载](https://katalon.com/resources-center/blog/test-case-template-examples) - 来自 Katalon 的免费测试用例模板，附带指南和直接下载链接。
 - 测试报告
-- [缺陷报告模板](https://gitlab.com/tgdp/templates/-/blob/main/bug-report/template-bug-report.md) - 由 The Good Docs Project 提供的开源模板。
-- 覆盖率
-- 性能
+  - [缺陷报告模板](https://gitlab.com/tgdp/templates/-/blob/main/bug-report/template-bug-report.md) - 由 The Good Docs Project 提供的开源模板。
+  - [性能测试报告模板](https://www.perfmatrix.com/performance-test-report-template/) - 来自 PerfMatrix 的免费性能测试报告 .docx 模板。
+  - [性能测试结果报告：如何编写 (附示例)](https://u-tor.com/topic/performance-testing-report) - 关于性能测试报告的指南，包括原因、方法和真实世界示例。
+  - [创建强大的性能摘要报告的分步指南](https://www.linkedin.com/pulse/step-by-step-guide-creating-powerful-performance-summary-james-ohia/) - 讨论创建性能测试摘要报告的最佳实践以及其中应包含的关键组件，并附带完整示例。
 
 ### 其他类型
 
 - 项目需求文档 (PRD)
-- RFC (请求评论)
+  - [PRD: 产品需求文档模板](https://www.notion.so/templates/category/product-requirements-doc) - 来自 Notion 的一系列 PRD 模板，包括免费和付费。
+  - [产品模板：产品需求文档 (PRD)](https://productschool.com/blog/product-strategy/product-template-requirements-document-prd) - 来自 Product School 的免费 PRD 模板。
+  - [产品经理的 PRD 模板](https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-product-requirements-document-template) - 来自 Aha! 软件的 PRD 模板。
+- Request for Comment (RFC)
+  - [Request for Comment 模板](https://gitlab.com/tgdp/request-for-comment/-/blob/main/rfc-template.md) -  由 The Good Docs Project 提供的开源模板。
 
 ## 通用工具
 
@@ -230,6 +300,7 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - [bookdown](https://github.com/rstudio/bookdown) ![GitHub Repo stars](https://img.shields.io/github/stars/rstudio/bookdown) - 使用 R Markdown 编写书籍与技术文档。
 - [Docus](https://github.com/nuxt-themes/docus) ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt-themes/docus) - 使用 Vue 与 Markdown 构建以文档驱动的网站。
 - [Doctave](https://github.com/Doctave/doctave) ![GitHub Repo stars](https://img.shields.io/github/stars/Doctave/doctave) - 开箱即用的开发者文档站点生成器。
+- [xyd](https://github.com/livesession/xyd) ![GitHub Repo stars](https://img.shields.io/github/stars/livesession/xyd) - 一个全新的可扩展文档框架，专为所有人构建，由 LiveSession 提供支持。
 
 ### Wiki 构建器
 
@@ -331,9 +402,15 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 
 ### 指南
 
+- [Style Guides](https://www.writethedocs.org/guide/writing/style-guides/) - 来自 Write the Docs 社区的风格指南集合。
 - [Google 开发者文档风格指南](https://developers.google.com/style/highlights) - 为编写清晰一致的 Google 相关开发者文档提供编辑指南。
 - [Microsoft 写作风格指南](https://learn.microsoft.com/en-us/style-guide/welcome/) - 如果您编写有关计算机技术的内容，这本指南是为您准备的。
+- [Apple 编辑指南](https://support.apple.com/guide/applestyleguide/welcome/web) - 为 Apple 材料（包括文档）提供指南，以帮助保持一致的声音。
+- [GitHub 文档风格指南](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide) - 确保 GitHub 的文档保持一致，并遵循我们的读者可以理解的清晰模式。
+- [Red Hat 技术写作风格指南](https://stylepedia.net/style/) - 包括日常标点符号和语法、要避免的常见错误、翻译和全球受众的策略，以及单词用法词典。
+- [如何编写好的文档 | UC Berkeley](https://guides.lib.berkeley.edu/how-to-write-good-documentation) - 帮助您通过编写良好的文档来准备发布您的代码。
 - [系列：编写优秀文档](https://jacobian.org/series/great-documentation/) - 一系列文章，介绍了作者在帮助编写 Django 文档的多年中学到的工具、技巧和技术。
+- [命令行界面指南](https://clig.dev/) - 一个涵盖 CLI 帮助文本和文档的开源指南。
 
 ### 示例
 
@@ -387,7 +464,6 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 
 - [本地化文档](https://www.writethedocs.org/videos/portland/2019/localize-the-docs-paul-wallace/) - 编写文档社区的精彩视频。
 - [翻译中的发现：一年的开源本地化教训](https://www.writethedocs.org/videos/prague/2019/found-in-translation-lessons-from-a-year-of-open-source-localization-zachary-sarah-corleissen/) - 编写文档社区的精彩视频。
-
 
 ### 可访问性
 
