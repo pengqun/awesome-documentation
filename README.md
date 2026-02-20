@@ -338,7 +338,7 @@ README files are a staple of any code project. They provide the first introducti
 - [Spellcheck GitHub Actions](https://github.com/rojopolis/spellcheck-github-actions) ![GitHub Repo stars](https://img.shields.io/github/stars/rojopolis/spellcheck-github-actions) - A GitHub Action that spell checks Python, Markdown, and Text files.
 - [TeXtidote](https://github.com/sylvainhalle/textidote) ![GitHub Repo stars](https://img.shields.io/github/stars/sylvainhalle/textidote) - A correction tool for LaTeX documents and other formats.
 - [alex](https://github.com/get-alex/alex) ![GitHub Repo stars](https://img.shields.io/github/stars/get-alex/alex) - Catch insensitive, inconsiderate writing.
-- [Lychee](https://github.com/lycheeverse/lychee) ![GitHub Repo stars](https://img.shields.io/github/stars/lycheeverse/lychee) -  Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more.
+- [Lychee](https://github.com/lycheeverse/lychee) ![GitHub Repo stars](https://img.shields.io/github/stars/lycheeverse/lychee) - Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more.
 - [linkinator](https://github.com/JustinBeckwith/linkinator) ![GitHub Repo stars](https://img.shields.io/github/stars/JustinBeckwith/linkinator) - A super simple site crawler and broken link checker.
 - [Readability checker](https://www.thewriter.com/tools/readability) - Score your writing based on the Flesch reading ease scale, which looks at how long your words and sentences are.
 - [Capitalize My Title](https://capitalizemytitle.com/) - An easy, smart title capitalization tool that uses title capitalization rules published by leading professional organizations to ensure your titles and headlines are capitalized correctly.

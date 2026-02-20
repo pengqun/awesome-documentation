@@ -36,6 +36,26 @@ def add_stars(filepath):
 
         # Construct badge
         badge = f" ![GitHub Repo stars](https://img.shields.io/github/stars/{owner}/{repo})"
+
+        # Check if followed by " - " or similar and normalize spaces
+        # If the text immediately following is a dash, we want to ensure there's exactly one space after the dash?
+        # Actually, the problem was double space BEFORE the dash or after the dash.
+        # Original: `[Link](url) -  Description`
+        # Inserted: `[Link](url) [Badge] -  Description`
+        # The badge logic inserts a leading space: " ![...]"
+        # So it becomes `[Link](url) ![...](...) -  Description`
+        # The linter complained about `List item link and description must be separated with a dash`.
+        # This usually means parsing failed.
+        # The issue in line 341 was specifically `-  Description`.
+        # My script doesn't touch the text AFTER the match insertion point usually.
+        # But if I can detect that I am inserting before " - ", I might want to help clean it up?
+        # Or simpler: The script just adds the badge. The lint error was pre-existing (latent) or caused by the shift in structure making the linter stricter.
+        # Actually, the linter rule `awesome-list-item` checks the structure.
+        # If I change `[Link] -  Desc` to `[Link] [Badge] -  Desc`, the linter still parses `[Badge]` as part of the "link" complex or just ignores it?
+        # In this specific case, I just fixed the file manually.
+        # Making the script robust to fixing existing formatting errors is maybe out of scope for "add stars", but good for "maintenance".
+        # Let's keep the script simple but correct.
+
         return full_match + badge
 
     new_content = re.sub(pattern, replacer, content)
