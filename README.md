@@ -123,6 +123,7 @@ Assist users in understanding and navigating the features and functionalities of
   - [Goa Design - Model](https://github.com/goadesign/model) ![GitHub Repo stars](https://img.shields.io/github/stars/goadesign/model) - Create your software architecture models and diagrams in Go. The Model DSL is implemented in Go and follows the C4 Model.
 
 - [Log4brains](https://github.com/thomvaill/log4brains) ![GitHub Repo stars](https://img.shields.io/github/stars/thomvaill/log4brains) - Log Architecture Decision Records (ADR) right from your IDE and to publish them automatically as a static website.
+- [Decision Reasoning Format (DRF)](https://github.com/reasoning-formats/reasoning-formats) ![GitHub Repo stars](https://img.shields.io/github/stars/reasoning-formats/reasoning-formats) - A vendor-neutral, machine-readable YAML/JSON format for structured decision documentation with explicit reasoning, assumptions, and trade-offs.
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) - Overview of how software design docs are used and written at Google.
 
 ### API Documentation
