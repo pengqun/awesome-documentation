@@ -3,7 +3,7 @@ TODO:
   - Auto generate/update translated version of edits (VS Code plugin + ChatGPT?)
 -->
 
-# Awesome Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml/badge.svg)](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml)
+# Awesome Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/pengqun/awesome-documentation/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/pengqun/awesome-documentation/actions/workflows/lint.yml)
 
 > A curated and **up-to-date** list of resources on software documentation templates, tools, guides & examples.
 
