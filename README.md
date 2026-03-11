@@ -411,6 +411,7 @@ from project plans, to specs and process documentation.
 - [Awesome Open Source Documents](https://github.com/44bits/awesome-opensource-documents) ![GitHub Repo stars](https://img.shields.io/github/stars/44bits/awesome-opensource-documents) - A curated list of awesome open source or open source licensed documents, guides, books.
 - [Awesome Documentation | vipulgupta2048](https://github.com/vipulgupta2048/awesome-documentation) ![GitHub Repo stars](https://img.shields.io/github/stars/vipulgupta2048/awesome-documentation) - A curated list of awesome real-life documentation examples.
 - [9 Great API and Developer Documentation Examples](https://everydeveloper.com/developer-documentation-examples/) - Cover common areas of documentation, plus some areas you might not typically see called docs.
+- [Xquik API Documentation](https://docs.xquik.com) ([Source](https://github.com/Xquik-dev/xquik-docs)) - REST API documentation for the Xquik X/Twitter automation platform. Built with Mintlify. Covers 40+ API endpoints, MCP server setup, webhook integration, OpenAPI spec, and interactive examples.
 
 ### Formats
 
