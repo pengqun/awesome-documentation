@@ -331,6 +331,7 @@ README files are a staple of any code project. They provide the first introducti
 - [Mintlify Writer](https://github.com/mintlify/writer) ![GitHub Repo stars](https://img.shields.io/github/stars/mintlify/writer) - An AI-powered VS Code extension that automatically generates code documentation by highlighting code. Supports multiple programming languages and docstring formats including JSDoc, reST, NumPy, and more.
 - [Readme AI](https://github.com/eli64s/readme-ai) ![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/readme-ai) - A developer tool that automatically generates comprehensive README files using repository analysis and language models. It supports multiple LLM providers, custom templates, and offline generation.
 - [GitBook AI](https://www.gitbook.com/solutions/ai) - A built-in AI assistant that helps teams quickly draft, refine, and enhance product documentation with smart, context-aware suggestions.
+- [Trupeer](https://www.trupeer.ai/) - An AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
 
 ### Checker & Formatter
 
