@@ -198,6 +198,7 @@ README files are a staple of any code project. They provide the first introducti
 - [Awesome README](https://github.com/matiassingers/awesome-readme) ![GitHub Repo stars](https://img.shields.io/github/stars/matiassingers/awesome-readme) - A curated list of awesome READMEs, including examples, articles and tools.
 - [README template](https://gitlab.com/tgdp/templates/-/blob/main/readme/template-readme.md) - Open-source template provided by The Good Docs Project.
 - [readme.so](https://github.com/octokatherine/readme.so) ![GitHub Repo stars](https://img.shields.io/github/stars/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs.
+- [NRG](https://github.com/nanolaba/readme-generator) ![GitHub Repo stars](https://img.shields.io/github/stars/nanolaba/readme-generator) - Multi-language README generator that builds README files from a single `.src.md` template with imports, widgets, and a table-of-contents engine. CLI, Maven plugin, and Java library.
 
 #### Comments
 
