@@ -330,6 +330,7 @@ README files are a staple of any code project. They provide the first introducti
 
 - [Mintlify Writer](https://github.com/mintlify/writer) ![GitHub Repo stars](https://img.shields.io/github/stars/mintlify/writer) - An AI-powered VS Code extension that automatically generates code documentation by highlighting code. Supports multiple programming languages and docstring formats including JSDoc, reST, NumPy, and more.
 - [Readme AI](https://github.com/eli64s/readme-ai) ![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/readme-ai) - A developer tool that automatically generates comprehensive README files using repository analysis and language models. It supports multiple LLM providers, custom templates, and offline generation.
+- [Sync-o](https://sync-o.io) - An AI-powered Atlassian Marketplace Forge app that auto-syncs Confluence pages with Jira tickets. When a ticket transitions to Done, Sync-o detects which Confluence pages reference it and drafts surgical section-level updates with full version history and one-click revert. EU-resident by default (AWS Ireland + Vertex AI Belgium), GDPR-compliant, with BYOM support for OpenAI, Anthropic, and Microsoft Azure OpenAI.
 - [GitBook AI](https://www.gitbook.com/solutions/ai) - A built-in AI assistant that helps teams quickly draft, refine, and enhance product documentation with smart, context-aware suggestions.
 
 ### Checker & Formatter
