@@ -330,7 +330,8 @@ README files are a staple of any code project. They provide the first introducti
 
 - [Mintlify Writer](https://github.com/mintlify/writer) ![GitHub Repo stars](https://img.shields.io/github/stars/mintlify/writer) - An AI-powered VS Code extension that automatically generates code documentation by highlighting code. Supports multiple programming languages and docstring formats including JSDoc, reST, NumPy, and more.
 - [Readme AI](https://github.com/eli64s/readme-ai) ![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/readme-ai) - A developer tool that automatically generates comprehensive README files using repository analysis and language models. It supports multiple LLM providers, custom templates, and offline generation.
-- [GitBook AI](https://www.gitbook.com/solutions/ai) - A built-in AI assistant that helps teams quickly draft, refine, and enhance product documentation with smart, context-aware suggestions.
+- [GitBook AI](https://www.gitbook.com/solutions/ai)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and identity verification for AI agents accessing paid documentation APIs and RAG endpoints. Provides wallet-based agent scoring and cryptographically signed x402 trust receipts. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` - A built-in AI assistant that helps teams quickly draft, refine, and enhance product documentation with smart, context-aware suggestions.
 
 ### Checker & Formatter
 
