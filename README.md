@@ -356,6 +356,7 @@ One diagram is usually worth more than a thousand words.
   - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - A live editor for Mermaid diagrams.
 - [PlantUML](https://github.com/plantuml/plantuml) ![GitHub Repo stars](https://img.shields.io/github/stars/plantuml/plantuml) - Allows users to create diagrams using a simple syntax.
 - [Lucidchart](https://www.lucidchart.com/) - Generate visuals automatically with AI and data imports, or build your own using intuitive diagramming tools.
+- [TopoAI](https://www.topoai.cc/) - AI-assisted topology and network diagram first drafts for documentation-ready architecture, cloud, security, and MSP handoff diagrams.
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - A Mac-only diagramming tool that offers a wide range of features for creating diagrams.
 - [(Chinese) Architecture Diagramming: Tools and Methodologies](https://developer.aliyun.com/article/774446) - It discusses the benefits of using diagrams in architecture document, and highlights some standards and best practices.
 
