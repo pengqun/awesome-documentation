@@ -53,7 +53,7 @@ Translations available in: [🇨🇳 中文](README_zh.md)
 
 Step-by-step instructions to teach users how to use or implement the subject or tool.
 
-- [Tutorial](https://documentation.divio.com/tutorials.html) - Lean how to write good tutorials from The Documentation System.
+- [Tutorial](https://documentation.divio.com/tutorials.html) - Learn how to write good tutorials from The Documentation System.
 - [Tutorial template](https://gitlab.com/tgdp/templates/-/blob/main/tutorial/template-tutorial.md) - Open-source template provided by The Good Docs Project.
 - [Writing a perfect technical tutorial](https://www.writethedocs.org/videos/portland/2021/writing-a-perfect-technical-tutorial-jessica-garson/) - How to start creating tutorials, gather feedback, and the next steps once the tutorial is published.
 - [Example: Build your first Astro Blog](https://docs.astro.build/en/tutorial/0-introduction/) - A well-structured and good-looking tutorial that covers Astro's key features by building a fully-functioning blog, from zero to full launch.
@@ -62,7 +62,7 @@ Step-by-step instructions to teach users how to use or implement the subject or 
 
 Provides detailed information and specifications for all features and functionalities.
 
-- [Reference guides](https://documentation.divio.com/reference.html) - Lean how to write good reference guides from The Documentation System.
+- [Reference guides](https://documentation.divio.com/reference.html) - Learn how to write good reference guides from The Documentation System.
 - [Reference template](https://gitlab.com/tgdp/templates/-/blob/main/reference/template-reference.md) - Open-source template provided by The Good Docs Project.
 - [SDK Reference Manuals: A flow-based approach](https://www.writethedocs.org/videos/portland/2019/sdk-reference-manuals-a-flow-based-approach-chris-bush/) - Give users of SDK reference docs a quick, enjoyable, user-oriented experience.
 
@@ -110,7 +110,7 @@ Assist users in understanding and navigating the features and functionalities of
   - [Example: HTML Sanity Checker](https://hsc.aim42.org/documentation/hsc_arc42) - Verbose example for the documentation of a Gradle plugin, created by Dr. Gernot Starke.
   - [Example: biking](https://biking.michael-simons.eu/docs/index.html) - A real world example for a bike activity tracker, created by Michael Simons.
   - [Example: arc42 + C4 model](https://github.com/bitsmuggler/arc42-c4-software-architecture-documentation-example) ![GitHub Repo stars](https://img.shields.io/github/stars/bitsmuggler/arc42-c4-software-architecture-documentation-example) - Shows how to use arc42 in combination with the C4 model with the Documentation as Code technique.
-  - [docToolchain](https://github.com/doctoolchain/doctoolchainb) ![GitHub Repo stars](https://img.shields.io/github/stars/doctoolchain/doctoolchainb) - An implementation of the docs-as-code approach for software architecture, which use arc42 as template.
+  - [docToolchain](https://github.com/doctoolchain/doctoolchain) ![GitHub Repo stars](https://img.shields.io/github/stars/doctoolchain/doctoolchain) - An implementation of the docs-as-code approach for software architecture, which use arc42 as template.
   - [The Ultimate Guide To Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/) - Write, structure, visualize and manage software architecture documentation in a lean way using appropriate documentation tools, including arc42.
 
 - [C4 model](https://c4model.com) - The C4 model for visualizing software architecture using Context, Containers, Components, and Code.
@@ -160,7 +160,7 @@ Assist users in understanding and navigating the features and functionalities of
 - [GitHub GraphQL API documentation](https://docs.github.com/en/graphql) - A great real world example of GraphQL API from GitHub.
 - [SpectaQL](https://github.com/anvilco/spectaql) ![GitHub Repo stars](https://img.shields.io/github/stars/anvilco/spectaql) - A Node.js library that generates static documentation for a GraphQL schema.
 - [GraphQLDocs](https://github.com/brettchalupa/graphql-docs) ![GitHub Repo stars](https://img.shields.io/github/stars/brettchalupa/graphql-docs) - Ruby library and CLI for easily generating beautiful documentation from your GraphQL schema.
-- [Magidoc](https://github.com/magidoc-org/magidoc) ![GitHub Repo stars](https://img.shields.io/github/stars/magidoc-org/magidoc) - A  a JavaScript library that auto-generates static documentation from any GraphQL schema.
+- [Magidoc](https://github.com/magidoc-org/magidoc) ![GitHub Repo stars](https://img.shields.io/github/stars/magidoc-org/magidoc) - A JavaScript library that auto-generates static documentation from any GraphQL schema.
 - [xyd](https://xyd.dev/docs/guides/graphql) - Generate scalable API Docs from GraphQL schema easier.
 
 #### gRPC
@@ -178,7 +178,7 @@ Assist users in understanding and navigating the features and functionalities of
 
 - [Async API Generator](https://github.com/asyncapi/generator) ![GitHub Repo stars](https://img.shields.io/github/stars/asyncapi/generator) - Use AsyncAPI definition to generate literally anything, including Markdown documentation and HTML documentation.
 - [AsyncAPI React Component](https://github.com/asyncapi/asyncapi-react) ![GitHub Repo stars](https://img.shields.io/github/stars/asyncapi/asyncapi-react) - Rendering documentation from your specification in real-time in the browser.
-- [Petstore Kafka](https://github.com/swagger-api/petstore-kafka?tab=readme-ov-file#openapi-and-asyncapi) ![GitHub Repo stars](https://img.shields.io/github/stars/swagger-api/petstore-kafka?tab=readme-ov-file#openapi-and-asyncapi) - A functional example for describing with AsyncAPI and OpenAPI.
+- [Petstore Kafka](https://github.com/swagger-api/petstore-kafka?tab=readme-ov-file#openapi-and-asyncapi) ![GitHub Repo stars](https://img.shields.io/github/stars/swagger-api/petstore-kafka) - A functional example for describing with AsyncAPI and OpenAPI.
 
 #### RAML
 
@@ -246,7 +246,7 @@ README files are a staple of any code project. They provide the first introducti
   - [Dokka](https://github.com/Kotlin/dokka) ![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/dokka) - An API documentation engine for Kotlin.
 - Go
   - [Go Doc Comments](https://go.dev/doc/comment) - Extract documentation from Go source code.
-  - [Swag](https://github.com/swaggo/swag) ![GitHub Repo stars](https://img.shields.io/github/stars/swaggo/swag) - Cconverts Go annotations to Swagger Documentation 2.0.
+  - [Swag](https://github.com/swaggo/swag) ![GitHub Repo stars](https://img.shields.io/github/stars/swaggo/swag) - Converts Go annotations to Swagger Documentation 2.0.
 - Rust
   - [Rustdoc](https://doc.rust-lang.org/nightly/rustdoc/) - Generate documentation for Rust projects.
   - [Docs.rs](https://github.com/rust-lang/docs.rs) ![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/docs.rs) - An open source project to host documentation of crates for the Rust Programming Language.
@@ -311,7 +311,7 @@ README files are a staple of any code project. They provide the first introducti
 - [MediaWiki](https://github.com/wikimedia/mediawiki) ![GitHub Repo stars](https://img.shields.io/github/stars/wikimedia/mediawiki) - A free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects.
 - [DokuWiki](https://github.com/dokuwiki/dokuwiki) ![GitHub Repo stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki) - A simple to use and highly versatile Open Source wiki software that doesn't require a database.
 - [Gollum](https://github.com/gollum/gollum) ![GitHub Repo stars](https://img.shields.io/github/stars/gollum/gollum) - A simple wiki system built on top of Git.
-- [VimWiki](https://github.com/vimwiki/vimwiki) ![GitHub Repo stars](https://img.shields.io/github/stars/vimwiki/vimwiki) - A a personal wiki for Vim, which can be used to write documentation.
+- [VimWiki](https://github.com/vimwiki/vimwiki) ![GitHub Repo stars](https://img.shields.io/github/stars/vimwiki/vimwiki) - A personal wiki for Vim, which can be used to write documentation.
 - [GitHub Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
   - [Awesome GitHub Wikis](https://github.com/MyHoneyBadger/awesome-github-wiki) ![GitHub Repo stars](https://img.shields.io/github/stars/MyHoneyBadger/awesome-github-wiki) - A curated list of awesome GitHub Wikis, including examples, tips and tricks.
 - [Federated Wiki](https://www.wikiwand.com/en/Federated_Wiki)
@@ -409,7 +409,7 @@ from project plans, to specs and process documentation.
 
 ### Examples
 
-- [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs.git) ![GitHub Repo stars](https://img.shields.io/github/stars/matheusfelipeog/beautiful-docs.git) - Pointers to useful, well-written, and otherwise beautiful documentation.
+- [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) ![GitHub Repo stars](https://img.shields.io/github/stars/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 - [Awesome Open Source Documents](https://github.com/44bits/awesome-opensource-documents) ![GitHub Repo stars](https://img.shields.io/github/stars/44bits/awesome-opensource-documents) - A curated list of awesome open source or open source licensed documents, guides, books.
 - [Awesome Documentation | vipulgupta2048](https://github.com/vipulgupta2048/awesome-documentation) ![GitHub Repo stars](https://img.shields.io/github/stars/vipulgupta2048/awesome-documentation) - A curated list of awesome real-life documentation examples.
 - [9 Great API and Developer Documentation Examples](https://everydeveloper.com/developer-documentation-examples/) - Cover common areas of documentation, plus some areas you might not typically see called docs.
