@@ -8,7 +8,7 @@
     pip install pre-commit
     ```
 
-    For more information, see [pre-commit installation](<https://pre-commit.com/#installation>
+    For more information, see [pre-commit installation](https://pre-commit.com/#installation).
 
 2. Install the git hook scripts:
 
@@ -20,7 +20,7 @@
 
 ## Adding a new item
 
-- Try to fit your item into an existing sections. Open a suggestion to start as discussion about any new sections.
+- Try to fit your item into an existing section. Open a suggestion to start a discussion about any new sections.
 - Make an individual pull request for each suggestion.
 - Add a new item to the bottom of the list in a section.
 - If a duplicate item exists, discuss why the new item should replace it.

@@ -3,7 +3,7 @@ TODO:
 - 自动翻译英文版变更内容，并同步到中文版
 -->
 
-# Awesome Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml/badge.svg)](https://github.com/pengqun/awesome-documentation/actions/workflows/action.yml)
+# Awesome Documentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint](https://github.com/pengqun/awesome-documentation/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/pengqun/awesome-documentation/actions/workflows/lint.yml)
 
 > 一份关于软件文档模板、工具、指南和示例的精选资源列表（持续更新中）。
 
@@ -11,7 +11,7 @@ TODO:
 
 本列表期望能为改善文档效率和质量提供一些帮助，包括提供开箱即用的模板、实用的文档工具、有洞察的文档指南、有广泛共识的文档标准，以及一些真实的文档案例。
 
-其他语言版本: [🇬🇧🇳 英语](README.md)
+其他语言版本: [🇬🇧 英语](README.md)
 
 ## 内容
 
@@ -414,7 +414,7 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 
 ### 示例
 
-- [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs.git) - 指向有用、撰写良好且其他方面美观的文档的指针。
+- [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) - 指向有用、撰写良好且其他方面美观的文档的指针。
 - [Awesome Open Source Documents](https://github.com/44bits/awesome-opensource-documents) - 精选的超棒的开源或开源许可的文档、指南、书籍的列表。
 - [Awesome Documentation | vipulgupta2048](https://github.com/vipulgupta2048/awesome-documentation) - 精选的真实文档示例列表。
 - [9 Great API and Developer Documentation Examples](https://everydeveloper.com/developer-documentation-examples/) - 覆盖常见和不那么常见的文档范例。
