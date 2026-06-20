@@ -33,15 +33,15 @@ TODO:
   - [商业化](#商业化)
 - [更多主题](#更多主题)
   - [社区](#社区)
-  - [指南](#指南)
   - [示例](#示例)
+  - [文档格式](#文档格式)
+  - [指南](#指南)
+  - [书籍](#书籍)
+  - [课程](#课程)
   - [DocOps](#docops)
   - [本地化](#本地化)
   - [可访问性](#可访问性)
   - [SEO](#seo)
-  - [文档格式](#文档格式)
-  - [书籍](#书籍)
-  - [课程](#课程)
 
 ## 文档类型
 
@@ -293,7 +293,6 @@ API 是软件世界的通用语言，需要进行良好的文档化。
   - [Material for MkDocs](https://github.com/squidfunk/mkdocs-material) ![GitHub Repo stars](https://img.shields.io/github/stars/squidfunk/mkdocs-material) - 强大的 MkDocs 主题和框架。
 - [mdBook](https://github.com/rust-lang/mdBook) ![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/mdBook) - 从 Markdown 创建电子书，类似于用 Rust 实现的 GitBook。
 - [Sphinx](https://github.com/sphinx-doc/sphinx) ![GitHub Repo stars](https://img.shields.io/github/stars/sphinx-doc/sphinx) - 使创建智能和美观的文档变得容易。
-  - [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) - Sphinx 使用的默认纯文本标记语言。
   - [Read The Docs](https://about.readthedocs.com/) - 为开源社区托管文档，支持用 reStructuredText 编写的 Sphinx 文档。
 - [Markdoc](https://github.com/markdoc/markdoc) ![GitHub Repo stars](https://img.shields.io/github/stars/markdoc/markdoc) - 基于 Markdown 的语法和工具链，用于打造自定义文档站点。
 - [Starlight](https://github.com/withastro/starlight) ![GitHub Repo stars](https://img.shields.io/github/stars/withastro/starlight) - 使用 Astro 构建美观、无障碍、高性能的文档网站。
@@ -402,18 +401,6 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - [The Good Docs Project](https://gitlab.com/tgdp) - 教育和赋能人们创造高质量文档。
 - [Technical Writing | Reddit](https://www.reddit.com/r/technicalwriting/) - 面向技术写作者的 Reddit 版块，交流经验与资源。
 
-### 指南
-
-- [Style Guides](https://www.writethedocs.org/guide/writing/style-guides/) - 来自 Write the Docs 社区的风格指南集合。
-- [Google 开发者文档风格指南](https://developers.google.com/style/highlights) - 为编写清晰一致的 Google 相关开发者文档提供编辑指南。
-- [Microsoft 写作风格指南](https://learn.microsoft.com/en-us/style-guide/welcome/) - 如果您编写有关计算机技术的内容，这本指南是为您准备的。
-- [Apple 编辑指南](https://support.apple.com/guide/applestyleguide/welcome/web) - 为 Apple 材料（包括文档）提供指南，以帮助保持一致的声音。
-- [GitHub 文档风格指南](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide) - 确保 GitHub 的文档保持一致，并遵循我们的读者可以理解的清晰模式。
-- [Red Hat 技术写作风格指南](https://stylepedia.net/style/) - 包括日常标点符号和语法、要避免的常见错误、翻译和全球受众的策略，以及单词用法词典。
-- [如何编写好的文档 | UC Berkeley](https://guides.lib.berkeley.edu/how-to-write-good-documentation) - 帮助您通过编写良好的文档来准备发布您的代码。
-- [系列：编写优秀文档](https://jacobian.org/series/great-documentation/) - 一系列文章，介绍了作者在帮助编写 Django 文档的多年中学到的工具、技巧和技术。
-- [命令行界面指南](https://clig.dev/) - 一个涵盖 CLI 帮助文本和文档的开源指南。
-
 ### 示例
 
 - [Beautiful Docs](https://github.com/matheusfelipeog/beautiful-docs) ![GitHub Repo stars](https://img.shields.io/github/stars/matheusfelipeog/beautiful-docs) - 指向有用、撰写良好且其他方面美观的文档的指针。
@@ -435,6 +422,18 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) - Sphinx 默认使用的标记语言。
 - [DocBook](https://docbook.org/) - 专为技术文档设计的 XML 架构。
 - [LaTeX](https://www.latex-project.org/) - 文档排版系统，适合复杂排版需求。
+
+### 指南
+
+- [Style Guides](https://www.writethedocs.org/guide/writing/style-guides/) - 来自 Write the Docs 社区的风格指南集合。
+- [Google 开发者文档风格指南](https://developers.google.com/style/highlights) - 为编写清晰一致的 Google 相关开发者文档提供编辑指南。
+- [Microsoft 写作风格指南](https://learn.microsoft.com/en-us/style-guide/welcome/) - 如果您编写有关计算机技术的内容，这本指南是为您准备的。
+- [Apple 编辑指南](https://support.apple.com/guide/applestyleguide/welcome/web) - 为 Apple 材料（包括文档）提供指南，以帮助保持一致的声音。
+- [GitHub 文档风格指南](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide) - 确保 GitHub 的文档保持一致，并遵循我们的读者可以理解的清晰模式。
+- [Red Hat 技术写作风格指南](https://stylepedia.net/style/) - 包括日常标点符号和语法、要避免的常见错误、翻译和全球受众的策略，以及单词用法词典。
+- [如何编写好的文档 | UC Berkeley](https://guides.lib.berkeley.edu/how-to-write-good-documentation) - 帮助您通过编写良好的文档来准备发布您的代码。
+- [系列：编写优秀文档](https://jacobian.org/series/great-documentation/) - 一系列文章，介绍了作者在帮助编写 Django 文档的多年中学到的工具、技巧和技术。
+- [命令行界面指南](https://clig.dev/) - 一个涵盖 CLI 帮助文本和文档的开源指南。
 
 ### 书籍
 
