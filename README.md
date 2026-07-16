@@ -274,6 +274,7 @@ README files are a staple of any code project. They provide the first introducti
   - [Performance Test Report Template](https://www.perfmatrix.com/performance-test-report-template/) - A free .docx template for performance test report from PerfMatrix.
   - [Performance Testing Results Report: How to Write It (with Example)](https://u-tor.com/topic/performance-testing-report) - A guide on performance testing report, including why, how and a real world example.
   - [A Step-by-Step Guide to Creating a Powerful Performance Summary Report](https://www.linkedin.com/pulse/step-by-step-guide-creating-powerful-performance-summary-james-ohia/) - Discuss the best practices for creating a performance test summary report and the key components that should be included in it, with a full example.
+  - [Independent AI Output and Website Trust QA Sample](https://chris-saas-services.stomeonst123.chatgpt.site/resources/ai-output-website-trust-qa-sample) - A dated public documentation QA report with source-linked evidence, bounded fixes, a retest checklist, and explicit access limits.
 
 ### Other Types
 
