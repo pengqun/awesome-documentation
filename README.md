@@ -317,6 +317,7 @@ README files are a staple of any code project. They provide the first introducti
 - [Federated Wiki](https://www.wikiwand.com/en/Federated_Wiki)
   - [The Federated Wiki](https://www.writethedocs.org/videos/na/2015/keynote-the-federated-wiki-ward-cunningham/) - Use federation to ease sharing, by Ward Cunningham.
   - [Node.js server version](https://github.com/fedwiki/wiki) ![GitHub Repo stars](https://img.shields.io/github/stars/fedwiki/wiki) - Federated Wiki node server as npm package.
+- [wiki](https://github.com/plasma-ai/wiki) ![GitHub Repo stars](https://img.shields.io/github/stars/plasma-ai/wiki) - Build and maintain indexed Markdown knowledge bases with generated hierarchical indexes, cross-links, and scoped CLI commands for agents.
 
 ### Knowledge Base
 
