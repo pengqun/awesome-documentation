@@ -391,6 +391,8 @@ Documentation can be more than just plain texts and static pictures.
 
 ### Commercial
 
+- [Text to Confluence](https://www.texttoconfluence.com/) - Browser-based editor for preparing Markdown and plain text as Confluence-ready rich text.
+
 - [Confluence](https://www.atlassian.com/software/confluence) - A powerful collaboration and project management software, which is widely used for enterprise documentation management.
   - [Confluence in a Docker container](https://github.com/cptactionhank/docker-atlassian-confluence) ![GitHub Repo stars](https://img.shields.io/github/stars/cptactionhank/docker-atlassian-confluence) - Atlassian Confluence wrapped in a Docker image.
 - [Writerside | JetBrains](https://www.jetbrains.com/writerside/) - The most powerful development environment – now adapted for writing documentation.
