@@ -398,6 +398,7 @@ Documentation can be more than just plain texts and static pictures.
 from project plans, to specs and process documentation.
 - [Swimm document](https://swimm.io/document) - Code documentation for developer productivity, including AI support to improve readability.
 - [Kapa.ai](https://kapa.ai/) - Generate an LLM-powered chatbot that answers developer questions automatically and helps you find gaps in your docs.
+- [Notula](https://notula.org) - WYSIWYG editor for the Markdown documentation in a git repository, with comment threads committed beside the documents.
 
 ## More Topics
 
