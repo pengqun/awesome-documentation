@@ -124,6 +124,7 @@ Assist users in understanding and navigating the features and functionalities of
 
 - [Log4brains](https://github.com/thomvaill/log4brains) ![GitHub Repo stars](https://img.shields.io/github/stars/thomvaill/log4brains) - Log Architecture Decision Records (ADR) right from your IDE and to publish them automatically as a static website.
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) - Overview of how software design docs are used and written at Google.
+- [Reasoning Formats](https://github.com/reasoning-formats/reasoning-formats) ![GitHub Repo stars](https://img.shields.io/github/stars/reasoning-formats/reasoning-formats) - Machine-readable YAML formats for decision records (DRF) and the organizational context they are validated against (CRF), both defined by JSON Schema.
 
 ### API Documentation
 
