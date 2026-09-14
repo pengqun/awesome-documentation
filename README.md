@@ -393,6 +393,7 @@ Documentation can be more than just plain texts and static pictures.
   - [Unsplash](https://unsplash.com/) - Beautiful, free images and photos that you can download and use for any project.
   - [Illustrations | Popsy](https://popsy.co/illustrations) - Free vector illustrations for Notion and Popsy websites.
   - [KindPng](https://www.kindpng.com/) - Explore millions of transparent png image for personal and non-commercial use.
+- [Trupeer](https://www.trupeer.ai/) - AI-powered tool that turns screen recordings into product videos, step-by-step guides, and documentation.
 
 ### Commercial
 
