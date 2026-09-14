@@ -124,6 +124,7 @@ Assist users in understanding and navigating the features and functionalities of
 
 - [Log4brains](https://github.com/thomvaill/log4brains) ![GitHub Repo stars](https://img.shields.io/github/stars/thomvaill/log4brains) - Log Architecture Decision Records (ADR) right from your IDE and to publish them automatically as a static website.
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) - Overview of how software design docs are used and written at Google.
+- [Reasoning Formats](https://github.com/reasoning-formats/reasoning-formats) ![GitHub Repo stars](https://img.shields.io/github/stars/reasoning-formats/reasoning-formats) - Draft machine-readable YAML formats for decision records (DRF) and the organizational context they are validated against (CRF), both defined by JSON Schema.
 
 ### API Documentation
 
@@ -317,6 +318,7 @@ README files are a staple of any code project. They provide the first introducti
 - [Federated Wiki](https://www.wikiwand.com/en/Federated_Wiki)
   - [The Federated Wiki](https://www.writethedocs.org/videos/na/2015/keynote-the-federated-wiki-ward-cunningham/) - Use federation to ease sharing, by Ward Cunningham.
   - [Node.js server version](https://github.com/fedwiki/wiki) ![GitHub Repo stars](https://img.shields.io/github/stars/fedwiki/wiki) - Federated Wiki node server as npm package.
+- [wiki](https://github.com/plasma-ai/wiki) ![GitHub Repo stars](https://img.shields.io/github/stars/plasma-ai/wiki) - Build and maintain indexed Markdown knowledge bases with generated hierarchical indexes, cross-links, and scoped CLI commands for agents.
 
 ### Knowledge Base
 
@@ -333,6 +335,8 @@ README files are a staple of any code project. They provide the first introducti
 - [Mintlify Writer](https://github.com/mintlify/writer) ![GitHub Repo stars](https://img.shields.io/github/stars/mintlify/writer) - An AI-powered VS Code extension that automatically generates code documentation by highlighting code. Supports multiple programming languages and docstring formats including JSDoc, reST, NumPy, and more.
 - [Readme AI](https://github.com/eli64s/readme-ai) ![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/readme-ai) - A developer tool that automatically generates comprehensive README files using repository analysis and language models. It supports multiple LLM providers, custom templates, and offline generation.
 - [GitBook AI](https://www.gitbook.com/solutions/ai) - A built-in AI assistant that helps teams quickly draft, refine, and enhance product documentation with smart, context-aware suggestions.
+- [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) ![GitHub Repo stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac) - Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.
+- [notabene](https://github.com/z29k/notabene) ![GitHub Repo stars](https://img.shields.io/github/stars/z29k/notabene) - Renders a repo's Markdown/MDX as a navigable site with anchored comments that an AI agent applies back to the source files.
 
 ### Checker & Formatter
 
@@ -371,7 +375,7 @@ Documentation can be more than just plain texts and static pictures.
   - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ![GitHub Repo stars](https://img.shields.io/github/stars/NickeManarin/ScreenToGif) - Record a selected area of your screen, edit and save it as a gif or video.
   - [Peek](https://github.com/phw/peek) ![GitHub Repo stars](https://img.shields.io/github/stars/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
   - [Flameshot](https://github.com/flameshot-org/flameshot) ![GitHub Repo stars](https://img.shields.io/github/stars/flameshot-org/flameshot) - Powerful yet simple to use screenshot software.
-  - [iScribby](https://iscribby.com/) - A simple tool that allows you to draw and copy images directly on to your screen from anywhere.
+  - [iScribby](https://iscribby.com/) - Windows screen annotation tool for drawing over applications and copying images.
 - Audio Recorder
   - [Tenacity](https://codeberg.org/tenacityteam/tenacity) -  An easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor for Windows, macOS, Linux, and other operating systems.
 - Terminal Recorder
@@ -399,6 +403,8 @@ Documentation can be more than just plain texts and static pictures.
 from project plans, to specs and process documentation.
 - [Swimm document](https://swimm.io/document) - Code documentation for developer productivity, including AI support to improve readability.
 - [Kapa.ai](https://kapa.ai/) - Generate an LLM-powered chatbot that answers developer questions automatically and helps you find gaps in your docs.
+- [Biel.ai](https://biel.ai/) - An AI assistant for technical documentation that answers user questions with source-cited responses, on your docs site, in Slack and Teams, or in AI tools via MCP.
+- [Notula](https://notula.org) - WYSIWYG editor for the Markdown documentation in a Git repository, with comment threads committed beside the documents.
 
 ## More Topics
 
