@@ -402,6 +402,7 @@ from project plans, to specs and process documentation.
 - [Swimm document](https://swimm.io/document) - Code documentation for developer productivity, including AI support to improve readability.
 - [Kapa.ai](https://kapa.ai/) - Generate an LLM-powered chatbot that answers developer questions automatically and helps you find gaps in your docs.
 - [Biel.ai](https://biel.ai/) - An AI assistant for technical documentation that answers user questions with source-cited responses, on your docs site, in Slack and Teams, or in AI tools via MCP.
+- [Notula](https://notula.org) - WYSIWYG editor for the Markdown documentation in a Git repository, with comment threads committed beside the documents.
 
 ## More Topics
 
