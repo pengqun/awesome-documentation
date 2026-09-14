@@ -335,6 +335,7 @@ README files are a staple of any code project. They provide the first introducti
 - [Readme AI](https://github.com/eli64s/readme-ai) ![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/readme-ai) - A developer tool that automatically generates comprehensive README files using repository analysis and language models. It supports multiple LLM providers, custom templates, and offline generation.
 - [GitBook AI](https://www.gitbook.com/solutions/ai) - A built-in AI assistant that helps teams quickly draft, refine, and enhance product documentation with smart, context-aware suggestions.
 - [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) ![GitHub Repo stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac) - Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.
+- [notabene](https://github.com/z29k/notabene) ![GitHub Repo stars](https://img.shields.io/github/stars/z29k/notabene) - Renders a repo's Markdown/MDX as a navigable site with anchored comments that an AI agent applies back to the source files.
 
 ### Checker & Formatter
 
