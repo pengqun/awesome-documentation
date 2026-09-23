@@ -138,6 +138,7 @@ Assist users in understanding and navigating the features and functionalities of
 - [DevDocs](https://github.com/freeCodeCamp/devdocs) ![GitHub Repo stars](https://img.shields.io/github/stars/freeCodeCamp/devdocs) - Combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
 - [Zeal](https://github.com/zealdocs/zeal) ![GitHub Repo stars](https://img.shields.io/github/stars/zealdocs/zeal) - Offline documentation browser inspired by Dash.
 - [apiDoc](https://github.com/apidoc/apidoc) ![GitHub Repo stars](https://img.shields.io/github/stars/apidoc/apidoc) - RESTful web API Documentation Generator.
+- [Cortex](https://github.com/cortex-docs/cortex) ![GitHub Repo stars](https://img.shields.io/github/stars/cortex-docs/cortex) - Generate interactive API documentation, typed SDKs, and MCP servers from several API specification formats.
 
 #### OpenAPI
 
