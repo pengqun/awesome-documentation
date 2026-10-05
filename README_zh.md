@@ -90,8 +90,8 @@ TODO:
 
 协助用户直接在应用程序界面内理解和导航其功能和特性。
 
-- [Driver.js](https://github.com/kamranahmedse/driver.js) ![GitHub Repo stars](https://img.shields.io/github/stars/kamranahmedse/driver.js) - 一个轻量级、无依赖的原生 JavaScript 引擎，用于引导用户关注页面的特定部分。
-- [Shepherd](https://github.com/shepherd-pro/shepherd) ![GitHub Repo stars](https://img.shields.io/github/stars/shepherd-pro/shepherd) - 引导用户浏览您的应用程序。
+- [Driver.js](https://github.com/nilbuild/driver.js) ![GitHub Repo stars](https://img.shields.io/github/stars/nilbuild/driver.js) - 一个轻量级、无依赖的原生 JavaScript 引擎，用于引导用户关注页面的特定部分。
+- [Shepherd](https://github.com/shipshapecode/shepherd) ![GitHub Repo stars](https://img.shields.io/github/stars/shipshapecode/shepherd) - 引导用户浏览您的应用程序。
 
 #### 其他
 
@@ -118,12 +118,13 @@ TODO:
   - [C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) ![GitHub Repo stars](https://img.shields.io/github/stars/plantuml-stdlib/C4-PlantUML) - 包括宏、原型以及其他好处（如 VSCode Snippets）用于使用 PlantUML 创建 C4 图表。
   - [C4 图表 | Mermaid](https://mermaid.js.org/syntax/c4.html) - Mermaid 的 C4 图表语法与 plantUML 兼容。
   - [Structurizr](https://github.com/structurizr) - 代码化的 C4 模型 - 使用 C4 模型可视化和记录您的软件架构。
-  - [C4-Builder](https://github.com/adrianvlupu/C4-Builder) ![GitHub Repo stars](https://img.shields.io/github/stars/adrianvlupu/C4-Builder) - 一个轻量级的 nodejs 命令行工具，用于仅使用文本构建、维护和共享软件架构项目。
+  - [C4-Builder](https://github.com/adrianvlupu/C4-Builder) ![GitHub Repo stars](https://img.shields.io/github/stars/adrianvlupu/C4-Builder) - 一个轻量级的 Node.js 命令行工具，用于仅使用文本构建、维护和共享软件架构项目。
   - [C4Sharp](https://github.com/8T4/c4sharp) ![GitHub Repo stars](https://img.shields.io/github/stars/8T4/c4sharp) - 一个基于 C4 模型的 .net 库，用于编码构建图表。
   - [Goa Design - Model](https://github.com/goadesign/model) ![GitHub Repo stars](https://img.shields.io/github/stars/goadesign/model) - 在 Go 中创建您的软件架构模型和图表。Model DSL 在 Go 中实现，并遵循 C4 模型。
 
 - [Log4brains](https://github.com/thomvaill/log4brains) ![GitHub Repo stars](https://img.shields.io/github/stars/thomvaill/log4brains) - 直接在 IDE 中记录架构决策记录 (ADR)，并自动将其发布为静态网站。
 - [Google 的设计文档](https://www.industrialempathy.com/posts/design-docs-at-google/) - 概述 Google 如何使用和编写软件设计文档。
+- [Reasoning Formats](https://github.com/reasoning-formats/reasoning-formats) ![GitHub Repo stars](https://img.shields.io/github/stars/reasoning-formats/reasoning-formats) - 用于决策记录（DRF）及其所校验的组织上下文（CRF）的机器可读 YAML 格式草案，均由 JSON Schema 定义。
 
 ### API 文档
 
@@ -132,7 +133,7 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 #### 通用
 
 - [API 参考模板](https://gitlab.com/tgdp/templates/-/blob/main/api-reference/template-api-reference.md) - 由 The Good Docs Project 提供的开源模板。
-- [Slate](https://github.com/slatedocs/slate) ![GitHub Repo stars](https://img.shields.io/github/stars/slatedocs/slate) - 从符合 Swagger 的 API 动态生成美观的静态文档。
+- [Slate](https://github.com/slatedocs/slate) ![GitHub Repo stars](https://img.shields.io/github/stars/slatedocs/slate) - 为你的 API 生成美观的静态文档。
   - [Widdershins](https://github.com/Mermade/widdershins) ![GitHub Repo stars](https://img.shields.io/github/stars/Mermade/widdershins) - OpenAPI / Swagger / AsyncAPI / Semoasa 定义转 Slate / ReSlate 兼容 markdown。
 - [DevDocs](https://github.com/freeCodeCamp/devdocs) ![GitHub Repo stars](https://img.shields.io/github/stars/freeCodeCamp/devdocs) - 将多个开发文档结合在一个干净有序的 Web UI 中，支持即时搜索、离线支持、移动版本、暗黑主题、快捷键等。
 - [Zeal](https://github.com/zealdocs/zeal) ![GitHub Repo stars](https://img.shields.io/github/stars/zealdocs/zeal) - 受到 Dash 启发的离线文档浏览器。
@@ -222,7 +223,7 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - JavaScript
   - [JSDoc](https://github.com/jsdoc/jsdoc) ![GitHub Repo stars](https://img.shields.io/github/stars/jsdoc/jsdoc) - 一个 JavaScript API 文档生成器。
   - [documentation.js](https://github.com/documentationjs/documentation) ![GitHub Repo stars](https://img.shields.io/github/stars/documentationjs/documentation) - 现代 JavaScript 的文档系统。
-  - [Docz](https://github.com/doczjs/docz) ![GitHub Repo stars](https://img.shields.io/github/stars/doczjs/docz) - 为您的代码编写和发布美观的交互式文档。
+  - [Docz](https://github.com/pedronauck/docz) ![GitHub Repo stars](https://img.shields.io/github/stars/doczjs/docz) - 为您的代码编写和发布美观的交互式文档。
   - [Storybook](https://github.com/storybookjs/storybook) ![GitHub Repo stars](https://img.shields.io/github/stars/storybookjs/storybook) - 一个用于 UI 开发、测试和文档的前端工坊。
 - TypeScript
   - [TSDoc](https://github.com/microsoft/tsdoc) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/tsdoc) - TypeScript 的文档注释标准。
@@ -298,10 +299,11 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - [Starlight](https://github.com/withastro/starlight) ![GitHub Repo stars](https://img.shields.io/github/stars/withastro/starlight) - 使用 Astro 构建美观、无障碍、高性能的文档网站。
 - [Docco](https://github.com/jashkenas/docco) ![GitHub Repo stars](https://img.shields.io/github/stars/jashkenas/docco) - 只需百来行代码就能生成文档的项目，采用文学式编程风格。
 - [bookdown](https://github.com/rstudio/bookdown) ![GitHub Repo stars](https://img.shields.io/github/stars/rstudio/bookdown) - 使用 R Markdown 编写书籍与技术文档。
-- [Docus](https://github.com/nuxt-themes/docus) ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt-themes/docus) - 使用 Vue 与 Markdown 构建以文档驱动的网站。
+- [Docus](https://github.com/nuxt-content/docus) ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt-content/docus) - 使用 Vue 与 Markdown 构建以文档驱动的网站。
 - [Doctave](https://github.com/Doctave/doctave) ![GitHub Repo stars](https://img.shields.io/github/stars/Doctave/doctave) - 开箱即用的开发者文档站点生成器。
 - [xyd](https://github.com/livesession/xyd) ![GitHub Repo stars](https://img.shields.io/github/stars/livesession/xyd) - 一个全新的可扩展文档框架，专为所有人构建，由 LiveSession 提供支持。
 - [Sourcey](https://github.com/sourcey/sourcey) ![GitHub Repo stars](https://img.shields.io/github/stars/sourcey/sourcey) - 多源静态文档生成器。可消费 OpenAPI、MCP、Doxygen XML、godoc 和 Markdown，生成单个静态 HTML 站点。自托管，AGPL-3.0。
+- [Jamdesk](https://jamdesk.com/) - 基于 Git 的 MDX 文档平台，提供用于本地预览的 CLI，支持 OpenAPI 参考、AI 对话、自定义域名和托管部署。
 
 ### Wiki 构建器
 
@@ -315,11 +317,12 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - [联邦 Wiki](https://www.wikiwand.com/en/Federated_Wiki)
   - [联邦 Wiki](https://www.writethedocs.org/videos/na/2015/keynote-the-federated-wiki-ward-cunningham/) - 由 Ward Cunningham 使用联邦来简化共享。
   - [Node.js 服务器版本](https://github.com/fedwiki/wiki) ![GitHub Repo stars](https://img.shields.io/github/stars/fedwiki/wiki) - 作为 npm 包的联邦 Wiki node 服务器。
+- [wiki](https://github.com/plasma-ai/wiki) ![GitHub Repo stars](https://img.shields.io/github/stars/plasma-ai/wiki) - 构建并维护带索引的 Markdown 知识库，自动生成层级索引和交叉链接，并提供面向 Agent 的限定范围 CLI 命令。
 
 ### 知识库
 
 - [Documize](https://github.com/documize/community) ![GitHub Repo stars](https://img.shields.io/github/stars/documize/community) - 现代化的 Confluence 替代品，适合管理内部和外部文档。
-- [Trilium Notes](https://github.com/zadam/trilium) ![GitHub Repo stars](https://img.shields.io/github/stars/zadam/trilium) - 支持层级结构的笔记应用，可构建大型个人知识库。
+- [Trilium Notes](https://github.com/TriliumNext/Trilium) ![GitHub Repo stars](https://img.shields.io/github/stars/TriliumNext/Trilium) - 支持层级结构的笔记应用，可构建大型个人知识库。
 - [Seafile](https://github.com/haiwen/seafile) ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile) - 高性能的文件同步与分享平台，提供 Markdown 编辑、Wiki 等知识管理功能。
 - [Logseq](https://github.com/logseq/logseq) ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq) - 以隐私为先的开源知识管理与协作平台。
 - [MrDoc](https://github.com/zmister2016/MrDoc) ![GitHub Repo stars](https://img.shields.io/github/stars/zmister2016/MrDoc) - 适合个人和小团队的在线文档系统，可管理文档、Wiki 和笔记。
@@ -331,6 +334,8 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - [Mintlify Writer](https://github.com/mintlify/writer) ![GitHub Repo stars](https://img.shields.io/github/stars/mintlify/writer) - 基于 AI 的 VS Code 扩展，高亮代码即可生成说明。
 - [Readme AI](https://github.com/eli64s/readme-ai) ![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/readme-ai) - 自动分析仓库并生成完善的 README，支持多种 LLM 与模板。
 - [GitBook AI](https://www.gitbook.com/solutions/ai) - GitBook 内置的 AI 助手，根据上下文提供写作建议。
+- [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) ![GitHub Repo stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac) - 面向 AI 编程 Agent 的自更新仓库 Wiki，在仓库本地记录项目对话与上下文。
+- [notabene](https://github.com/z29k/notabene) ![GitHub Repo stars](https://img.shields.io/github/stars/z29k/notabene) - 将仓库中的 Markdown/MDX 渲染为可浏览的站点，支持锚定评论，并由 AI Agent 将评论修改回写到源文件。
 
 ### 检查与格式化
 
@@ -347,8 +352,8 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 
 ### 绘图工具
 
-- [draw.io](https://github.com/jgraph/drawio) ![GitHub Repo stars](https://img.shields.io/github/stars/jgraph/drawio) (开源) - 一个 JavaScript 客户端编辑器，用于通用图表绘制。
 - [Excalidraw](https://github.com/excalidraw/excalidraw) ![GitHub Repo stars](https://img.shields.io/github/stars/excalidraw/excalidraw) - 开源的手绘风格白板，用于快速勾画示意图。
+- [draw.io](https://github.com/jgraph/drawio) ![GitHub Repo stars](https://img.shields.io/github/stars/jgraph/drawio) (开源) - 一个 JavaScript 客户端编辑器，用于通用图表绘制。
 - [Mermaid](https://github.com/mermaid-js/mermaid) ![GitHub Repo stars](https://img.shields.io/github/stars/mermaid-js/mermaid) - 通过类 Markdown 语法绘制图表。
   - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - 在线编辑和预览 Mermaid 图表。
 - [PlantUML](https://github.com/plantuml/plantuml) ![GitHub Repo stars](https://img.shields.io/github/stars/plantuml/plantuml) - 使用简单语法创建各种 UML 图。
@@ -367,6 +372,7 @@ API 是软件世界的通用语言，需要进行良好的文档化。
   - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ![GitHub Repo stars](https://img.shields.io/github/stars/NickeManarin/ScreenToGif) - 录制屏幕区域并保存为 GIF 或视频。
   - [Peek](https://github.com/phw/peek) ![GitHub Repo stars](https://img.shields.io/github/stars/phw/peek) - 简单易用的 GIF 录制器。
   - [Flameshot](https://github.com/flameshot-org/flameshot) ![GitHub Repo stars](https://img.shields.io/github/stars/flameshot-org/flameshot) - 功能强大的截图工具，易于使用。
+  - [iScribby](https://iscribby.com/) - Windows 屏幕标注工具，可在任意应用上绘图并复制图片。
 - **音频录制**
   - [Tenacity](https://codeberg.org/tenacityteam/tenacity) - 易用的跨平台开源多轨音频编辑器。
 - **终端录制**
@@ -383,6 +389,7 @@ API 是软件世界的通用语言，需要进行良好的文档化。
   - [Unsplash](https://unsplash.com/) - 高质量、可免费商用的图片网站。
   - [Illustrations | Popsy](https://popsy.co/illustrations) - 免费矢量插图，适用于 Notion 和 Popsy 等。
   - [KindPng](https://www.kindpng.com/) - 大量透明 PNG 图片，可个人和非商业使用。
+- [Trupeer](https://www.trupeer.ai/) - AI 工具，可将录屏转换为产品视频、分步指南和文档。
 
 ### 商业化
 
@@ -392,6 +399,8 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - [Project documentation | Slite](https://slite.com/solutions/project-documentation) - 将分散的项目文档集中到一起。
 - [Swimm document](https://swimm.io/document) - 为开发者提供 AI 加持的代码文档解决方案。
 - [Kapa.ai](https://kapa.ai/) - 生成支持 LLM 的聊天机器人，自动回答开发者问题并发现文档缺口。
+- [Biel.ai](https://biel.ai/) - 面向技术文档的 AI 助手，在文档站点、Slack、Teams 中或通过 MCP 在 AI 工具里回答用户问题，并附带来源引用。
+- [Notula](https://notula.org) - 面向 Git 仓库中 Markdown 文档的所见即所得编辑器，评论线程与文档一同提交。
 
 ## 更多主题
 
@@ -456,8 +465,8 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 
 - [DocOps 集合](https://doctoolhub.com/collection/docops/) - 这些文章介绍了 DocOps 的概念。
 - [DocOps 到底是什么？](https://www.writethedocs.org/guide/doc-ops/) - 编写文档社区的精彩文章。
-- [代码即文档](https://www.writethedocs.org/guide/docs-as-code/) - 编写文档社区的精彩文章。
-- [DocOps 实验室](https://github.com/DocOps) - 一个平台，用于协作开发和探索代码即文档基础设施、自动化、工作流等。
+- [文档即代码](https://www.writethedocs.org/guide/docs-as-code/) - 来自 Write the Docs 社区的精彩文章。
+- [DocOps 实验室](https://github.com/DocOps) - 一个平台，用于协作开发和探索文档即代码基础设施、自动化、工作流等。
 - [什么是持续文档？宣言](https://swimm.io/blog/what-is-continuous-documentation-manifesto-part-1)
 - [作为一种新方法的持续文档的转变](https://www.infoq.com/articles/continuous-documentation/)
 

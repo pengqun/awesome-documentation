@@ -90,8 +90,8 @@ Answers frequently asked questions to quickly resolve common issues or clarify t
 
 Assist users in understanding and navigating the features and functionalities of the app directly from within its interface.
 
-- [Driver.js](https://github.com/kamranahmedse/driver.js) ![GitHub Repo stars](https://img.shields.io/github/stars/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.
-- [Shepherd](https://github.com/shepherd-pro/shepherd) ![GitHub Repo stars](https://img.shields.io/github/stars/shepherd-pro/shepherd) - Guide your users through a tour of your app.
+- [Driver.js](https://github.com/nilbuild/driver.js) ![GitHub Repo stars](https://img.shields.io/github/stars/nilbuild/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.
+- [Shepherd](https://github.com/shipshapecode/shepherd) ![GitHub Repo stars](https://img.shields.io/github/stars/shipshapecode/shepherd) - Guide your users through a tour of your app.
 
 #### Others
 
@@ -225,7 +225,7 @@ README files are a staple of any code project. They provide the first introducti
 - JavaScript
   - [JSDoc](https://github.com/jsdoc/jsdoc) ![GitHub Repo stars](https://img.shields.io/github/stars/jsdoc/jsdoc) - An API documentation generator for JavaScript.
   - [documentation.js](https://github.com/documentationjs/documentation) ![GitHub Repo stars](https://img.shields.io/github/stars/documentationjs/documentation) - The documentation system for modern JavaScript.
-  - [Docz](https://github.com/doczjs/docz) ![GitHub Repo stars](https://img.shields.io/github/stars/doczjs/docz) - Write and publish beautiful interactive documentation for your code.
+  - [Docz](https://github.com/pedronauck/docz) ![GitHub Repo stars](https://img.shields.io/github/stars/doczjs/docz) - Write and publish beautiful interactive documentation for your code.
   - [Storybook](https://github.com/storybookjs/storybook) ![GitHub Repo stars](https://img.shields.io/github/stars/storybookjs/storybook) - A frontend workshop made for UI development, testing, and documentation.
 - TypeScript
   - [TSDoc](https://github.com/microsoft/tsdoc) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/tsdoc) - A doc comment standard for TypeScript.
@@ -301,7 +301,7 @@ README files are a staple of any code project. They provide the first introducti
 - [Starlight](https://github.com/withastro/starlight) ![GitHub Repo stars](https://img.shields.io/github/stars/withastro/starlight) - Build beautiful, accessible, high-performance documentation websites with Astro.
 - [Docco](https://github.com/jashkenas/docco) ![GitHub Repo stars](https://img.shields.io/github/stars/jashkenas/docco) - A quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
 - [bookdown](https://github.com/rstudio/bookdown) ![GitHub Repo stars](https://img.shields.io/github/stars/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown.
-- [Docus](https://github.com/nuxt-themes/docus) ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt-themes/docus) - Create document-driven websites with Vue & Markdown.
+- [Docus](https://github.com/nuxt-content/docus) ![GitHub Repo stars](https://img.shields.io/github/stars/nuxt-content/docus) - Create document-driven websites with Vue & Markdown.
 - [Doctave](https://github.com/Doctave/doctave) ![GitHub Repo stars](https://img.shields.io/github/stars/Doctave/doctave) - A batteries-included developer documentation site generator.
 - [xyd](https://github.com/livesession/xyd) ![GitHub Repo stars](https://img.shields.io/github/stars/livesession/xyd) - A new scalable docs framework built for everyone powered by LiveSession.
 - [Sourcey](https://github.com/sourcey/sourcey) ![GitHub Repo stars](https://img.shields.io/github/stars/sourcey/sourcey) - Multi-source static documentation generator. Consumes OpenAPI, MCP, Doxygen XML, godoc, and Markdown to produce one static HTML site. Self-hosted, AGPL-3.0.
@@ -324,7 +324,7 @@ README files are a staple of any code project. They provide the first introducti
 ### Knowledge Base
 
 - [Documize](https://github.com/documize/community) ![GitHub Repo stars](https://img.shields.io/github/stars/documize/community) - Modern Confluence alternative designed for internal & external docs.
-- [Trilium Notes](https://github.com/zadam/trilium) ![GitHub Repo stars](https://img.shields.io/github/stars/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases.
+- [Trilium Notes](https://github.com/TriliumNext/Trilium) ![GitHub Repo stars](https://img.shields.io/github/stars/TriliumNext/Trilium) - A hierarchical note taking application with focus on building large personal knowledge bases.
 - [Seafile](https://github.com/haiwen/seafile) ![GitHub Repo stars](https://img.shields.io/github/stars/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
 - [Logseq](https://github.com/logseq/logseq) ![GitHub Repo stars](https://img.shields.io/github/stars/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration.
 - [MrDoc](https://github.com/zmister2016/MrDoc) ![GitHub Repo stars](https://img.shields.io/github/stars/zmister2016/MrDoc) - An online document system suitable for individuals and small teams to manage documents, wiki, knowledge and notes.
