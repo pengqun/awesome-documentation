@@ -314,6 +314,7 @@ API 是软件世界的通用语言，需要进行良好的文档化。
   - [联邦 Wiki](https://www.writethedocs.org/videos/na/2015/keynote-the-federated-wiki-ward-cunningham/) - 由 Ward Cunningham 使用联邦来简化共享。
   - [Node.js 服务器版本](https://github.com/fedwiki/wiki) ![GitHub Repo stars](https://img.shields.io/github/stars/fedwiki/wiki) - 作为 npm 包的联邦 Wiki node 服务器。
 - [wiki](https://github.com/plasma-ai/wiki) ![GitHub Repo stars](https://img.shields.io/github/stars/plasma-ai/wiki) - 构建并维护带索引的 Markdown 知识库，自动生成层级索引和交叉链接，并提供面向 Agent 的限定范围 CLI 命令。
+- [Wiki Pilot](https://wikipilot.dev/) ![GitHub Repo stars](https://img.shields.io/github/stars/guymoyal/wikipilot) - 从代码库生成文档 Wiki；每个页面都会记录其来源文件，并在这些文件变更时标记自身需要更新。
 
 ### 知识库
 
