@@ -133,11 +133,8 @@ Assist users in understanding and navigating the features and functionalities of
 #### General
 
 - [API Reference template](https://gitlab.com/tgdp/templates/-/blob/main/api-reference/template-api-reference.md) - Open-source template provided by The Good Docs Project.
-- [Slate](https://github.com/slatedocs/slate) ![GitHub Repo stars](https://img.shields.io/github/stars/slatedocs/slate) - Beautiful static documentation for your API.
-  - [Widdershins](https://github.com/Mermade/widdershins) ![GitHub Repo stars](https://img.shields.io/github/stars/Mermade/widdershins) - OpenAPI / Swagger / AsyncAPI / Semoasa definition to Slate / ReSlate compatible markdown.
 - [DevDocs](https://github.com/freeCodeCamp/devdocs) ![GitHub Repo stars](https://img.shields.io/github/stars/freeCodeCamp/devdocs) - Combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
 - [Zeal](https://github.com/zealdocs/zeal) ![GitHub Repo stars](https://img.shields.io/github/stars/zealdocs/zeal) - Offline documentation browser inspired by Dash.
-- [apiDoc](https://github.com/apidoc/apidoc) ![GitHub Repo stars](https://img.shields.io/github/stars/apidoc/apidoc) - RESTful web API Documentation Generator.
 
 #### OpenAPI
 
@@ -225,7 +222,6 @@ README files are a staple of any code project. They provide the first introducti
 - JavaScript
   - [JSDoc](https://github.com/jsdoc/jsdoc) ![GitHub Repo stars](https://img.shields.io/github/stars/jsdoc/jsdoc) - An API documentation generator for JavaScript.
   - [documentation.js](https://github.com/documentationjs/documentation) ![GitHub Repo stars](https://img.shields.io/github/stars/documentationjs/documentation) - The documentation system for modern JavaScript.
-  - [Docz](https://github.com/pedronauck/docz) ![GitHub Repo stars](https://img.shields.io/github/stars/doczjs/docz) - Write and publish beautiful interactive documentation for your code.
   - [Storybook](https://github.com/storybookjs/storybook) ![GitHub Repo stars](https://img.shields.io/github/stars/storybookjs/storybook) - A frontend workshop made for UI development, testing, and documentation.
 - TypeScript
   - [TSDoc](https://github.com/microsoft/tsdoc) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/tsdoc) - A doc comment standard for TypeScript.
@@ -333,7 +329,6 @@ README files are a staple of any code project. They provide the first introducti
 
 ### AI-powered Tools
 
-- [Mintlify Writer](https://github.com/mintlify/writer) ![GitHub Repo stars](https://img.shields.io/github/stars/mintlify/writer) - An AI-powered VS Code extension that automatically generates code documentation by highlighting code. Supports multiple programming languages and docstring formats including JSDoc, reST, NumPy, and more.
 - [Readme AI](https://github.com/eli64s/readme-ai) ![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/readme-ai) - A developer tool that automatically generates comprehensive README files using repository analysis and language models. It supports multiple LLM providers, custom templates, and offline generation.
 - [GitBook AI](https://www.gitbook.com/solutions/ai) - A built-in AI assistant that helps teams quickly draft, refine, and enhance product documentation with smart, context-aware suggestions.
 - [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) ![GitHub Repo stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac) - Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.
@@ -374,7 +369,6 @@ Documentation can be more than just plain texts and static pictures.
   - [Kap](https://github.com/wulkano/kap) ![GitHub Repo stars](https://img.shields.io/github/stars/wulkano/kap) - An open-source screen recorder built with web technology.
   - [rrweb](https://github.com/rrweb-io/rrweb) ![GitHub Repo stars](https://img.shields.io/github/stars/rrweb-io/rrweb) - A tool for recording and replaying users' interactions on the web.
   - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ![GitHub Repo stars](https://img.shields.io/github/stars/NickeManarin/ScreenToGif) - Record a selected area of your screen, edit and save it as a gif or video.
-  - [Peek](https://github.com/phw/peek) ![GitHub Repo stars](https://img.shields.io/github/stars/phw/peek) - Simple animated GIF screen recorder with an easy to use interface.
   - [Flameshot](https://github.com/flameshot-org/flameshot) ![GitHub Repo stars](https://img.shields.io/github/stars/flameshot-org/flameshot) - Powerful yet simple to use screenshot software.
   - [iScribby](https://iscribby.com/) - Windows screen annotation tool for drawing over applications and copying images.
 - Audio Recorder

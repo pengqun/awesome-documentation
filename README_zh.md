@@ -133,11 +133,8 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 #### 通用
 
 - [API 参考模板](https://gitlab.com/tgdp/templates/-/blob/main/api-reference/template-api-reference.md) - 由 The Good Docs Project 提供的开源模板。
-- [Slate](https://github.com/slatedocs/slate) ![GitHub Repo stars](https://img.shields.io/github/stars/slatedocs/slate) - 为你的 API 生成美观的静态文档。
-  - [Widdershins](https://github.com/Mermade/widdershins) ![GitHub Repo stars](https://img.shields.io/github/stars/Mermade/widdershins) - OpenAPI / Swagger / AsyncAPI / Semoasa 定义转 Slate / ReSlate 兼容 markdown。
 - [DevDocs](https://github.com/freeCodeCamp/devdocs) ![GitHub Repo stars](https://img.shields.io/github/stars/freeCodeCamp/devdocs) - 将多个开发文档结合在一个干净有序的 Web UI 中，支持即时搜索、离线支持、移动版本、暗黑主题、快捷键等。
 - [Zeal](https://github.com/zealdocs/zeal) ![GitHub Repo stars](https://img.shields.io/github/stars/zealdocs/zeal) - 受到 Dash 启发的离线文档浏览器。
-- [apiDoc](https://github.com/apidoc/apidoc) ![GitHub Repo stars](https://img.shields.io/github/stars/apidoc/apidoc) - RESTful web API 文档生成器。
 
 #### OpenAPI
 
@@ -223,7 +220,6 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 - JavaScript
   - [JSDoc](https://github.com/jsdoc/jsdoc) ![GitHub Repo stars](https://img.shields.io/github/stars/jsdoc/jsdoc) - 一个 JavaScript API 文档生成器。
   - [documentation.js](https://github.com/documentationjs/documentation) ![GitHub Repo stars](https://img.shields.io/github/stars/documentationjs/documentation) - 现代 JavaScript 的文档系统。
-  - [Docz](https://github.com/pedronauck/docz) ![GitHub Repo stars](https://img.shields.io/github/stars/doczjs/docz) - 为您的代码编写和发布美观的交互式文档。
   - [Storybook](https://github.com/storybookjs/storybook) ![GitHub Repo stars](https://img.shields.io/github/stars/storybookjs/storybook) - 一个用于 UI 开发、测试和文档的前端工坊。
 - TypeScript
   - [TSDoc](https://github.com/microsoft/tsdoc) ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/tsdoc) - TypeScript 的文档注释标准。
@@ -331,7 +327,6 @@ API 是软件世界的通用语言，需要进行良好的文档化。
 
 ### AI 工具
 
-- [Mintlify Writer](https://github.com/mintlify/writer) ![GitHub Repo stars](https://img.shields.io/github/stars/mintlify/writer) - 基于 AI 的 VS Code 扩展，高亮代码即可生成说明。
 - [Readme AI](https://github.com/eli64s/readme-ai) ![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/readme-ai) - 自动分析仓库并生成完善的 README，支持多种 LLM 与模板。
 - [GitBook AI](https://www.gitbook.com/solutions/ai) - GitBook 内置的 AI 助手，根据上下文提供写作建议。
 - [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) ![GitHub Repo stars](https://img.shields.io/github/stars/AlmanacCode/codealmanac) - 面向 AI 编程 Agent 的自更新仓库 Wiki，在仓库本地记录项目对话与上下文。
@@ -370,7 +365,6 @@ API 是软件世界的通用语言，需要进行良好的文档化。
   - [Kap](https://github.com/wulkano/kap) ![GitHub Repo stars](https://img.shields.io/github/stars/wulkano/kap) - 基于 Web 技术的开源录屏软件。
   - [rrweb](https://github.com/rrweb-io/rrweb) ![GitHub Repo stars](https://img.shields.io/github/stars/rrweb-io/rrweb) - 用于录制并回放网页交互。
   - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ![GitHub Repo stars](https://img.shields.io/github/stars/NickeManarin/ScreenToGif) - 录制屏幕区域并保存为 GIF 或视频。
-  - [Peek](https://github.com/phw/peek) ![GitHub Repo stars](https://img.shields.io/github/stars/phw/peek) - 简单易用的 GIF 录制器。
   - [Flameshot](https://github.com/flameshot-org/flameshot) ![GitHub Repo stars](https://img.shields.io/github/stars/flameshot-org/flameshot) - 功能强大的截图工具，易于使用。
   - [iScribby](https://iscribby.com/) - Windows 屏幕标注工具，可在任意应用上绘图并复制图片。
 - **音频录制**
