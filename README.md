@@ -346,6 +346,7 @@ README files are a staple of any code project. They provide the first introducti
 - [Capitalize My Title](https://capitalizemytitle.com/) - An easy, smart title capitalization tool that uses title capitalization rules published by leading professional organizations to ensure your titles and headlines are capitalized correctly.
 - [CasePolice](https://github.com/antfu/case-police) ![GitHub Repo stars](https://img.shields.io/github/stars/antfu/case-police) - Scan all your source files and fix the cases of known names.
 - [Tables Generator](https://www.tablesgenerator.com/) - Generate tables in HTML, Markdown, Latex, MediaWiki, etc.
+- [Text to Confluence](https://www.texttoconfluence.com/) - Free browser-based editor that converts Markdown or plain text into rich text for pasting into Confluence.
 
 ### Diagramming
 
@@ -390,8 +391,6 @@ Documentation can be more than just plain texts and static pictures.
   - [KindPng](https://www.kindpng.com/) - Explore millions of transparent png image for personal and non-commercial use.
 
 ### Commercial
-
-- [Text to Confluence](https://www.texttoconfluence.com/) - Browser-based editor for preparing Markdown and plain text as Confluence-ready rich text.
 
 - [Confluence](https://www.atlassian.com/software/confluence) - A powerful collaboration and project management software, which is widely used for enterprise documentation management.
   - [Confluence in a Docker container](https://github.com/cptactionhank/docker-atlassian-confluence) ![GitHub Repo stars](https://img.shields.io/github/stars/cptactionhank/docker-atlassian-confluence) - Atlassian Confluence wrapped in a Docker image.
