@@ -347,6 +347,7 @@ README files are a staple of any code project. They provide the first introducti
 - [Capitalize My Title](https://capitalizemytitle.com/) - An easy, smart title capitalization tool that uses title capitalization rules published by leading professional organizations to ensure your titles and headlines are capitalized correctly.
 - [CasePolice](https://github.com/antfu/case-police) ![GitHub Repo stars](https://img.shields.io/github/stars/antfu/case-police) - Scan all your source files and fix the cases of known names.
 - [Tables Generator](https://www.tablesgenerator.com/) - Generate tables in HTML, Markdown, Latex, MediaWiki, etc.
+- [Text to Confluence](https://www.texttoconfluence.com/) - Free browser-based editor that converts Markdown or plain text into rich text for pasting into Confluence.
 
 ### Diagramming
 
