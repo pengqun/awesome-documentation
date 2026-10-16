@@ -373,6 +373,7 @@ Documentation can be more than just plain texts and static pictures.
   - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) ![GitHub Repo stars](https://img.shields.io/github/stars/NickeManarin/ScreenToGif) - Record a selected area of your screen, edit and save it as a gif or video.
   - [Flameshot](https://github.com/flameshot-org/flameshot) ![GitHub Repo stars](https://img.shields.io/github/stars/flameshot-org/flameshot) - Powerful yet simple to use screenshot software.
   - [iScribby](https://iscribby.com/) - Windows screen annotation tool for drawing over applications and copying images.
+  - [CurlShot](https://curlshot.com/) - Screenshot API for keeping docs screenshots current: capture a URL, a full page, a device viewport or a single element from a script or CI job.
 - Audio Recorder
   - [Tenacity](https://codeberg.org/tenacityteam/tenacity) -  An easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor for Windows, macOS, Linux, and other operating systems.
 - Terminal Recorder
