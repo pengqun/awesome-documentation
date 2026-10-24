@@ -348,6 +348,7 @@ README files are a staple of any code project. They provide the first introducti
 - [CasePolice](https://github.com/antfu/case-police) ![GitHub Repo stars](https://img.shields.io/github/stars/antfu/case-police) - Scan all your source files and fix the cases of known names.
 - [Tables Generator](https://www.tablesgenerator.com/) - Generate tables in HTML, Markdown, Latex, MediaWiki, etc.
 - [Text to Confluence](https://www.texttoconfluence.com/) - Free browser-based editor that converts Markdown or plain text into rich text for pasting into Confluence.
+- [Corpus Keeper](https://github.com/forgedculture/corpus-keeper) ![GitHub Repo stars](https://img.shields.io/github/stars/forgedculture/corpus-keeper) - Standard-library Python CLI that audits broken relative links, document index drift, and stale markers in project folders.
 
 ### Diagramming
 
