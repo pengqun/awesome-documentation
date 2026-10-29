@@ -357,6 +357,7 @@ One diagram is usually worth more than a thousand words.
 - [draw.io](https://github.com/jgraph/drawio) ![GitHub Repo stars](https://img.shields.io/github/stars/jgraph/drawio) (Open Source) - A JavaScript, client-side editor for general diagramming.
 - [Mermaid](https://github.com/mermaid-js/mermaid) ![GitHub Repo stars](https://img.shields.io/github/stars/mermaid-js/mermaid) - A diagramming and charting tool that renders Markdown-inspired text definitions to create charts.
   - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - A live editor for Mermaid diagrams.
+  - [Mermaid Diagram Editor for Confluence](https://marketplace.atlassian.com/apps/1154212410/mermaid-diagram-editor-for-confluence) - A Confluence Cloud app to edit Mermaid diagrams by clicking on the diagram or in code, with both kept in sync. Free for sites with up to 10 users.
 - [PlantUML](https://github.com/plantuml/plantuml) ![GitHub Repo stars](https://img.shields.io/github/stars/plantuml/plantuml) - Allows users to create diagrams using a simple syntax.
 - [Lucidchart](https://www.lucidchart.com/) - Generate visuals automatically with AI and data imports, or build your own using intuitive diagramming tools.
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle/) - A Mac-only diagramming tool that offers a wide range of features for creating diagrams.
