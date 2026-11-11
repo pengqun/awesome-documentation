@@ -404,6 +404,7 @@ from project plans, to specs and process documentation.
 - [Kapa.ai](https://kapa.ai/) - Generate an LLM-powered chatbot that answers developer questions automatically and helps you find gaps in your docs.
 - [Biel.ai](https://biel.ai/) - An AI assistant for technical documentation that answers user questions with source-cited responses, on your docs site, in Slack and Teams, or in AI tools via MCP.
 - [Notula](https://notula.org) - WYSIWYG editor for the Markdown documentation in a Git repository, with comment threads committed beside the documents.
+- [Moxie Docs](https://moxiedocs.com) - Flags documentation drift in a GitHub repository on every merge and opens docs-only pull requests for review, free for one repository.
 
 ## More Topics
 
