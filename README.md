@@ -303,6 +303,7 @@ README files are a staple of any code project. They provide the first introducti
 - [Sourcey](https://github.com/sourcey/sourcey) ![GitHub Repo stars](https://img.shields.io/github/stars/sourcey/sourcey) - Multi-source static documentation generator. Consumes OpenAPI, MCP, Doxygen XML, godoc, and Markdown to produce one static HTML site. Self-hosted, AGPL-3.0.
 - [Jamdesk](https://jamdesk.com/) - Git-backed MDX documentation platform with a CLI for local previews, OpenAPI references, AI chat, custom domains, and managed deployment.
 - [dartdoc_modern](https://github.com/777genius/dartdoc_modern) ![GitHub Repo stars](https://img.shields.io/github/stars/777genius/dartdoc_modern) - Generates Dart API reference and guide websites using Jaspr, VitePress, or classic HTML.
+- [Thally](https://github.com/thallylabs/thally) ![GitHub Repo stars](https://img.shields.io/github/stars/thallylabs/thally) - MIT-licensed docs engine (Next.js, MDX) that publishes each page as HTML, Markdown and JSON, with llms.txt and an MCP endpoint.
 
 ### Wiki Builder
 
