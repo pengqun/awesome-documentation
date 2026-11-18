@@ -349,6 +349,7 @@ README files are a staple of any code project. They provide the first introducti
 - [CasePolice](https://github.com/antfu/case-police) ![GitHub Repo stars](https://img.shields.io/github/stars/antfu/case-police) - Scan all your source files and fix the cases of known names.
 - [Tables Generator](https://www.tablesgenerator.com/) - Generate tables in HTML, Markdown, Latex, MediaWiki, etc.
 - [Text to Confluence](https://www.texttoconfluence.com/) - Free browser-based editor that converts Markdown or plain text into rich text for pasting into Confluence.
+- [doc-lag](https://github.com/TarcisioPhilips/doc-lag) ![GitHub Repo stars](https://img.shields.io/github/stars/TarcisioPhilips/doc-lag) - Local, read-only CLI and GitHub Action that finds documentation made stale by a PR diff.
 
 ### Diagramming
 
