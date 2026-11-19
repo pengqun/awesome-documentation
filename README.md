@@ -404,6 +404,7 @@ from project plans, to specs and process documentation.
 - [Kapa.ai](https://kapa.ai/) - Generate an LLM-powered chatbot that answers developer questions automatically and helps you find gaps in your docs.
 - [Biel.ai](https://biel.ai/) - An AI assistant for technical documentation that answers user questions with source-cited responses, on your docs site, in Slack and Teams, or in AI tools via MCP.
 - [Notula](https://notula.org) - WYSIWYG editor for the Markdown documentation in a Git repository, with comment threads committed beside the documents.
+- [Git Docs Sync for Confluence](https://marketplace.atlassian.com/apps/467300086/git-docs-sync-for-confluence) - Free Confluence Cloud app that publishes a folder of Markdown files from a public GitHub repo as native, searchable Confluence pages.
 
 ## More Topics
 
